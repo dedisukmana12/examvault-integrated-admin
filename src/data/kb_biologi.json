@@ -1,0 +1,135 @@
+{
+  "kb_id": "kb_biologi_fase_f_2025",
+  "title": "Atomic Knowledge Base — Panduan Mata Pelajaran Biologi",
+  "version": "1.0.0",
+  "language": "id-ID",
+  "source": {
+    "filename": "Capaian_Pembelajaran_Biologi_2025.pdf",
+    "document_type": "Capaian Pembelajaran (CP)",
+    "year": 2025,
+    "publisher": "Kementerian Pendidikan Dasar dan Menengah",
+    "scope": "Fase F"
+  },
+  "purpose": "Referensi tunggal AI/RAG untuk identitas, CP, rasional, tujuan, pedagogi, dan materi esensial mata pelajaran Biologi.",
+  "node_prefix": "BIO",
+  "fidelity_rules": [
+    "Pertahankan istilah teknis dan saintifik biologi.",
+    "Bagi elemen menjadi dua pilar: Pemahaman Biologi dan Keterampilan Proses.",
+    "Fokuskan pedagogi pada pendekatan inkuiri dan kontekstual."
+  ],
+  "architecture": {
+    "levels": [
+      "identity",
+      "rationale_and_goals",
+      "pedagogy",
+      "elements",
+      "essential_materials"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "BIO.identity",
+      "type": "identity",
+      "topic": "Identitas Mata Pelajaran",
+      "phase": ["F"],
+      "source_text": "Biologi adalah kajian fenomena kehidupan dan makhluk hidup yang mencakup struktur, fisiologi, morfologi, habitat, asal-usul serta distribusinya, termasuk kajian perubahan makhluk hidup dari masa ke masa serta inovasi teknologi di bidang biologi.",
+      "retrieval_tags": ["Biologi", "Fase F", "Karakteristik Biologi", "Makhluk Hidup"]
+    },
+    {
+      "id": "BIO.rationale",
+      "type": "rationale",
+      "topic": "Rasionalitas Pembelajaran Biologi",
+      "phase": ["F"],
+      "source_text": "Biologi berperan penting dalam memahami dan mengatasi tantangan abad ke-21 (pengelolaan sumber daya alam, kualitas lingkungan, kesehatan, penyakit). Ilmu ini mendukung pemanfaatan bioteknologi, pelestarian keanekaragaman hayati, dan keseimbangan ekosistem.",
+      "retrieval_tags": ["Tantangan abad 21", "Bioteknologi", "Keanekaragaman hayati", "Keseimbangan ekosistem"]
+    },
+    {
+      "id": "BIO.pedagogy.inquiry",
+      "type": "pedagogy",
+      "topic": "Pendekatan Pembelajaran Mendalam",
+      "phase": ["F"],
+      "source_text": "Pembelajaran mendalam biologi dilakukan melalui pendekatan kontekstual dan inkuiri yang berpusat pada murid. Tahapannya meliputi: memahami, menerapkan, dan merefleksi.",
+      "retrieval_tags": ["Inkuiri", "Kontekstual", "Pembelajaran mendalam", "Memahami", "Menerapkan", "Merefleksi"]
+    },
+    {
+      "id": "BIO.goals",
+      "type": "goals",
+      "topic": "Tujuan Mata Pelajaran",
+      "phase": ["F"],
+      "source_text": "Tujuan belajar Biologi: 1) Sikap spiritual dan menghormati makhluk hidup; 2) Komunikasi & kolaborasi etis; 3) Memahami biologi dari level subseluler hingga ekosistem; 4) Dinamika sains ilmuwan; 5) Memecahkan isu biologi; 6) Menghasilkan gagasan/kreasi berbasis eksperimen; 7) Merencanakan & melaksanakan investigasi ilmiah.",
+      "retrieval_tags": ["Tujuan", "Sikap spiritual", "Investigasi ilmiah", "Pemecahan masalah"]
+    },
+    {
+      "id": "BIO.elements.pemahaman",
+      "type": "element",
+      "topic": "Elemen: Pemahaman Biologi",
+      "phase": ["F"],
+      "source_text": "Pemahaman tentang fakta, konsep, prinsip, hukum, teori, dan model pada materi sel dan bioproses di dalamnya, sistem organ dan keterkaitannya, evolusi, pewarisan sifat, pertumbuhan dan perkembangan, serta bioteknologi modern.",
+      "retrieval_tags": ["Pemahaman Biologi", "Elemen", "Teori", "Konsep"]
+    },
+    {
+      "id": "BIO.elements.keterampilan_proses",
+      "type": "element",
+      "topic": "Elemen: Keterampilan Proses",
+      "phase": ["F"],
+      "source_text": "Keterampilan inkuiri sains meliputi: Mengamati; Mempertanyakan dan memprediksi; Merencanakan dan melakukan penyelidikan; Memproses dan menganalisis data/informasi; Mengevaluasi dan refleksi; serta Mengomunikasikan hasil.",
+      "retrieval_tags": ["Keterampilan Proses", "Metode ilmiah", "Inkuiri", "Penyelidikan"]
+    },
+    {
+      "id": "BIO.cp.pemahaman.fase_f",
+      "type": "learning_outcome",
+      "topic": "CP Pemahaman Biologi Fase F",
+      "phase": ["F"],
+      "source_text": "Pada akhir Fase F, murid mampu: 1) Mengaitkan hubungan antara struktur dan fungsi organel di dalam sel. 2) Menerapkan prinsip-prinsip bioproses yang terjadi di dalam sel. 3) Menganalisis keterkaitan antar sistem organ dalam tubuh untuk merespons stimulus internal dan eksternal. 4) Menerapkan prinsip pewarisan sifat. 5) Mengaitkan mekanisme evolusi dengan proses terjadi keanekaragaman dan kelangsungan hidup organisme. 6) Menerapkan prinsip pertumbuhan dan perkembangan. 7) Menganalisis proses bioteknologi modern.",
+      "retrieval_tags": ["CP Fase F", "Sel", "Bioproses", "Sistem organ", "Pewarisan sifat", "Evolusi", "Pertumbuhan", "Bioteknologi"]
+    },
+    {
+      "id": "BIO.material.sel",
+      "type": "essential_material",
+      "topic": "Struktur, Fungsi Organel, dan Bioproses Sel",
+      "phase": ["F"],
+      "source_text": "Materi esensial mencakup struktur dan fungsi organel sel, serta prinsip bioproses di dalamnya (seperti transpor membran, sintesis protein, reproduksi sel).",
+      "retrieval_tags": ["Organel sel", "Bioproses", "Transpor membran", "Sintesis protein"]
+    },
+    {
+      "id": "BIO.material.sistem_organ",
+      "type": "essential_material",
+      "topic": "Keterkaitan Sistem Organ",
+      "phase": ["F"],
+      "source_text": "Materi esensial mencakup analisis keterkaitan antar sistem organ pada tubuh (manusia/hewan) dalam merespons stimulus/rangsangan internal maupun eksternal demi mempertahankan homeostasis.",
+      "retrieval_tags": ["Sistem organ", "Stimulus", "Homeostasis", "Fisiologi"]
+    },
+    {
+      "id": "BIO.material.genetika",
+      "type": "essential_material",
+      "topic": "Pewarisan Sifat (Genetika)",
+      "phase": ["F"],
+      "source_text": "Materi esensial mencakup penerapan prinsip pewarisan sifat (Hukum Mendel, penyimpangan semu, hereditas manusia).",
+      "retrieval_tags": ["Pewarisan sifat", "Genetika", "Hereditas", "Mendel"]
+    },
+    {
+      "id": "BIO.material.evolusi",
+      "type": "essential_material",
+      "topic": "Evolusi dan Keanekaragaman Hayati",
+      "phase": ["F"],
+      "source_text": "Materi esensial mencakup mekanisme evolusi (seleksi alam, mutasi, spesiasi) dan kaitannya dengan proses terjadinya keanekaragaman serta kelangsungan hidup organisme.",
+      "retrieval_tags": ["Evolusi", "Keanekaragaman hayati", "Spesiasi", "Seleksi alam"]
+    },
+    {
+      "id": "BIO.material.pertumbuhan",
+      "type": "essential_material",
+      "topic": "Pertumbuhan dan Perkembangan",
+      "phase": ["F"],
+      "source_text": "Materi esensial mencakup penerapan prinsip pertumbuhan dan perkembangan pada makhluk hidup (tumbuhan maupun hewan/manusia), termasuk faktor internal dan eksternal yang memengaruhinya.",
+      "retrieval_tags": ["Pertumbuhan", "Perkembangan", "Fitohormon", "Perkecambahan"]
+    },
+    {
+      "id": "BIO.material.bioteknologi",
+      "type": "essential_material",
+      "topic": "Bioteknologi Modern",
+      "phase": ["F"],
+      "source_text": "Materi esensial mencakup analisis proses bioteknologi modern (seperti rekayasa genetika, kultur jaringan, kloning) beserta dampaknya bagi kehidupan manusia dan lingkungan.",
+      "retrieval_tags": ["Bioteknologi modern", "Rekayasa genetika", "Kultur jaringan", "Kloning"]
+    }
+  ]
+}

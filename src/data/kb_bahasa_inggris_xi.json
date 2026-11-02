@@ -1,0 +1,634 @@
+{
+  "kb_metadata": {
+    "id": "KB_ATOMIC_ATP_PROSEM_PROTA_MODUL_AJAR_ENGLISH_XI",
+    "title": "Knowledge Base Atomic Penyusunan ATP, Prosem, Prota, dan Modul Ajar Bahasa Inggris Kelas XI",
+    "source": {
+      "document": "Bahasa Inggris: English for Change untuk SMA/MA Kelas XI",
+      "publisher": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia",
+      "year": 2022,
+      "isbn": "978-602-427-944-8",
+      "curriculum_reference_stated_in_book": "Kurikulum Merdeka",
+      "source_role": "content_reference_and_learning_design_reference"
+    },
+    "principle": "The book is a reference/inspiration source that can be modified according to characteristics, potential, and needs of learners; regulatory requirements must be maintained as a separate layer.",
+    "grade": "XI",
+    "language_subject": "Bahasa Inggris",
+    "units": 5
+  },
+  "atomic_model": {
+    "atom_types": [
+      "source_atom",
+      "unit_atom",
+      "theme_atom",
+      "topic_atom",
+      "skill_atom",
+      "learning_objective_atom",
+      "content_atom",
+      "language_feature_atom",
+      "activity_atom",
+      "assessment_atom",
+      "reflection_atom",
+      "document_atom",
+      "traceability_atom"
+    ],
+    "required_relationships": [
+      "source -> unit",
+      "unit -> theme/topic",
+      "unit -> skill",
+      "skill -> learning_objective",
+      "learning_objective -> content/language_feature",
+      "content -> activity",
+      "activity -> assessment",
+      "unit -> ATP",
+      "ATP -> Prosem",
+      "ATP -> Prota",
+      "ATP -> Modul Ajar"
+    ]
+  },
+  "pedagogical_framework_atoms": {
+    "six_language_skills": [
+      "listening",
+      "speaking",
+      "reading",
+      "viewing",
+      "writing",
+      "presenting"
+    ],
+    "genre_based_approach_stages": [
+      "Building Knowledge of the Field (BKoF)",
+      "Modeling of Text (MoT)",
+      "Joint Construction of Text (JCoT)",
+      "Independent Construction of Text (ICoT)",
+      "Linking Related Texts (LRTs)"
+    ],
+    "featured_activities": [
+      "What Have You Learned So Far?",
+      "A Mid-Lesson Reflection"
+    ],
+    "learning_orientation": [
+      "active learning",
+      "cooperative learning",
+      "critical thinking",
+      "creativity",
+      "collaboration",
+      "communication",
+      "leadership",
+      "productivity",
+      "social skills",
+      "self-regulated learning"
+    ],
+    "lesson_structure": [
+      "Listening",
+      "Speaking",
+      "Reading",
+      "Viewing",
+      "Writing",
+      "Presenting",
+      "End-of-Unit Reflection"
+    ]
+  },
+  "source_atoms": [
+    {
+      "id": "SRC_XI_01",
+      "type": "source_atom",
+      "fact": "The book is an official Grade XI English textbook titled Bahasa Inggris: English for Change untuk SMA/MA Kelas XI.",
+      "source_pages": "1-3"
+    },
+    {
+      "id": "SRC_XI_02",
+      "type": "source_atom",
+      "fact": "The book states that it is developed with reference to Kurikulum Merdeka and may be modified, used as an example, or used as a reference according to learner characteristics, potential, and needs.",
+      "source_pages": "3"
+    },
+    {
+      "id": "SRC_XI_03",
+      "type": "source_atom",
+      "fact": "The book targets communicative competence and states that Grade XI English learning targets B1 CEFR level.",
+      "source_pages": "5"
+    },
+    {
+      "id": "SRC_XI_04",
+      "type": "source_atom",
+      "fact": "Learning activities use Genre-Based Approach with five stages: BKoF, MoT, JCoT, ICoT, and LRTs.",
+      "source_pages": "6, 15-17"
+    },
+    {
+      "id": "SRC_XI_05",
+      "type": "source_atom",
+      "fact": "Each unit consists of six lessons aligned to listening, speaking, reading, viewing, writing, and presenting, followed by reflection.",
+      "source_pages": "5, 14"
+    }
+  ],
+  "units": [
+    {
+      "id": "U1",
+      "title": "Digital Literacies and My Identities",
+      "essential_question": "How do digital literacies help shape my future identities?",
+      "theme": "Digital Safety",
+      "topic": "Digital Literacies for Youth's Identity Construction",
+      "text_types": [
+        "transactional conversation",
+        "authentic text",
+        "multimodal text"
+      ],
+      "keywords": [
+        "social interaction",
+        "discussion",
+        "digital literacies",
+        "future identities",
+        "word stress",
+        "multimodal text",
+        "authors/content creators' purposes",
+        "implicit information",
+        "inference",
+        "subject questions",
+        "social media caption/post",
+        "transitional words",
+        "graphic organizer"
+      ],
+      "vocabulary": [
+        "social media post",
+        "engagement",
+        "interaction"
+      ],
+      "language_features": {
+        "grammar": [
+          "subject questions",
+          "transitional words for showing sequences"
+        ],
+        "pronunciation": [
+          "word stress"
+        ],
+        "expressions": [
+          "stating opinion",
+          "agreeing",
+          "disagreeing"
+        ]
+      },
+      "skills": {
+        "listening": "Correctly categorize expressions for stating opinions, agreeing, and disagreeing in a spoken transactional conversation.",
+        "speaking": "Use suitable expressions for stating opinions, agreeing, and disagreeing in a spoken transactional conversation with peers.",
+        "reading": "Identify an author's/content creator's purpose and make evidence-based inferences to comprehend implicit information in multimodal text.",
+        "viewing": "Comprehend implicit information and infer meaning from multimodal text such as social media posts.",
+        "writing": "Formulate subject questions for an interactive and engaging social media caption and produce an appropriate social media post.",
+        "presenting": "Talk about the process of creating/posting a social media post using transitional words and a graphic organizer."
+      },
+      "learning_objectives": [
+        "categorize opinion, agreement, and disagreement expressions in spoken transactional conversation",
+        "use opinion, agreement, and disagreement expressions appropriately",
+        "identify author/content creator purpose",
+        "make evidence-based inferences about implicit information",
+        "formulate subject questions",
+        "write an interactive and engaging social media caption/post",
+        "use transitional words to show sequence",
+        "present the process of producing a social media post"
+      ],
+      "content_atoms": [
+        "digital literacies",
+        "youth identity construction",
+        "social interaction and discussion",
+        "social media engagement",
+        "future/imagined identities",
+        "critical interpretation of multimodal texts"
+      ],
+      "activities": [
+        "Think-Pair-Share",
+        "RallyRobin",
+        "Inside-Outside Circle",
+        "Team Jigsaw",
+        "Jot Thoughts",
+        "pair dialogue",
+        "social media post/caption creation",
+        "graphic organizer",
+        "individual reflection"
+      ],
+      "products": [
+        "interactive social media caption/post",
+        "graphic organizer showing sequence",
+        "1-2 minute talk",
+        "recorded presentation/dialogue"
+      ],
+      "assessment_atoms": [
+        "identification of expressions",
+        "appropriateness of spoken expressions",
+        "inference from multimodal text",
+        "subject-question accuracy",
+        "quality of social media caption/post",
+        "presentation performance",
+        "end-of-unit reflection"
+      ]
+    },
+    {
+      "id": "U2",
+      "title": "Love Your Environment",
+      "essential_question": "What can you do with your environment?",
+      "theme": "Environmental Awareness",
+      "topic": "Preserving Our Environment",
+      "text_types": [
+        "descriptive text"
+      ],
+      "keywords": [
+        "waste management",
+        "domestic waste",
+        "organized waste",
+        "unorganized waste",
+        "describing places",
+        "five senses",
+        "adjective phrases",
+        "punctuation"
+      ],
+      "vocabulary": [
+        "types of waste",
+        "five senses",
+        "adjective phrases",
+        "domestic waste"
+      ],
+      "language_features": {
+        "grammar": [
+          "present tense",
+          "noun of place + that ...",
+          "noun of place + where ..."
+        ],
+        "descriptive_devices": [
+          "sight",
+          "taste",
+          "touch",
+          "smell",
+          "sound"
+        ],
+        "mechanics": [
+          "punctuation"
+        ]
+      },
+      "skills": {
+        "listening": "Identify types of expressions related to issues of domestic waste and understand descriptive language.",
+        "speaking": "Use expressions and descriptive phrases related to domestic waste and places.",
+        "reading": "Identify the main idea and the author's purpose in a descriptive text.",
+        "viewing": "Identify core and specific information in descriptive texts or visual materials.",
+        "writing": "Write a descriptive text about a place using five senses, adjective phrases, appropriate grammar, and punctuation.",
+        "presenting": "Present a digital or non-digital poster/description of an interesting or clean place."
+      },
+      "learning_objectives": [
+        "identify expressions related to domestic waste",
+        "use descriptive vocabulary and five-senses language",
+        "identify main ideas and author purpose",
+        "identify core and specific information",
+        "use present tense in descriptions",
+        "use adjective clauses for places",
+        "write descriptive text about a place",
+        "apply correct punctuation",
+        "design and present a digital or non-digital poster"
+      ],
+      "content_atoms": [
+        "domestic waste",
+        "organized and unorganized waste",
+        "waste management",
+        "describing places",
+        "five senses",
+        "adjective phrases",
+        "adjective clauses for places"
+      ],
+      "activities": [
+        "Think-Pair-Share",
+        "Talking Chip",
+        "Give-One-Get-One",
+        "group discussion",
+        "five-senses observation",
+        "graphic organizer",
+        "poster creation",
+        "group presentation",
+        "reflection"
+      ],
+      "products": [
+        "descriptive text",
+        "digital/non-digital poster",
+        "oral explanation/presentation"
+      ],
+      "assessment_atoms": [
+        "expression identification",
+        "descriptive vocabulary",
+        "main idea",
+        "author purpose",
+        "core/specific information",
+        "grammar accuracy",
+        "punctuation",
+        "descriptive writing product",
+        "poster/presentation performance",
+        "reflection"
+      ]
+    },
+    {
+      "id": "U3",
+      "title": "Healthy Life for a Healthy Future",
+      "essential_question": "How important is a healthy living?",
+      "theme": "Nutrition and Wellness",
+      "topic": "Healthy Life for a Healthy Future",
+      "text_types": [
+        "transactional conversation",
+        "analytical exposition text"
+      ],
+      "keywords": [
+        "healthy life",
+        "healthy food",
+        "raw food",
+        "cooked food",
+        "diseases",
+        "sport",
+        "obesity",
+        "sentence stress",
+        "analytical exposition"
+      ],
+      "vocabulary": [
+        "words related to healthy life"
+      ],
+      "language_features": {
+        "grammar": [
+          "simple present tense",
+          "internal conjunction"
+        ],
+        "pronunciation": [
+          "sentence stress"
+        ],
+        "expressions": [
+          "giving opinion",
+          "defending opinion"
+        ]
+      },
+      "skills": {
+        "listening": "Identify expressions of giving and defending opinions in a spoken transactional conversation.",
+        "speaking": "Use suitable expressions of giving and defending opinions in a spoken transactional conversation.",
+        "reading": "Identify main ideas and author's purpose in analytical exposition text.",
+        "viewing": "Identify detailed information in multimodal analytical exposition text.",
+        "writing": "Produce an analytical exposition text about healthy life using appropriate conjunctions and language features.",
+        "presenting": "Demonstrate an analytical exposition text through a group debate."
+      },
+      "learning_objectives": [
+        "identify expressions for giving opinions",
+        "identify expressions for defending opinions",
+        "use giving and defending opinion expressions",
+        "apply sentence stress",
+        "identify main idea and author purpose",
+        "identify detailed information",
+        "identify thesis, arguments, and reiteration",
+        "use simple present tense",
+        "use internal and causal conjunctions",
+        "write analytical exposition text",
+        "participate in a group debate"
+      ],
+      "content_atoms": [
+        "healthy lifestyle",
+        "healthy and unhealthy food",
+        "exercise",
+        "diseases and obesity",
+        "analytical exposition purpose",
+        "thesis",
+        "arguments",
+        "reiteration",
+        "opinion and defense of opinion"
+      ],
+      "activities": [
+        "Think-Pair-Share",
+        "video observation",
+        "discussion",
+        "debate preparation",
+        "graphic organizer",
+        "drafting and peer feedback",
+        "revision",
+        "group debate",
+        "reflection"
+      ],
+      "products": [
+        "analytical exposition text",
+        "graphic organizer",
+        "group debate performance"
+      ],
+      "assessment_atoms": [
+        "expression identification",
+        "spoken interaction",
+        "sentence stress",
+        "main idea",
+        "author purpose",
+        "detailed information",
+        "text structure",
+        "grammar and conjunction accuracy",
+        "analytical exposition product",
+        "debate performance",
+        "reflection"
+      ]
+    },
+    {
+      "id": "U4",
+      "title": "Indonesian Environmental Figures",
+      "essential_question": "How to save the earth?",
+      "theme": "Environmental Awareness",
+      "topic": "Indonesian Environmental Figures",
+      "text_types": [
+        "transactional conversation",
+        "narrative text"
+      ],
+      "keywords": [
+        "environmental preservation",
+        "environmental figures",
+        "narrative text",
+        "main idea",
+        "author purpose",
+        "detailed information",
+        "simple past",
+        "intonation",
+        "presentation"
+      ],
+      "vocabulary": [
+        "words related to environmental preservation"
+      ],
+      "language_features": {
+        "grammar": [
+          "simple past tense"
+        ],
+        "pronunciation": [
+          "grammatical function of intonation"
+        ],
+        "expressions": [
+          "starting a transactional conversation",
+          "continuing a transactional conversation",
+          "ending a transactional conversation"
+        ]
+      },
+      "skills": {
+        "listening": "Identify expressions for starting, continuing, and ending a transactional conversation.",
+        "speaking": "Use expressions for starting, continuing, and ending a transactional conversation with appropriate intonation.",
+        "reading": "Identify main ideas, author purpose, and detailed information in a narrative text.",
+        "viewing": "Process information about Indonesian environmental figures through visual/digital materials.",
+        "writing": "Write a linear narrative text about an environmental figure using simple past tense.",
+        "presenting": "Present a digitally or non-digitally designed poster about an environmental figure."
+      },
+      "learning_objectives": [
+        "identify conversation-opening, continuation, and closing expressions",
+        "use transactional conversation expressions with correct intonation",
+        "identify main ideas and author purpose in narrative text",
+        "identify detailed information",
+        "understand narrative sequence",
+        "use simple past tense",
+        "write a linear narrative about an environmental figure",
+        "design a digital/non-digital poster",
+        "present information about an environmental figure"
+      ],
+      "content_atoms": [
+        "Indonesian environmental figures",
+        "environmental preservation",
+        "narrative text",
+        "linear narrative",
+        "biographical/environmental stories",
+        "simple past",
+        "presentation skills"
+      ],
+      "activities": [
+        "transactional conversation practice",
+        "intonation practice",
+        "narrative reading",
+        "information extraction",
+        "poster creation",
+        "group presentation",
+        "individual environmental-action poster",
+        "reflection"
+      ],
+      "products": [
+        "linear narrative text",
+        "environmental figure poster",
+        "presentation"
+      ],
+      "assessment_atoms": [
+        "conversation expression identification",
+        "intonation",
+        "main idea",
+        "author purpose",
+        "detailed information",
+        "narrative structure",
+        "simple past accuracy",
+        "poster quality",
+        "presentation performance",
+        "reflection"
+      ]
+    },
+    {
+      "id": "U5",
+      "title": "Personal Money Management",
+      "essential_question": "Why is financial literacy important?",
+      "theme": "Financial Literacy",
+      "topic": "Personal Money Management",
+      "text_types": [
+        "procedure text"
+      ],
+      "keywords": [
+        "financial literacy",
+        "money management",
+        "bank account",
+        "comparative and superlative degree",
+        "procedure text",
+        "imperative"
+      ],
+      "vocabulary": [
+        "adjectives and adverbs in comparative and superlative degree",
+        "words related to sequence",
+        "personal money management"
+      ],
+      "language_features": {
+        "grammar": [
+          "imperatives",
+          "comparative degree",
+          "superlative degree"
+        ]
+      },
+      "skills": {
+        "listening": "Identify types of expressions used in a procedure text about personal money management.",
+        "speaking": "Identify and use comparative and superlative forms in monologues or dialogues about personal money management.",
+        "reading": "Identify main ideas and writer's purpose in procedure texts about personal money management.",
+        "viewing": "Synthesize and evaluate core and detailed information in procedure texts.",
+        "writing": "Write a procedure text about personal money management using appropriate structure and language.",
+        "presenting": "Present a digital or non-digital poster about personal money management."
+      },
+      "learning_objectives": [
+        "identify expressions used in procedure texts",
+        "identify and use comparative and superlative forms",
+        "identify main idea and writer purpose",
+        "identify core and detailed information",
+        "identify generic structure of procedure text",
+        "use imperative forms",
+        "use sequence language",
+        "write procedure text",
+        "transform process information into written procedure",
+        "design and present a financial-literacy poster"
+      ],
+      "content_atoms": [
+        "financial literacy",
+        "personal money management",
+        "saving",
+        "budgeting",
+        "banking transactions",
+        "ATM procedures",
+        "online shopping",
+        "online transportation",
+        "procedure text",
+        "generic structure"
+      ],
+      "activities": [
+        "Think-Pair-Share",
+        "video observation",
+        "procedure analysis",
+        "graphic organizer",
+        "process-to-text transformation",
+        "poster creation",
+        "presentation practice",
+        "peer feedback",
+        "reflection"
+      ],
+      "products": [
+        "procedure text",
+        "digital/non-digital financial-literacy poster",
+        "presentation"
+      ],
+      "assessment_atoms": [
+        "expression identification",
+        "comparative/superlative accuracy",
+        "main idea",
+        "writer purpose",
+        "core/detailed information",
+        "procedure structure",
+        "imperative and sequence language",
+        "procedure writing",
+        "poster/presentation performance",
+        "reflection"
+      ]
+    }
+  ],
+  "cross_unit_atoms": {
+    "progression": [
+      "transactional interaction and digital literacy",
+      "descriptive text and environmental awareness",
+      "analytical exposition and opinion defense",
+      "narrative text and environmental figures",
+      "procedure text and financial literacy"
+    ],
+    "skill_integration": "Each unit integrates listening, speaking, reading, viewing, writing, and presenting.",
+    "genre_progression": [
+      "transactional conversation/authentic multimodal text",
+      "descriptive text",
+      "analytical exposition",
+      "narrative text",
+      "procedure text"
+    ],
+    "language_progression": [
+      "subject questions, sequence markers, word stress",
+      "present tense, adjective phrases/clauses, punctuation",
+      "simple present, conjunctions, sentence stress",
+      "simple past, intonation",
+      "imperatives, comparative/superlative forms, sequence language"
+    ],
+    "product_progression": [
+      "social media caption/post and talk",
+      "descriptive text and poster",
+      "analytical exposition and debate",
+      "narrative text and environmental poster",
+      "procedure text and financial-literacy poster"
+    ]
+  }
+}

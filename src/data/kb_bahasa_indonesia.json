@@ -1,0 +1,444 @@
+{
+  "metadata": {
+    "title": "Atomic Knowledge Base — Panduan Mata Pelajaran Bahasa Indonesia",
+    "subject": "Bahasa Indonesia",
+    "phases": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "F Tingkat Lanjut"
+    ],
+    "source": "Panduan Mata Pelajaran Bahasa Indonesia Fase A-F dan Fase F Tingkat Lanjut",
+    "publisher": "Pusat Kurikulum dan Pembelajaran",
+    "year": 2025,
+    "purpose": "Basis pengetahuan AI/RAG untuk CP, materi esensial, TP, ATP, pedagogi, asesmen, aktivitas, dan terminologi.",
+    "fidelity_rule": "Informasi yang tidak didukung sumber ditandai [Data Tidak Tersedia]."
+  },
+  "architecture": {
+    "levels": {
+      "L1": "Identitas dan filosofi",
+      "L2": "Taksonomi materi",
+      "L3": "Framework pedagogi",
+      "L4": "Operasional dan implementasi",
+      "L5": "Terminologi"
+    },
+    "relations": [
+      "prerequisite",
+      "next",
+      "supports",
+      "applies_to",
+      "assessed_by"
+    ]
+  },
+  "identity": {
+    "function": "Mata pelajaran penghela literasi.",
+    "core_foundations": [
+      "bahasa",
+      "sastra",
+      "berpikir"
+    ],
+    "elements": [
+      "Menyimak",
+      "Membaca dan Memirsa",
+      "Berbicara dan Mempresentasikan",
+      "Menulis"
+    ],
+    "literacy_focus": [
+      "membaca",
+      "menulis",
+      "berbicara",
+      "menyimak",
+      "mengolah informasi",
+      "bernalar"
+    ]
+  },
+  "pedagogy": {
+    "framework": "Pembelajaran Mendalam",
+    "principles": [
+      "berkesadaran",
+      "bermakna",
+      "menggembirakan"
+    ],
+    "learning_experience": [
+      "memahami",
+      "mengaplikasi",
+      "merefleksi"
+    ],
+    "graduate_profile": [
+      "keimanan dan ketakwaan terhadap Tuhan YME",
+      "kewargaan",
+      "penalaran kritis",
+      "kreativitas",
+      "kolaborasi",
+      "kemandirian",
+      "kesehatan",
+      "komunikasi"
+    ],
+    "genre_pedagogy": [
+      "penjelasan / building the context",
+      "pemodelan / modelling",
+      "pembimbingan / joint construction",
+      "pemandirian / independent construction"
+    ],
+    "learning_framework": [
+      "praktik pedagogis",
+      "kemitraan pembelajaran",
+      "lingkungan pembelajaran",
+      "pemanfaatan digital"
+    ]
+  },
+  "atp_rules": [
+    "Analisis CP sebelum merumuskan tujuan pembelajaran.",
+    "Turunkan kompetensi dan lingkup materi menjadi tujuan pembelajaran.",
+    "Urutkan tujuan dari sederhana ke kompleks dengan scaffolding.",
+    "Nomor elemen CP bukan urutan pembelajaran.",
+    "Integrasikan keterampilan reseptif dan produktif sesuai kebutuhan.",
+    "ATP merupakan inspirasi yang dapat disesuaikan dengan karakteristik murid dan satuan pendidikan."
+  ],
+  "assessment": {
+    "stages": [
+      "asesmen awal",
+      "asesmen selama proses",
+      "asesmen akhir"
+    ],
+    "formative_functions": [
+      "mengetahui pemahaman",
+      "memberikan umpan balik",
+      "memperbaiki proses",
+      "memperbaiki draf",
+      "memperkuat kompetensi"
+    ],
+    "summative_examples": [
+      "produk teks",
+      "presentasi",
+      "publikasi digital",
+      "kualitas struktur dan kaidah bahasa",
+      "interpretasi dan penyampaian pesan"
+    ]
+  },
+  "glossary": {
+    "teks_aural": "Teks yang dibacakan dan/atau didengarkan.",
+    "teks_multimodal": "Teks yang menggunakan lebih dari satu moda, seperti teks tertulis dengan teks lisan, audio, video, gambar, atau animasi.",
+    "literasi": "Kemampuan individu dalam mengolah informasi dan pengetahuan untuk kecakapan hidup.",
+    "asesmen": "Kegiatan mengumpulkan, menganalisis, dan menginterpretasi data/informasi tentang murid dan lingkungannya untuk memperoleh gambaran kondisi individu.",
+    "kontekstual": "Berhubungan dengan konteks, situasi, dan kondisi.",
+    "argumen": "Alasan yang dapat dipakai untuk memperkuat atau menolak suatu pendapat, pendirian, atau gagasan.",
+    "linguistik": "Ilmu tentang bahasa atau telaah bahasa secara ilmiah.",
+    "akurat": "Terbebas dari kesalahan atau kekeliruan."
+  },
+  "source_traceability": {
+    "document_structure": {
+      "CP": 7,
+      "components_CP": 8,
+      "essential_material_mapping": 26,
+      "deep_learning_planning": 71,
+      "ATP": 81,
+      "implementation": 103
+    },
+    "note": "Nomor halaman mengikuti struktur dokumen PDF; untuk node yang memerlukan verifikasi halaman spesifik, gunakan source_page dari ekstraksi file."
+  },
+  "phase_map": {
+    "A": {
+      "typical_level": "Kelas I-II SD/MI/Program Paket A",
+      "elements": {
+        "Menyimak": [
+          "teks nonsastra aural",
+          "percakapan tentang diri, keluarga, lingkungan",
+          "teks instruksi",
+          "cerita anak",
+          "fabel",
+          "puisi anak"
+        ],
+        "Membaca dan Memirsa": [
+          "kata sederhana",
+          "bacaan/tayangan tentang diri, keluarga, kesehatan, lingkungan",
+          "cerita bergambar",
+          "instruksi",
+          "fabel",
+          "puisi anak"
+        ],
+        "Berbicara dan Mempresentasikan": [
+          "bertanya dan menjawab",
+          "menanggapi komentar",
+          "menceritakan kembali",
+          "mengungkapkan perasaan dan gagasan"
+        ],
+        "Menulis": [
+          "menulis permulaan",
+          "perkembangan tulisan tangan",
+          "teks sederhana tentang diri, keluarga, lingkungan"
+        ]
+      }
+    },
+    "B": {
+      "typical_level": "Kelas III-IV SD/MI/Program Paket A",
+      "elements": {
+        "Menyimak": [
+          "ide pokok",
+          "teks eksposisi sederhana",
+          "argumentasi sederhana",
+          "laporan perjalanan",
+          "petunjuk arah",
+          "cerita inspiratif",
+          "dongeng",
+          "cerita anak",
+          "puisi anak"
+        ],
+        "Membaca dan Memirsa": [
+          "kata baru",
+          "ide pokok",
+          "ide pendukung",
+          "pesan",
+          "informasi",
+          "teks sastra dan nonsastra cetak/elektronik"
+        ],
+        "Berbicara dan Mempresentasikan": [
+          "pendapat",
+          "pilihan kata",
+          "gestur",
+          "volume",
+          "intonasi",
+          "tata cara diskusi",
+          "menceritakan kembali"
+        ],
+        "Menulis": [
+          "kalimat beragam",
+          "kaidah kebahasaan",
+          "kosakata baru bermakna denotatif",
+          "teks sesuai konteks"
+        ]
+      }
+    },
+    "C": {
+      "typical_level": "Kelas V-VI SD/MI/Program Paket A",
+      "elements": {
+        "Menyimak": [
+          "prosedur sederhana",
+          "pengumuman",
+          "laporan hasil observasi sederhana",
+          "eksplanasi sederhana",
+          "laporan hasil wawancara",
+          "pantun",
+          "drama anak",
+          "cerita rakyat"
+        ],
+        "Membaca dan Memirsa": [
+          "pola kombinasi huruf",
+          "kefasihan membaca",
+          "teks nonsastra",
+          "informasi dan nilai teks sastra visual/audiovisual"
+        ],
+        "Berbicara dan Mempresentasikan": [
+          "presentasi gagasan",
+          "kalimat efektif",
+          "kesantunan",
+          "perasaan berdasarkan fakta/imajinasi",
+          "kosakata"
+        ],
+        "Menulis": [
+          "kaidah kebahasaan",
+          "makna denotatif dan konotatif",
+          "prosedur sederhana",
+          "pengumuman",
+          "LHO sederhana",
+          "eksplanasi sederhana",
+          "laporan wawancara",
+          "pantun",
+          "drama anak",
+          "cerita rakyat"
+        ]
+      }
+    },
+    "D": {
+      "typical_level": "Kelas VII-IX SMP/MTs/Program Paket B",
+      "elements": {
+        "Menyimak": [
+          "gagasan",
+          "pandangan",
+          "arahan",
+          "pesan",
+          "teks deskripsi",
+          "prosedur",
+          "berita",
+          "tanggapan",
+          "LHO",
+          "iklan",
+          "resensi",
+          "pidato",
+          "cerpen",
+          "drama",
+          "puisi rakyat",
+          "legenda"
+        ],
+        "Membaca dan Memirsa": [
+          "makna tersurat dan tersirat",
+          "kepedulian",
+          "pro/kontra",
+          "kualitas dan kredibilitas",
+          "artikel ilmiah populer",
+          "komik",
+          "puisi",
+          "cerpen",
+          "drama"
+        ],
+        "Berbicara dan Mempresentasikan": [
+          "presentasi gagasan/pandangan/arahan/pesan",
+          "usul dan solusi",
+          "monolog",
+          "dialog",
+          "gelar wicara",
+          "ungkapan kepedulian"
+        ],
+        "Menulis": [
+          "gagasan",
+          "pandangan",
+          "arahan",
+          "pesan",
+          "pengalaman",
+          "imajinasi",
+          "kosakata denotatif",
+          "konotatif",
+          "kiasan",
+          "teks multimodal"
+        ]
+      }
+    },
+    "E": {
+      "typical_level": "Kelas X SMA/MA/SMK/Program Paket C",
+      "elements": {
+        "Menyimak": [
+          "LHO kompleks",
+          "eksposisi kompleks",
+          "negosiasi",
+          "anekdot",
+          "unsur intrinsik dan ekstrinsik cerpen",
+          "hikayat"
+        ],
+        "Membaca dan Memirsa": [
+          "gagasan/pandangan/arahan/pesan",
+          "makna tersurat dan tersirat",
+          "gagasan dan perasaan",
+          "kualitas/kredibilitas",
+          "LHO kompleks",
+          "eksposisi kompleks",
+          "negosiasi",
+          "anekdot",
+          "cerpen",
+          "hikayat"
+        ],
+        "Berbicara dan Mempresentasikan": [
+          "monolog",
+          "dialog",
+          "gelar wicara",
+          "presentasi sistematis, kritis, kreatif",
+          "teks multimodal"
+        ],
+        "Menulis": [
+          "gagasan",
+          "pandangan",
+          "arahan",
+          "pesan",
+          "imajinasi",
+          "penulisan logis, kritis, kreatif",
+          "publikasi"
+        ]
+      }
+    },
+    "F": {
+      "typical_level": "Kelas XI-XII SMA/MA/SMK/Program Paket C",
+      "elements": {
+        "Menyimak": [
+          "argumentasi kompleks",
+          "persuasi",
+          "berita",
+          "karya ilmiah",
+          "prosedur kompleks",
+          "eksplanasi kompleks",
+          "esai",
+          "surat resmi",
+          "puisi",
+          "drama",
+          "novel"
+        ],
+        "Membaca dan Memirsa": [
+          "logika berpikir",
+          "evaluasi",
+          "refleksi",
+          "apresiasi",
+          "debat",
+          "gelar wicara",
+          "persuasi",
+          "berita media sosial",
+          "karya ilmiah",
+          "prosedur kompleks",
+          "eksplanasi kompleks",
+          "esai",
+          "surat resmi",
+          "puisi",
+          "drama",
+          "novel"
+        ],
+        "Berbicara dan Mempresentasikan": [
+          "gagasan",
+          "perasaan",
+          "pandangan",
+          "arahan",
+          "norma kesopanan",
+          "budaya Indonesia",
+          "argumentasi penelitian",
+          "presentasi logis, sistematis, kritis, kreatif"
+        ],
+        "Menulis": [
+          "gagasan",
+          "pandangan",
+          "imajinasi",
+          "pengetahuan metakognisi",
+          "struktur dan kaidah kebahasaan",
+          "publikasi"
+        ]
+      }
+    },
+    "F_Tingkat_Lanjut": {
+      "typical_level": "Kelas XI-XII SMA/SMK/MA/MAK/Program Paket C",
+      "elements": {
+        "Menyimak": [
+          "konteks sosial",
+          "konteks akademis",
+          "dunia kerja",
+          "biografi",
+          "proposal",
+          "surat lamaran pekerjaan",
+          "feature",
+          "puisi, prosa, drama, film pendek/skenario"
+        ],
+        "Membaca dan Memirsa": [
+          "teks sosial",
+          "teks akademis",
+          "teks dunia kerja",
+          "biografi",
+          "proposal",
+          "surat lamaran pekerjaan",
+          "feature",
+          "sastra Indonesia dan dunia"
+        ],
+        "Berbicara dan Mempresentasikan": [
+          "presentasi teks sosial, akademis, dunia kerja",
+          "berbagai media",
+          "sastra digital",
+          "pertunjukan"
+        ],
+        "Menulis": [
+          "teks sosial",
+          "teks akademis",
+          "teks dunia kerja",
+          "modifikasi karya sastra",
+          "multimedia",
+          "publikasi"
+        ]
+      }
+    }
+  }
+}

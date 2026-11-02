@@ -1,0 +1,1027 @@
+{
+  "title": "Atomic Knowledge Base — Pendidikan Pancasila Fase A–F",
+  "source": {
+    "filename": "2. Final Panduan Mata Pelajaran Pendidikan Pancasila_12_09_2025_Revisi 3.pdf",
+    "publisher": "Badan Standar, Kurikulum, dan Asesmen Pendidikan — Kementerian Pendidikan Dasar dan Menengah Republik Indonesia",
+    "year": 2025,
+    "pages": 203,
+    "scope": "Fase A–F; SD/MI/Program Paket A, SMP/MTs/Paket B, SMA/MA/SMK/MAK/Paket C"
+  },
+  "level_1_identity_philosophy": {
+    "subject": "Pendidikan Pancasila",
+    "target": "Fase A–F",
+    "rationale": [
+      "Pancasila sebagai dasar negara, pandangan hidup bangsa, dan ideologi negara harus diinternalisasikan dalam kehidupan bermasyarakat, berbangsa, dan bernegara.",
+      "Pendidikan Pancasila merupakan mata pelajaran wajib pada setiap jenjang dan berperan dalam pembentukan karakter, jiwa kebangsaan, dan pembangunan karakter manusia Indonesia.",
+      "Muatan Pendidikan Pancasila dan Pendidikan Kewarganegaraan bertujuan membentuk warga negara yang cerdas, amanah, jujur, berbudi pekerti luhur, bertanggung jawab, dan memiliki kompetensi kewarganegaraan.",
+      "Pembelajaran diarahkan agar tidak berhenti pada pengetahuan, tetapi berkembang menjadi jiwa kebangsaan, pengorbanan kepada negara, sikap, karakter, dan keterampilan.",
+      "Pendekatan pembelajaran mendalam digunakan untuk mengembangkan keterampilan, sikap, dan pengetahuan agar murid menjadi warga negara yang unggul dan berkarakter dalam kehidupan sehari-hari."
+    ],
+    "characteristics": {
+      "core_characteristics": [
+        "Menumbuhkembangkan wawasan kebangsaan dan karakter ber-Pancasila.",
+        "Menumbuhkan kesadaran untuk melaksanakan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 serta menjaga ketertiban dalam kehidupan bermasyarakat, berbangsa, dan bernegara.",
+        "Menciptakan keselarasan dengan sesama, mencegah konflik, dan mewujudkan persatuan dan kesatuan dalam bingkai Bhinneka Tunggal Ika.",
+        "Menjaga lingkungan dan mempertahankan keutuhan wilayah Negara Kesatuan Republik Indonesia.",
+        "Mengembangkan praktik belajar kewarganegaraan yang berlandaskan Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Bhinneka Tunggal Ika, dan Negara Kesatuan Republik Indonesia."
+      ],
+      "elements": [
+        "Pancasila",
+        "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+        "Bhinneka Tunggal Ika",
+        "Negara Kesatuan Republik Indonesia"
+      ]
+    },
+    "subject_goals": [
+      "Membentuk murid berakhlak mulia dengan didasari keimanan dan ketakwaan kepada Tuhan Yang Maha Esa melalui mencintai sesama manusia, lingkungan, dan negara untuk mewujudkan persatuan, demokrasi, dan keadilan sosial dengan penyadaran, keteladanan, dan pembiasaan.",
+      "Memahami makna dan nilai-nilai Pancasila sebagai dasar negara, pandangan hidup, dan ideologi negara serta mempraktikkannya dalam kehidupan bermasyarakat, berbangsa, dan bernegara.",
+      "Mematuhi konstitusi dan norma yang berlaku serta menyelaraskan perwujudan hak dan kewajiban dalam kehidupan bermasyarakat, berbangsa, dan bernegara di masyarakat global.",
+      "Memahami jati diri sebagai bagian dari bangsa Indonesia yang berbhineka, mewujudkan persatuan dan kesatuan dalam bingkai Bhinneka Tunggal Ika, bersikap adil, dan menghargai perbedaan SARA, status sosial-ekonomi, jenis kelamin, dan penyandang disabilitas.",
+      "Mempertahankan keutuhan Negara Kesatuan Republik Indonesia dan berperan aktif dalam menciptakan perdamaian dunia."
+    ]
+  },
+  "level_2_taxonomy": [
+    {
+      "phase": "A",
+      "grade": "Kelas I–II SD/MI/Program Paket A",
+      "element": "Pancasila",
+      "essential_material": [
+        "Bendera Negara Indonesia",
+        "Lagu Kebangsaan Indonesia Raya",
+        "Lambang Negara Garuda Pancasila",
+        "Simbol Pancasila",
+        "Sila-sila Pancasila",
+        "Nilai-nilai Pancasila di lingkungan keluarga."
+      ],
+      "final_competency": "Mengenal simbol negara dan sila-sila Pancasila serta menerapkan nilai-nilai Pancasila di lingkungan keluarga.",
+      "source_pages": "17–29"
+    },
+    {
+      "phase": "A",
+      "grade": "Kelas I–II SD/MI/Program Paket A",
+      "element": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "essential_material": [
+        "Aturan di lingkungan keluarga",
+        "sikap mematuhi aturan",
+        "contoh sikap dan perilaku mematuhi aturan di lingkungan keluarga."
+      ],
+      "final_competency": "Mengenal aturan di lingkungan keluarga; menunjukkan dan menceritakan sikap mematuhi aturan.",
+      "source_pages": "17–29"
+    },
+    {
+      "phase": "A",
+      "grade": "Kelas I–II SD/MI/Program Paket A",
+      "element": "Bhinneka Tunggal Ika",
+      "essential_material": [
+        "Semboyan Bhinneka Tunggal Ika",
+        "identitas diri sesuai jenis kelamin, hobi, bahasa, agama dan kepercayaan di lingkungan sekitar rumah."
+      ],
+      "final_competency": "Mengenal Bhinneka Tunggal Ika; mengidentifikasi dan menghargai identitas diri.",
+      "source_pages": "17–29"
+    },
+    {
+      "phase": "A",
+      "grade": "Kelas I–II SD/MI/Program Paket A",
+      "element": "Negara Kesatuan Republik Indonesia",
+      "essential_material": [
+        "Karakteristik lingkungan tempat tinggal dan sekolah sebagai bagian wilayah NKRI",
+        "perilaku bekerja sama menjaga lingkungan dalam keberagaman."
+      ],
+      "final_competency": "Mengenal karakteristik lingkungan tempat tinggal/sekolah sebagai bagian NKRI; menceritakan dan mempraktikkan kerja sama menjaga lingkungan.",
+      "source_pages": "17–29"
+    },
+    {
+      "phase": "B",
+      "grade": "Kelas III–IV SD/MI/Program Paket A",
+      "element": "Pancasila",
+      "essential_material": [
+        "Makna sila-sila Pancasila dan penerapannya",
+        "karakter para perumus Pancasila",
+        "sikap bangga menjadi anak Indonesia dengan bahasa Indonesia sebagai bahasa persatuan."
+      ],
+      "final_competency": "Mengidentifikasi makna dan penerapan sila; mengenal karakter perumus; menunjukkan kebanggaan berbahasa Indonesia sebagai bahasa persatuan.",
+      "source_pages": "30–42"
+    },
+    {
+      "phase": "B",
+      "grade": "Kelas III–IV SD/MI/Program Paket A",
+      "element": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "essential_material": [
+        "Aturan di sekolah dan lingkungan tempat tinggal",
+        "hak dan kewajiban anggota keluarga dan warga sekolah."
+      ],
+      "final_competency": "Mengidentifikasi dan melaksanakan aturan; mengidentifikasi dan menerapkan hak serta kewajiban.",
+      "source_pages": "30–42"
+    },
+    {
+      "phase": "B",
+      "grade": "Kelas III–IV SD/MI/Program Paket A",
+      "element": "Bhinneka Tunggal Ika",
+      "essential_material": [
+        "Identitas keluarga dan teman sesuai budaya, suku bangsa, bahasa, agama dan kepercayaan."
+      ],
+      "final_competency": "Membedakan dan menghargai identitas keluarga dan teman dalam keberagaman.",
+      "source_pages": "30–42"
+    },
+    {
+      "phase": "B",
+      "grade": "Kelas III–IV SD/MI/Program Paket A",
+      "element": "Negara Kesatuan Republik Indonesia",
+      "essential_material": [
+        "Lingkungan RT, RW, desa/kelurahan, kecamatan sebagai bagian NKRI",
+        "kerja sama dalam keberagaman suku bangsa, sosial, budaya yang terikat persatuan dan kesatuan."
+      ],
+      "final_competency": "Mengidentifikasi wilayah tempat tinggal sebagai bagian NKRI; menunjukkan kerja sama dalam keberagaman.",
+      "source_pages": "30–42"
+    },
+    {
+      "phase": "C",
+      "grade": "Kelas V–VI SD/MI/Program Paket A",
+      "element": "Pancasila",
+      "essential_material": [
+        "Kronologi sejarah kelahiran Pancasila",
+        "sikap para perumus",
+        "sila-sila sebagai satu kesatuan utuh",
+        "nilai Pancasila sebagai dasar negara dan pandangan hidup bangsa."
+      ],
+      "final_competency": "Memahami kronologi; meneladani sikap perumus; menghubungkan sila sebagai kesatuan; menguraikan makna nilai Pancasila.",
+      "source_pages": "43–57"
+    },
+    {
+      "phase": "C",
+      "grade": "Kelas V–VI SD/MI/Program Paket A",
+      "element": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "essential_material": [
+        "Bentuk norma, hak, kewajiban sebagai warga negara",
+        "Pembukaan UUD NRI Tahun 1945",
+        "musyawarah untuk kesepakatan dan aturan bersama."
+      ],
+      "final_competency": "Mengimplementasikan norma, hak, kewajiban; mengenal Pembukaan; mempraktikkan musyawarah.",
+      "source_pages": "43–57"
+    },
+    {
+      "phase": "C",
+      "grade": "Kelas V–VI SD/MI/Program Paket A",
+      "element": "Bhinneka Tunggal Ika",
+      "essential_material": [
+        "Sikap menghormati, menjaga, dan melestarikan keberagaman budaya dalam bingkai Bhinneka Tunggal Ika."
+      ],
+      "final_competency": "Menyajikan hasil identifikasi sikap menghormati, menjaga, dan melestarikan keberagaman budaya.",
+      "source_pages": "43–57"
+    },
+    {
+      "phase": "C",
+      "grade": "Kelas V–VI SD/MI/Program Paket A",
+      "element": "Negara Kesatuan Republik Indonesia",
+      "essential_material": [
+        "Wilayah kabupaten/kota dan provinsi sebagai bagian NKRI",
+        "gotong royong menjaga persatuan sebagai wujud bela negara."
+      ],
+      "final_competency": "Mengenal wilayah dalam konteks kabupaten/kota dan provinsi; menunjukkan gotong royong sebagai wujud bela negara.",
+      "source_pages": "43–57"
+    },
+    {
+      "phase": "D",
+      "grade": "Kelas VII–IX SMP/MTs/Program Paket B",
+      "element": "Pancasila",
+      "essential_material": [
+        "Sejarah kelahiran Pancasila",
+        "kedudukan Pancasila sebagai dasar negara, pandangan hidup bangsa, ideologi negara dan penerapannya",
+        "keterkaitan Pancasila dengan UUD NRI 1945, Bhinneka Tunggal Ika, dan NKRI."
+      ],
+      "final_competency": "Memahami sejarah, kedudukan, penerapan, dan keterkaitan Pancasila dengan tiga kerangka kebangsaan tersebut.",
+      "source_pages": "58–68"
+    },
+    {
+      "phase": "D",
+      "grade": "Kelas VII–IX SMP/MTs/Program Paket B",
+      "element": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "essential_material": [
+        "Norma dan aturan",
+        "hak dan kewajiban warga negara",
+        "sejarah, fungsi, kedudukan UUD NRI 1945",
+        "tata urutan peraturan perundang-undangan",
+        "kemerdekaan berpendapat di era keterbukaan informasi."
+      ],
+      "final_competency": "Menerapkan norma/aturan; memahami tata urutan peraturan; menggunakan hak dan menerapkan kewajiban; memahami sejarah/fungsi/kedudukan UUD; mempraktikkan kemerdekaan berpendapat.",
+      "source_pages": "58–68"
+    },
+    {
+      "phase": "D",
+      "grade": "Kelas VII–IX SMP/MTs/Program Paket B",
+      "element": "Bhinneka Tunggal Ika",
+      "essential_material": [
+        "Keberagaman suku bangsa, agama/kepercayaan, ras, antargolongan",
+        "pelestarian tradisi, kearifan lokal, budaya sebagai identitas nasional",
+        "tanggung jawab dan peran aktif pelestarian."
+      ],
+      "final_competency": "Mengidentifikasi dan menerima keberagaman; memahami pentingnya pelestarian; berperan aktif melestarikan praktik tradisi/kearifan lokal/budaya.",
+      "source_pages": "58–68"
+    },
+    {
+      "phase": "D",
+      "grade": "Kelas VII–IX SMP/MTs/Program Paket B",
+      "element": "Negara Kesatuan Republik Indonesia",
+      "essential_material": [
+        "Proklamasi Kemerdekaan Republik Indonesia",
+        "wilayah NKRI dalam konteks wawasan Nusantara",
+        "menjaga keutuhan wilayah NKRI."
+      ],
+      "final_competency": "Memahami Proklamasi dan wawasan Nusantara; berpartisipasi aktif menjaga keutuhan wilayah NKRI.",
+      "source_pages": "58–68"
+    },
+    {
+      "phase": "E",
+      "grade": "Kelas X SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Pancasila",
+      "essential_material": [
+        "Cara pandang para pendiri negara tentang dasar negara",
+        "kedudukan Pancasila sebagai dasar negara, pandangan hidup bangsa, ideologi negara."
+      ],
+      "final_competency": "Menganalisis cara pandang para perumus dan kedudukan Pancasila.",
+      "source_pages": "69–74"
+    },
+    {
+      "phase": "E",
+      "grade": "Kelas X SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "essential_material": [
+        "Perilaku taat hukum",
+        "tata urutan peraturan perundang-undangan",
+        "kedudukan Pancasila sebagai sumber dari segala sumber hukum negara."
+      ],
+      "final_competency": "Menerapkan perilaku taat hukum; menganalisis tata urutan peraturan; menganalisis kedudukan Pancasila sebagai sumber dari segala sumber hukum negara.",
+      "source_pages": "69–74"
+    },
+    {
+      "phase": "E",
+      "grade": "Kelas X SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Bhinneka Tunggal Ika",
+      "essential_material": [
+        "Makna Bhinneka Tunggal Ika sebagai modal sosial",
+        "gotong royong sebagai perwujudan sistem ekonomi Pancasila yang inklusif dan berkeadilan."
+      ],
+      "final_competency": "Menyajikan makna Bhinneka Tunggal Ika sebagai modal sosial; memahami prinsip gotong royong sebagai perwujudan sistem ekonomi Pancasila.",
+      "source_pages": "69–74"
+    },
+    {
+      "phase": "E",
+      "grade": "Kelas X SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Negara Kesatuan Republik Indonesia",
+      "essential_material": [
+        "Peran dan kedudukan sebagai Warga Negara Indonesia",
+        "sistem pertahanan dan keamanan negara",
+        "peran Indonesia dalam hubungan antarnegara",
+        "nilai Pancasila dalam pembangunan nasional."
+      ],
+      "final_competency": "Memahami peran/kedudukan WNI dan sistem pertahanan-keamanan; menganalisis peran Indonesia dalam hubungan antarnegara; memahami nilai Pancasila dalam pembangunan nasional.",
+      "source_pages": "69–74"
+    },
+    {
+      "phase": "F",
+      "grade": "Kelas XI–XII SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Pancasila",
+      "essential_material": [
+        "Rumusan dan keterkaitan sila-sila",
+        "peluang dan tantangan penerapan nilai Pancasila dalam kehidupan global sebagai ideologi negara",
+        "perilaku sesuai nilai Pancasila sebagai identitas nasional."
+      ],
+      "final_competency": "Mendeskripsikan rumusan/keterkaitan sila; menganalisis peluang/tantangan penerapan nilai Pancasila secara global; membiasakan perilaku sesuai nilai Pancasila.",
+      "source_pages": "75–81"
+    },
+    {
+      "phase": "F",
+      "grade": "Kelas XI–XII SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "essential_material": [
+        "Periodisasi pemberlakuan UUD di Indonesia",
+        "perubahan UUD NRI 1945",
+        "sikap demokratis berdasarkan UUD NRI 1945 di era keterbukaan informasi",
+        "pelanggaran hak dan pengingkaran kewajiban serta solusi perlindungan hukum",
+        "kesatuan Pancasila dengan UUD NRI 1945."
+      ],
+      "final_competency": "Menganalisis dinamika pemberlakuan UUD; menunjukkan sikap demokratis; menganalisis kasus pelanggaran hak/pengingkaran kewajiban dan merumuskan solusi; menganalisis kesatuan Pancasila dengan UUD.",
+      "source_pages": "75–81"
+    },
+    {
+      "phase": "F",
+      "grade": "Kelas XI–XII SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Bhinneka Tunggal Ika",
+      "essential_material": [
+        "Potensi konflik dan solusi berkeadilan terhadap permasalahan keberagaman",
+        "kegiatan bersama dengan prinsip gotong royong."
+      ],
+      "final_competency": "Menganalisis potensi konflik dan memberi solusi berkeadilan; merancang kegiatan bersama dengan prinsip gotong royong.",
+      "source_pages": "75–81"
+    },
+    {
+      "phase": "F",
+      "grade": "Kelas XI–XII SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Negara Kesatuan Republik Indonesia",
+      "essential_material": [
+        "Praktik demokrasi berlandaskan Pancasila",
+        "ATHG terhadap Indonesia",
+        "solusi ATHG",
+        "sistem pemerintahan Indonesia",
+        "peran lembaga negara dalam bidang politik, ekonomi, sosial, budaya, pertahanan dan keamanan."
+      ],
+      "final_competency": "Mendemonstrasikan praktik demokrasi; menganalisis dan merumuskan solusi ATHG; menganalisis sistem pemerintahan; menganalisis peran lembaga negara.",
+      "source_pages": "75–81"
+    }
+  ],
+  "level_3_pedagogy": {
+    "principles": [
+      "Berkesadaran",
+      "Bermakna",
+      "Menggembirakan",
+      "Pembelajaran berpusat pada murid",
+      "Suasana belajar interaktif, inspiratif, menyenangkan, menantang, dan memotivasi murid untuk berpartisipasi aktif.",
+      "Memberi ruang bagi prakarsa, kreativitas, dan kemandirian sesuai bakat, minat, perkembangan fisik, dan psikologis murid."
+    ],
+    "learning_experience": [
+      "Memahami",
+      "Mengaplikasi",
+      "Merefleksi"
+    ],
+    "deep_learning_framework": [
+      "Praktik pedagogis",
+      "Kemitraan pembelajaran",
+      "Lingkungan pembelajaran",
+      "Pemanfaatan digital"
+    ],
+    "graduate_profile_dimensions": [
+      "Keimanan dan Ketakwaan terhadap Tuhan YME",
+      "Kewargaan",
+      "Penalaran Kritis",
+      "Kreativitas",
+      "Kolaborasi",
+      "Kemandirian",
+      "Kesehatan",
+      "Komunikasi"
+    ],
+    "profile_semantics": {
+      "Keimanan dan Ketakwaan terhadap Tuhan YME": "Keyakinan teguh akan keberadaan Tuhan serta penghayatan nilai spiritual dalam kehidupan sehari-hari yang tercermin dalam akhlak mulia, kasih, dan tanggung jawab.",
+      "Kewargaan": "Rasa cinta tanah air, ketaatan pada aturan dan norma sosial, kepedulian dan tanggung jawab sosial, serta komitmen menyelesaikan masalah nyata untuk kebaikan bersama sebagai warga negara dan warga dunia.",
+      "Penalaran Kritis": "Kemampuan berpikir logis, analitis, dan reflektif dalam memahami, mengevaluasi, dan memproses informasi.",
+      "Kreativitas": "[Data Tidak Tersedia — definisi lengkap tidak diambil pada ekstraksi ini]",
+      "Kolaborasi": "[Data Tidak Tersedia — definisi lengkap tidak diambil pada ekstraksi ini]",
+      "Kemandirian": "[Data Tidak Tersedia — definisi lengkap tidak diambil pada ekstraksi ini]",
+      "Kesehatan": "[Data Tidak Tersedia — definisi lengkap tidak diambil pada ekstraksi ini]",
+      "Komunikasi": "[Data Tidak Tersedia — definisi lengkap tidak diambil pada ekstraksi ini]"
+    }
+  },
+  "level_4_operations": {
+    "cp_to_tp_rules": [
+      "Tujuan Pembelajaran dirumuskan mengacu pada Capaian Pembelajaran.",
+      "Cara 1: merumuskan tujuan pembelajaran secara langsung dari CP.",
+      "Cara 2: merumuskan tujuan pembelajaran dengan menganalisis kompetensi dan konten pada ruang lingkup materi CP.",
+      "Cara 3: merumuskan tujuan pembelajaran lintas elemen.",
+      "Penulisan TP dapat memuat kompetensi dan materi esensial."
+    ],
+    "atp_ordering_rules": [
+      "Konkret → abstrak",
+      "Deduktif",
+      "Mudah → lebih sulit",
+      "Hierarki",
+      "Prosedural",
+      "Scaffolding"
+    ],
+    "atp_constraints": [
+      "Penomoran elemen CP bukan urutan pembelajaran.",
+      "ATP disesuaikan dengan karakteristik mata pelajaran dan tidak harus mengikuti urutan elemen.",
+      "Pendidik berwenang mengembangkan ATP sendiri.",
+      "Contoh TP/ATP dalam panduan dapat digunakan langsung atau dikembangkan lagi.",
+      "TP dapat dicapai dalam satu atau beberapa pertemuan sampai pada penghujung fase kompetensi dan materi esensial CP tercapai.",
+      "Level kompetensi dapat dinaikkan sesuai karakteristik murid dan satuan pendidikan."
+    ],
+    "planning_cycle": [
+      "Identifikasi: kesiapan murid, karakteristik materi, dimensi profil lulusan.",
+      "Desain pembelajaran: tujuan pembelajaran dan kerangka pembelajaran.",
+      "Pengalaman belajar: berkesadaran, bermakna, menggembirakan; memahami, mengaplikasi, merefleksi.",
+      "Asesmen: awal, proses, akhir."
+    ],
+    "assessment": {
+      "general": [
+        "Asesmen digunakan untuk mencari bukti/dasar pertimbangan ketercapaian tujuan pembelajaran.",
+        "Asesmen dapat menilai pengetahuan, sikap, dan keterampilan secara holistik.",
+        "Asesmen formatif dapat dilakukan selama proses melalui observasi, diskusi, presentasi, bermain peran, daftar ceklis, jurnal/refleksi, dan umpan balik.",
+        "Asesmen sumatif dilakukan pada akhir pembelajaran menggunakan tes lisan, tes tertulis, nontes, unjuk kerja, projek, produk, atau bentuk lain yang sesuai.",
+        "Rubrik dapat digunakan untuk menilai kinerja dan sikap seperti kepedulian, gotong royong, tanggung jawab, komunikasi, kerja sama, dan inklusi."
+      ],
+      "success_evidence": [
+        "Pemahaman konsep",
+        "Penerapan nilai dalam situasi nyata",
+        "Perilaku/sikap yang konsisten",
+        "Keterampilan komunikasi dan kolaborasi",
+        "Produk/projek yang menunjukkan pemahaman dan penerapan",
+        "Refleksi terhadap pengalaman belajar"
+      ]
+    },
+    "example_cases": [
+      {
+        "title": "Cerita Kebaikanku di Rumah",
+        "goal": "Menghubungkan nilai Pancasila dengan tindakan sehari-hari di keluarga.",
+        "steps": "Murid mempelajari sila; menceritakan secara lisan/tertulis tindakan seperti membantu adik, berbagi, menghargai perbedaan, hidup hemat, atau menjenguk teman yang sakit; melakukan refleksi.",
+        "output": "Cerita lisan/tertulis dan refleksi."
+      },
+      {
+        "title": "Patuh Sehari",
+        "goal": "Membiasakan kepatuhan terhadap aturan keluarga dan merefleksikan manfaatnya.",
+        "steps": "Memilih satu aturan rumah; mematuhinya selama satu hari; mencatat/mengingat pengalaman; menceritakan keberhasilan atau kesulitan pada pertemuan berikutnya.",
+        "output": "Cerita/refleksi pengalaman."
+      },
+      {
+        "title": "Poster Aturan Keluarga",
+        "goal": "Memahami fungsi aturan untuk keteraturan dan kebaikan bersama.",
+        "steps": "Mengidentifikasi aturan rumah; menyusun daftar aturan; membuat poster; menggunakan poster sebagai pengingat di rumah.",
+        "output": "Poster aturan keluarga."
+      },
+      {
+        "title": "Peta Kontribusi Daerahku",
+        "goal": "Mengaitkan karakteristik/kontribusi daerah dengan persatuan dan kontribusi nasional.",
+        "steps": "Mengumpulkan informasi daerah; mendokumentasikan asal-usul nama dan potensi lokal; mengaitkan kontribusi daerah dengan kontribusi nasional; mempresentasikan.",
+        "output": "Poster/laporan/presentasi dan dokumentasi."
+      },
+      {
+        "title": "Kampanye Digital Menjaga Keutuhan NKRI di Era Digital",
+        "goal": "Menerapkan nilai persatuan dan kewargaan dalam konteks digital.",
+        "steps": "Mengidentifikasi isu hoaks/radikalisme atau ancaman integrasi; merumuskan pesan; membuat kampanye digital; mempresentasikan dan merefleksikan dampak.",
+        "output": "Kampanye digital."
+      },
+      {
+        "title": "Simulasi Sidang PBB",
+        "goal": "Memahami dan mempraktikkan peran Indonesia dalam hubungan internasional.",
+        "steps": "Mengkaji isu; membagi peran; melakukan simulasi sidang; menyusun posisi/solusi; merefleksikan peran Indonesia.",
+        "output": "Simulasi dan hasil posisi/solusi."
+      },
+      {
+        "title": "Analisis Berita Aktual tentang ATHG",
+        "goal": "Menganalisis ancaman, tantangan, hambatan, dan gangguan serta respons pemerintah.",
+        "steps": "Membaca berita aktual; mengidentifikasi ATHG; menganalisis respons; merumuskan solusi; mempresentasikan.",
+        "output": "Lembar kerja analisis dan rekomendasi."
+      }
+    ]
+  },
+  "level_5_glossary": {
+    "Asesmen": "proses yang dilakukan pendidik dengan pengumpulan dan pengolahan informasi untuk mengetahui kebutuhan belajar, perkembangan, dan pencapaian hasil belajar peserta didik, yang digunakan untuk menentukan strategi pembelajaran selanjutnya; dilakukan untuk mencari bukti atau dasar pertimbangan ketercapaian tujuan pembelajaran.",
+    "Rubrik": "instrumen yang mengandung kriteria dan standar penilaian untuk menilai hasil pekerjaan atau kinerja peserta didik; kriterianya spesifik dan terhubung langsung dengan tujuan pembelajaran.",
+    "Kompetensi": "kemampuan yang harus dimiliki atau dicapai peserta didik setelah mengikuti pembelajaran; perpaduan pengetahuan, keterampilan, dan sikap yang direfleksikan dalam kebiasaan berpikir dan bertindak.",
+    "Responsi": "aktivitas ketika pendidik dan peserta didik melakukan tanya jawab interaktif untuk memperdalam konsep, isu, kasus, dan diskusi lainnya sehingga diperoleh pemahaman yang sama.",
+    "Harmoni": "bentuk keberterimaan semua unsur berbeda yang bersatu namun tetap memiliki kekhasan sendiri dan saling menghormati keadaan itu.",
+    "Keberagaman": "keadaan yang berbeda dan dapat bersifat horizontal maupun vertikal.",
+    "Mendemonstrasikan": "mempertunjukkan; mempertontonkan; memperagakan."
+  },
+  "atomic_nodes": [
+    {
+      "id": "pp_a_pancasila",
+      "topic": "Pancasila",
+      "phase": "A",
+      "class_scope": "Kelas I–II SD/MI/Program Paket A",
+      "element": "Pancasila",
+      "content": [
+        "Bendera Negara Indonesia",
+        "Lagu Kebangsaan Indonesia Raya",
+        "Lambang Negara Garuda Pancasila",
+        "Simbol Pancasila",
+        "Sila-sila Pancasila",
+        "Nilai-nilai Pancasila di lingkungan keluarga."
+      ],
+      "competency": "Mengenal simbol negara dan sila-sila Pancasila serta menerapkan nilai-nilai Pancasila di lingkungan keluarga.",
+      "source_page": "17–29",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase A",
+        "Pancasila",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_a_undang_undang_dasar_negara_republik_indonesia_tahun_1945",
+      "topic": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "phase": "A",
+      "class_scope": "Kelas I–II SD/MI/Program Paket A",
+      "element": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "content": [
+        "Aturan di lingkungan keluarga",
+        "sikap mematuhi aturan",
+        "contoh sikap dan perilaku mematuhi aturan di lingkungan keluarga."
+      ],
+      "competency": "Mengenal aturan di lingkungan keluarga; menunjukkan dan menceritakan sikap mematuhi aturan.",
+      "source_page": "17–29",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase A",
+        "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_a_bhinneka_tunggal_ika",
+      "topic": "Bhinneka Tunggal Ika",
+      "phase": "A",
+      "class_scope": "Kelas I–II SD/MI/Program Paket A",
+      "element": "Bhinneka Tunggal Ika",
+      "content": [
+        "Semboyan Bhinneka Tunggal Ika",
+        "identitas diri sesuai jenis kelamin, hobi, bahasa, agama dan kepercayaan di lingkungan sekitar rumah."
+      ],
+      "competency": "Mengenal Bhinneka Tunggal Ika; mengidentifikasi dan menghargai identitas diri.",
+      "source_page": "17–29",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase A",
+        "Bhinneka Tunggal Ika",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_a_negara_kesatuan_republik_indonesia",
+      "topic": "Negara Kesatuan Republik Indonesia",
+      "phase": "A",
+      "class_scope": "Kelas I–II SD/MI/Program Paket A",
+      "element": "Negara Kesatuan Republik Indonesia",
+      "content": [
+        "Karakteristik lingkungan tempat tinggal dan sekolah sebagai bagian wilayah NKRI",
+        "perilaku bekerja sama menjaga lingkungan dalam keberagaman."
+      ],
+      "competency": "Mengenal karakteristik lingkungan tempat tinggal/sekolah sebagai bagian NKRI; menceritakan dan mempraktikkan kerja sama menjaga lingkungan.",
+      "source_page": "17–29",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase A",
+        "Negara Kesatuan Republik Indonesia",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_b_pancasila",
+      "topic": "Pancasila",
+      "phase": "B",
+      "class_scope": "Kelas III–IV SD/MI/Program Paket A",
+      "element": "Pancasila",
+      "content": [
+        "Makna sila-sila Pancasila dan penerapannya",
+        "karakter para perumus Pancasila",
+        "sikap bangga menjadi anak Indonesia dengan bahasa Indonesia sebagai bahasa persatuan."
+      ],
+      "competency": "Mengidentifikasi makna dan penerapan sila; mengenal karakter perumus; menunjukkan kebanggaan berbahasa Indonesia sebagai bahasa persatuan.",
+      "source_page": "30–42",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase B",
+        "Pancasila",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_b_undang_undang_dasar_negara_republik_indonesia_tahun_1945",
+      "topic": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "phase": "B",
+      "class_scope": "Kelas III–IV SD/MI/Program Paket A",
+      "element": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "content": [
+        "Aturan di sekolah dan lingkungan tempat tinggal",
+        "hak dan kewajiban anggota keluarga dan warga sekolah."
+      ],
+      "competency": "Mengidentifikasi dan melaksanakan aturan; mengidentifikasi dan menerapkan hak serta kewajiban.",
+      "source_page": "30–42",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase B",
+        "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_b_bhinneka_tunggal_ika",
+      "topic": "Bhinneka Tunggal Ika",
+      "phase": "B",
+      "class_scope": "Kelas III–IV SD/MI/Program Paket A",
+      "element": "Bhinneka Tunggal Ika",
+      "content": [
+        "Identitas keluarga dan teman sesuai budaya, suku bangsa, bahasa, agama dan kepercayaan."
+      ],
+      "competency": "Membedakan dan menghargai identitas keluarga dan teman dalam keberagaman.",
+      "source_page": "30–42",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase B",
+        "Bhinneka Tunggal Ika",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_b_negara_kesatuan_republik_indonesia",
+      "topic": "Negara Kesatuan Republik Indonesia",
+      "phase": "B",
+      "class_scope": "Kelas III–IV SD/MI/Program Paket A",
+      "element": "Negara Kesatuan Republik Indonesia",
+      "content": [
+        "Lingkungan RT, RW, desa/kelurahan, kecamatan sebagai bagian NKRI",
+        "kerja sama dalam keberagaman suku bangsa, sosial, budaya yang terikat persatuan dan kesatuan."
+      ],
+      "competency": "Mengidentifikasi wilayah tempat tinggal sebagai bagian NKRI; menunjukkan kerja sama dalam keberagaman.",
+      "source_page": "30–42",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase B",
+        "Negara Kesatuan Republik Indonesia",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_c_pancasila",
+      "topic": "Pancasila",
+      "phase": "C",
+      "class_scope": "Kelas V–VI SD/MI/Program Paket A",
+      "element": "Pancasila",
+      "content": [
+        "Kronologi sejarah kelahiran Pancasila",
+        "sikap para perumus",
+        "sila-sila sebagai satu kesatuan utuh",
+        "nilai Pancasila sebagai dasar negara dan pandangan hidup bangsa."
+      ],
+      "competency": "Memahami kronologi; meneladani sikap perumus; menghubungkan sila sebagai kesatuan; menguraikan makna nilai Pancasila.",
+      "source_page": "43–57",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase C",
+        "Pancasila",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_c_undang_undang_dasar_negara_republik_indonesia_tahun_1945",
+      "topic": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "phase": "C",
+      "class_scope": "Kelas V–VI SD/MI/Program Paket A",
+      "element": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "content": [
+        "Bentuk norma, hak, kewajiban sebagai warga negara",
+        "Pembukaan UUD NRI Tahun 1945",
+        "musyawarah untuk kesepakatan dan aturan bersama."
+      ],
+      "competency": "Mengimplementasikan norma, hak, kewajiban; mengenal Pembukaan; mempraktikkan musyawarah.",
+      "source_page": "43–57",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase C",
+        "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_c_bhinneka_tunggal_ika",
+      "topic": "Bhinneka Tunggal Ika",
+      "phase": "C",
+      "class_scope": "Kelas V–VI SD/MI/Program Paket A",
+      "element": "Bhinneka Tunggal Ika",
+      "content": [
+        "Sikap menghormati, menjaga, dan melestarikan keberagaman budaya dalam bingkai Bhinneka Tunggal Ika."
+      ],
+      "competency": "Menyajikan hasil identifikasi sikap menghormati, menjaga, dan melestarikan keberagaman budaya.",
+      "source_page": "43–57",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase C",
+        "Bhinneka Tunggal Ika",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_c_negara_kesatuan_republik_indonesia",
+      "topic": "Negara Kesatuan Republik Indonesia",
+      "phase": "C",
+      "class_scope": "Kelas V–VI SD/MI/Program Paket A",
+      "element": "Negara Kesatuan Republik Indonesia",
+      "content": [
+        "Wilayah kabupaten/kota dan provinsi sebagai bagian NKRI",
+        "gotong royong menjaga persatuan sebagai wujud bela negara."
+      ],
+      "competency": "Mengenal wilayah dalam konteks kabupaten/kota dan provinsi; menunjukkan gotong royong sebagai wujud bela negara.",
+      "source_page": "43–57",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase C",
+        "Negara Kesatuan Republik Indonesia",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_d_pancasila",
+      "topic": "Pancasila",
+      "phase": "D",
+      "class_scope": "Kelas VII–IX SMP/MTs/Program Paket B",
+      "element": "Pancasila",
+      "content": [
+        "Sejarah kelahiran Pancasila",
+        "kedudukan Pancasila sebagai dasar negara, pandangan hidup bangsa, ideologi negara dan penerapannya",
+        "keterkaitan Pancasila dengan UUD NRI 1945, Bhinneka Tunggal Ika, dan NKRI."
+      ],
+      "competency": "Memahami sejarah, kedudukan, penerapan, dan keterkaitan Pancasila dengan tiga kerangka kebangsaan tersebut.",
+      "source_page": "58–68",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase D",
+        "Pancasila",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_d_undang_undang_dasar_negara_republik_indonesia_tahun_1945",
+      "topic": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "phase": "D",
+      "class_scope": "Kelas VII–IX SMP/MTs/Program Paket B",
+      "element": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "content": [
+        "Norma dan aturan",
+        "hak dan kewajiban warga negara",
+        "sejarah, fungsi, kedudukan UUD NRI 1945",
+        "tata urutan peraturan perundang-undangan",
+        "kemerdekaan berpendapat di era keterbukaan informasi."
+      ],
+      "competency": "Menerapkan norma/aturan; memahami tata urutan peraturan; menggunakan hak dan menerapkan kewajiban; memahami sejarah/fungsi/kedudukan UUD; mempraktikkan kemerdekaan berpendapat.",
+      "source_page": "58–68",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase D",
+        "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_d_bhinneka_tunggal_ika",
+      "topic": "Bhinneka Tunggal Ika",
+      "phase": "D",
+      "class_scope": "Kelas VII–IX SMP/MTs/Program Paket B",
+      "element": "Bhinneka Tunggal Ika",
+      "content": [
+        "Keberagaman suku bangsa, agama/kepercayaan, ras, antargolongan",
+        "pelestarian tradisi, kearifan lokal, budaya sebagai identitas nasional",
+        "tanggung jawab dan peran aktif pelestarian."
+      ],
+      "competency": "Mengidentifikasi dan menerima keberagaman; memahami pentingnya pelestarian; berperan aktif melestarikan praktik tradisi/kearifan lokal/budaya.",
+      "source_page": "58–68",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase D",
+        "Bhinneka Tunggal Ika",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_d_negara_kesatuan_republik_indonesia",
+      "topic": "Negara Kesatuan Republik Indonesia",
+      "phase": "D",
+      "class_scope": "Kelas VII–IX SMP/MTs/Program Paket B",
+      "element": "Negara Kesatuan Republik Indonesia",
+      "content": [
+        "Proklamasi Kemerdekaan Republik Indonesia",
+        "wilayah NKRI dalam konteks wawasan Nusantara",
+        "menjaga keutuhan wilayah NKRI."
+      ],
+      "competency": "Memahami Proklamasi dan wawasan Nusantara; berpartisipasi aktif menjaga keutuhan wilayah NKRI.",
+      "source_page": "58–68",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase D",
+        "Negara Kesatuan Republik Indonesia",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_e_pancasila",
+      "topic": "Pancasila",
+      "phase": "E",
+      "class_scope": "Kelas X SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Pancasila",
+      "content": [
+        "Cara pandang para pendiri negara tentang dasar negara",
+        "kedudukan Pancasila sebagai dasar negara, pandangan hidup bangsa, ideologi negara."
+      ],
+      "competency": "Menganalisis cara pandang para perumus dan kedudukan Pancasila.",
+      "source_page": "69–74",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase E",
+        "Pancasila",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_e_undang_undang_dasar_negara_republik_indonesia_tahun_1945",
+      "topic": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "phase": "E",
+      "class_scope": "Kelas X SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "content": [
+        "Perilaku taat hukum",
+        "tata urutan peraturan perundang-undangan",
+        "kedudukan Pancasila sebagai sumber dari segala sumber hukum negara."
+      ],
+      "competency": "Menerapkan perilaku taat hukum; menganalisis tata urutan peraturan; menganalisis kedudukan Pancasila sebagai sumber dari segala sumber hukum negara.",
+      "source_page": "69–74",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase E",
+        "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_e_bhinneka_tunggal_ika",
+      "topic": "Bhinneka Tunggal Ika",
+      "phase": "E",
+      "class_scope": "Kelas X SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Bhinneka Tunggal Ika",
+      "content": [
+        "Makna Bhinneka Tunggal Ika sebagai modal sosial",
+        "gotong royong sebagai perwujudan sistem ekonomi Pancasila yang inklusif dan berkeadilan."
+      ],
+      "competency": "Menyajikan makna Bhinneka Tunggal Ika sebagai modal sosial; memahami prinsip gotong royong sebagai perwujudan sistem ekonomi Pancasila.",
+      "source_page": "69–74",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase E",
+        "Bhinneka Tunggal Ika",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_e_negara_kesatuan_republik_indonesia",
+      "topic": "Negara Kesatuan Republik Indonesia",
+      "phase": "E",
+      "class_scope": "Kelas X SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Negara Kesatuan Republik Indonesia",
+      "content": [
+        "Peran dan kedudukan sebagai Warga Negara Indonesia",
+        "sistem pertahanan dan keamanan negara",
+        "peran Indonesia dalam hubungan antarnegara",
+        "nilai Pancasila dalam pembangunan nasional."
+      ],
+      "competency": "Memahami peran/kedudukan WNI dan sistem pertahanan-keamanan; menganalisis peran Indonesia dalam hubungan antarnegara; memahami nilai Pancasila dalam pembangunan nasional.",
+      "source_page": "69–74",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase E",
+        "Negara Kesatuan Republik Indonesia",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_f_pancasila",
+      "topic": "Pancasila",
+      "phase": "F",
+      "class_scope": "Kelas XI–XII SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Pancasila",
+      "content": [
+        "Rumusan dan keterkaitan sila-sila",
+        "peluang dan tantangan penerapan nilai Pancasila dalam kehidupan global sebagai ideologi negara",
+        "perilaku sesuai nilai Pancasila sebagai identitas nasional."
+      ],
+      "competency": "Mendeskripsikan rumusan/keterkaitan sila; menganalisis peluang/tantangan penerapan nilai Pancasila secara global; membiasakan perilaku sesuai nilai Pancasila.",
+      "source_page": "75–81",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase F",
+        "Pancasila",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_f_undang_undang_dasar_negara_republik_indonesia_tahun_1945",
+      "topic": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "phase": "F",
+      "class_scope": "Kelas XI–XII SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "content": [
+        "Periodisasi pemberlakuan UUD di Indonesia",
+        "perubahan UUD NRI 1945",
+        "sikap demokratis berdasarkan UUD NRI 1945 di era keterbukaan informasi",
+        "pelanggaran hak dan pengingkaran kewajiban serta solusi perlindungan hukum",
+        "kesatuan Pancasila dengan UUD NRI 1945."
+      ],
+      "competency": "Menganalisis dinamika pemberlakuan UUD; menunjukkan sikap demokratis; menganalisis kasus pelanggaran hak/pengingkaran kewajiban dan merumuskan solusi; menganalisis kesatuan Pancasila dengan UUD.",
+      "source_page": "75–81",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase F",
+        "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_f_bhinneka_tunggal_ika",
+      "topic": "Bhinneka Tunggal Ika",
+      "phase": "F",
+      "class_scope": "Kelas XI–XII SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Bhinneka Tunggal Ika",
+      "content": [
+        "Potensi konflik dan solusi berkeadilan terhadap permasalahan keberagaman",
+        "kegiatan bersama dengan prinsip gotong royong."
+      ],
+      "competency": "Menganalisis potensi konflik dan memberi solusi berkeadilan; merancang kegiatan bersama dengan prinsip gotong royong.",
+      "source_page": "75–81",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase F",
+        "Bhinneka Tunggal Ika",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    },
+    {
+      "id": "pp_f_negara_kesatuan_republik_indonesia",
+      "topic": "Negara Kesatuan Republik Indonesia",
+      "phase": "F",
+      "class_scope": "Kelas XI–XII SMA/MA/SMK/MAK/Program Paket C",
+      "element": "Negara Kesatuan Republik Indonesia",
+      "content": [
+        "Praktik demokrasi berlandaskan Pancasila",
+        "ATHG terhadap Indonesia",
+        "solusi ATHG",
+        "sistem pemerintahan Indonesia",
+        "peran lembaga negara dalam bidang politik, ekonomi, sosial, budaya, pertahanan dan keamanan."
+      ],
+      "competency": "Mendemonstrasikan praktik demokrasi; menganalisis dan merumuskan solusi ATHG; menganalisis sistem pemerintahan; menganalisis peran lembaga negara.",
+      "source_page": "75–81",
+      "retrieval_tags": [
+        "Pendidikan Pancasila",
+        "Fase F",
+        "Negara Kesatuan Republik Indonesia",
+        "CP",
+        "materi esensial",
+        "pembelajaran mendalam"
+      ],
+      "dependencies": []
+    }
+  ]
+}

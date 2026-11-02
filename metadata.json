@@ -1,0 +1,7 @@
+{
+  "name": "Engine Otomatisasi Administrasi Guru & Bank Soal Terpadu 2025/2026",
+  "description": "Generator 9 Dokumen Administrasi Guru & Bank Soal Terpadu Regulasi Resmi 2025/2026 (Jalur Dinas Kemendikdasmen & Kemenag Madrasah Deep Learning & KBC)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

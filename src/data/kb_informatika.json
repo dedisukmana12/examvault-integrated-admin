@@ -1,0 +1,80 @@
+{
+  "kb_id": "kb_informatika_fase_d_f_2025",
+  "title": "Atomic Knowledge Base — Panduan Mata Pelajaran Informatika",
+  "version": "1.0.0",
+  "language": "id-ID",
+  "source": {
+    "filename": "32. Panduan Mata Pelajaran Informatika.pdf",
+    "document_type": "Panduan Mata Pelajaran",
+    "year": 2025,
+    "publisher": "Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kementerian Pendidikan Dasar dan Menengah Republik Indonesia",
+    "scope": "Fase D, E, F"
+  },
+  "purpose": "Referensi tunggal AI/RAG untuk identitas, CP, materi esensial, pedagogi, ATP, asesmen dan terminologi Informatika.",
+  "node_prefix": "INF",
+  "fidelity_rules": [
+    "Pertahankan istilah teknis komputasi dan informatika.",
+    "Bagi elemen menjadi empat pilar: Berpikir Komputasional, Literasi Digital, Analisis Data, dan Algoritma Pemrograman.",
+    "Pembelajaran dapat dilaksanakan secara plugged (dengan komputer) maupun unplugged (tanpa komputer)."
+  ],
+  "architecture": {
+    "levels": [
+      "identity",
+      "rationale_and_goals",
+      "pedagogy",
+      "elements",
+      "essential_materials",
+      "activities"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "INF.identity",
+      "type": "identity",
+      "topic": "Identitas Mata Pelajaran",
+      "phase": ["D", "E", "F"],
+      "source_text": "Mata pelajaran Informatika bertujuan membangun kemampuan berpikir komputasional, kecakapan digital, problem solving, literasi digital, dan kemampuan berkarya digital untuk mengantarkan murid menjadi well-being and wise digital citizen dan computationally literate creators.",
+      "retrieval_tags": ["Informatika", "Berpikir Komputasional", "Literasi Digital", "Problem Solving"]
+    },
+    {
+      "id": "INF.rationale",
+      "type": "rationale",
+      "topic": "Rasionalitas Pembelajaran",
+      "phase": ["D", "E", "F"],
+      "source_text": "Perkembangan Internet of Things, interaksi manusia-komputer yang natural, serta volume data yang masif menjadi tantangan. Informatika hadir untuk menyikapi, berkontribusi, dan berperan aktif dalam transformasi digital. Pembelajaran dapat diadaptasi sesuai kondisi sekolah (plugged/unplugged).",
+      "retrieval_tags": ["Internet of Things", "Transformasi Digital", "Plugged", "Unplugged"]
+    },
+    {
+      "id": "INF.elements",
+      "type": "element",
+      "topic": "Empat Elemen Informatika",
+      "phase": ["D", "E", "F"],
+      "source_text": "1. Berpikir Komputasional (penyelesaian masalah berjenjang/sistematis melalui pemodelan/simulasi). 2. Literasi Digital (kecakapan bermedia, beretika, aman di dunia maya). 3. Analisis Data (menstrukturkan, memproses, memprediksi data). 4. Algoritma dan Pemrograman (mengembangkan solusi jadi instruksi terstruktur/kode).",
+      "retrieval_tags": ["Berpikir Komputasional", "Literasi Digital", "Analisis Data", "Algoritma dan Pemrograman"]
+    },
+    {
+      "id": "INF.cp.fase_d",
+      "type": "learning_outcome",
+      "topic": "CP Fase D (SMP/MTs)",
+      "phase": ["D"],
+      "source_text": "Murid mampu menerapkan berpikir komputasional untuk problem sehari-hari, himpunan data berstruktur volume kecil, algoritma pseudocode terbatas; literasi mesin pencari, filter fakta/hoaks, komponen/jaringan komputer, ruang publik virtual, dan keamanan digital dasar.",
+      "retrieval_tags": ["Fase D", "Pseudocode", "Hoaks", "Mesin pencari", "Keamanan dasar"]
+    },
+    {
+      "id": "INF.cp.fase_e",
+      "type": "learning_outcome",
+      "topic": "CP Fase E (Kelas X SMA/SMK/MA)",
+      "phase": ["E"],
+      "source_text": "Murid mampu memahami struktur data dan algoritma standar (search/sort); model Von Neumann dan peran OS; literasi membaca lateral, konfigurasi keamanan dasar, HAKI, pengelolaan kata sandi, dan digitalisasi budaya.",
+      "retrieval_tags": ["Fase E", "Von Neumann", "Sistem Operasi", "Struktur data standar", "Membaca lateral", "HAKI"]
+    },
+    {
+      "id": "INF.cp.fase_f",
+      "type": "learning_outcome",
+      "topic": "CP Fase F (Kelas XI-XII SMA/SMK/MA)",
+      "phase": ["F"],
+      "source_text": "Murid mampu memahami proses rekayasa (engineering process); menganalisis strategi algoritmik dasar (greedy, dp) untuk alternatif solusi; mengolah data bervolume besar; keamanan jaringan lanjut; mengevaluasi konten digital dengan verifikasi kompleks; dan mengembangkan/memelihara program kompleks.",
+      "retrieval_tags": ["Fase F", "Engineering process", "Strategi algoritmik", "Data besar", "Keamanan lanjut", "Program kompleks"]
+    }
+  ]
+}

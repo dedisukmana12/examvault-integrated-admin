@@ -1,0 +1,208 @@
+<svg viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 1. Perisai Segi Lima Biru Muda Resmi (Kemendikdasmen / Tut Wuri Handayani) -->
+  <path
+    d="M500,28 L940,345 C940,345 955,625 765,885 C670,950 560,972 500,972 C440,972 330,950 235,885 C45,625 60,345 60,345 Z"
+    fill="#0095DA"
+    stroke="#1E1E1E"
+    stroke-width="6"
+    stroke-linejoin="round"
+  />
+
+  <!-- 2. Teks Melengkung "TUT WURI HANDAYANI" di Bagian Atas -->
+  <path
+    id="text-path-tutwuri-file"
+    d="M 125,350 Q 500,-15 875,350"
+    fill="none"
+    stroke="none"
+  />
+  <text
+    fill="#111827"
+    font-family="'Arial Black', 'Montserrat', Impact, sans-serif"
+    font-size="72"
+    font-weight="900"
+    letter-spacing="10"
+  >
+    <textPath
+      href="#text-path-tutwuri-file"
+      startOffset="50%"
+      text-anchor="middle"
+    >
+      TUT WURI HANDAYANI
+    </textPath>
+  </text>
+
+  <!-- 3. Lima Bulu Ekor/Jambul Menghadap ke Atas -->
+  <g id="ekor-bulu">
+    <path
+      d="M320,250 C350,230 400,210 440,255 L445,475 C410,450 360,400 320,250 Z"
+      fill="#FFFFFF"
+      stroke="#1E1E1E"
+      stroke-width="14"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M680,250 C650,230 600,210 560,255 L555,475 C590,450 640,400 680,250 Z"
+      fill="#FFFFFF"
+      stroke="#1E1E1E"
+      stroke-width="14"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M390,200 C420,185 460,180 475,230 L470,480 C440,460 410,400 390,200 Z"
+      fill="#FFFFFF"
+      stroke="#1E1E1E"
+      stroke-width="14"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M610,200 C580,185 540,180 525,230 L530,480 C560,460 590,400 610,200 Z"
+      fill="#FFFFFF"
+      stroke="#1E1E1E"
+      stroke-width="14"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M500,165 C480,195 465,220 465,260 L475,485 L525,485 L535,260 C535,220 520,195 500,165 Z"
+      fill="#FFFFFF"
+      stroke="#1E1E1E"
+      stroke-width="14"
+      stroke-linejoin="round"
+    />
+    <line x1="500" y1="180" x2="500" y2="470" stroke="#1E1E1E" stroke-width="8" />
+    <line x1="440" y1="215" x2="455" y2="465" stroke="#1E1E1E" stroke-width="8" />
+    <line x1="560" y1="215" x2="545" y2="465" stroke="#1E1E1E" stroke-width="8" />
+  </g>
+
+  <!-- 4. Sayap Garuda Melebar Kiri dan Kanan -->
+  <g id="sayap-garuda">
+    <path
+      d="M500,725 C450,735 340,735 240,685 C190,660 160,610 155,540 C150,470 185,410 200,365 C202,360 205,375 200,420 C195,465 170,515 195,555 C220,595 270,615 365,585 C420,565 470,520 500,440"
+      fill="#FFFFFF"
+      stroke="#1E1E1E"
+      stroke-width="16"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M175,540 C210,545 260,515 285,465"
+      stroke="#1E1E1E"
+      stroke-width="12"
+      stroke-linecap="round"
+      fill="none"
+    />
+    <path
+      d="M190,610 C235,615 295,580 340,520"
+      stroke="#1E1E1E"
+      stroke-width="12"
+      stroke-linecap="round"
+      fill="none"
+    />
+    <path
+      d="M230,670 C280,675 355,635 410,560"
+      stroke="#1E1E1E"
+      stroke-width="12"
+      stroke-linecap="round"
+      fill="none"
+    />
+
+    <path
+      d="M500,725 C550,735 660,735 760,685 C810,660 840,610 845,540 C850,470 815,410 800,365 C798,360 795,375 800,420 C805,465 830,515 805,555 C780,595 730,615 635,585 C580,565 530,520 500,440"
+      fill="#FFFFFF"
+      stroke="#1E1E1E"
+      stroke-width="16"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M825,540 C790,545 740,515 715,465"
+      stroke="#1E1E1E"
+      stroke-width="12"
+      stroke-linecap="round"
+      fill="none"
+    />
+    <path
+      d="M810,610 C765,615 705,580 660,520"
+      stroke="#1E1E1E"
+      stroke-width="12"
+      stroke-linecap="round"
+      fill="none"
+    />
+    <path
+      d="M770,670 C720,675 645,635 590,560"
+      stroke="#1E1E1E"
+      stroke-width="12"
+      stroke-linecap="round"
+      fill="none"
+    />
+  </g>
+
+  <!-- 5. Kepala/Paruh Burung Menghadap ke Depan -->
+  <g id="kepala-burung">
+    <path
+      d="M500,335 C480,365 470,395 470,435 C470,475 485,505 500,525 C515,505 530,475 530,435 C530,395 520,365 500,335 Z"
+      fill="#FFFFFF"
+      stroke="#1E1E1E"
+      stroke-width="12"
+      stroke-linejoin="round"
+    />
+  </g>
+
+  <!-- 6. Badan Tengah dan Belilong (Nyala Api Berwarna Emas) -->
+  <g id="badan-nyala-api">
+    <path
+      d="M500,445 C440,490 405,550 405,620 C405,690 445,745 500,755 C555,745 595,690 595,620 C595,550 560,490 500,445 Z"
+      fill="#FFFFFF"
+      stroke="#1E1E1E"
+      stroke-width="14"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M500,465 C480,500 445,540 445,600 C445,640 470,660 500,660 C530,660 555,640 555,600 C555,540 520,500 500,465 Z"
+      fill="#FFC700"
+      stroke="#1E1E1E"
+      stroke-width="10"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M500,490 C490,520 475,550 475,590 C475,615 485,630 500,630 C515,630 525,615 525,590 C525,550 510,520 500,490 Z"
+      fill="#FFD833"
+      stroke="#1E1E1E"
+      stroke-width="6"
+    />
+    <path
+      d="M500,665 C490,665 480,675 480,690 C480,700 488,710 493,715 L490,735 L510,735 L507,715 C512,710 520,700 520,690 C520,675 510,665 500,665 Z"
+      fill="#FFFFFF"
+      stroke="#1E1E1E"
+      stroke-width="8"
+    />
+  </g>
+
+  <!-- 7. Buku Terbuka di Bagian Bawah -->
+  <g id="buku-terbuka">
+    <path
+      d="M500,765 L310,775 C305,815 300,845 290,845 L500,805 L710,845 C700,845 695,815 690,775 Z"
+      fill="#FFFFFF"
+      stroke="#1E1E1E"
+      stroke-width="14"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M500,745 C430,735 370,755 310,775 C380,795 440,785 500,765 C560,785 620,795 690,775 C630,755 570,735 500,745 Z"
+      fill="#FFFFFF"
+      stroke="#1E1E1E"
+      stroke-width="12"
+      stroke-linejoin="round"
+    />
+    <path
+      d="M500,765 L500,805"
+      stroke="#1E1E1E"
+      stroke-width="12"
+    />
+    <path
+      d="M310,815 C380,830 440,820 500,800 C560,820 620,830 690,815"
+      stroke="#1E1E1E"
+      stroke-width="8"
+      fill="none"
+    />
+  </g>
+</svg>

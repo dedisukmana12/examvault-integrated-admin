@@ -1,0 +1,144 @@
+<svg viewBox="0 0 1000 1050" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 1. Perisai Segi Lima Luar (Emas & Hitam) -->
+  <polygon
+    points="500,18 985,368 798,986 202,986 15,368"
+    fill="#FCC300"
+    stroke="#1E1E1E"
+    stroke-width="12"
+    stroke-linejoin="round"
+  />
+
+  <!-- 2. Perisai Segi Lima Dalam (Hijau Resmi Kemenag) -->
+  <polygon
+    points="500,72 935,385 768,938 232,938 65,385"
+    fill="#007336"
+    stroke="#1E1E1E"
+    stroke-width="8"
+    stroke-linejoin="round"
+  />
+
+  <!-- 3. Bintang Emas Bersegi Lima -->
+  <polygon
+    points="500,175 522,242 593,242 535,284 557,351 500,309 443,351 465,284 407,242 478,242"
+    fill="#FFC700"
+    stroke="#1E1E1E"
+    stroke-width="5"
+    stroke-linejoin="round"
+  />
+
+  <!-- 4. Tangkai dan Bunga Kapas -->
+  <g id="kapas-group">
+    <path
+      d="M260,780 Q210,560 380,310"
+      stroke="#598C35"
+      stroke-width="14"
+      stroke-linecap="round"
+      fill="none"
+    />
+    <g>
+      <circle cx="375" cy="300" r="20" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="372" cy="297" r="14" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="350" cy="330" r="22" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="347" cy="327" r="16" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="395" cy="350" r="20" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="392" cy="347" r="14" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="320" cy="375" r="24" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="317" cy="372" r="18" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="365" cy="400" r="22" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="362" cy="397" r="16" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="285" cy="425" r="26" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="282" cy="422" r="20" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="330" cy="450" r="24" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="327" cy="447" r="18" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="260" cy="485" r="28" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="257" cy="482" r="22" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="305" cy="510" r="26" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="302" cy="507" r="20" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="240" cy="550" r="29" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="237" cy="547" r="23" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="285" cy="575" r="27" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="282" cy="572" r="21" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="225" cy="620" r="30" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="222" cy="617" r="24" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="268" cy="645" r="28" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="265" cy="642" r="22" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="215" cy="690" r="30" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="212" cy="687" r="24" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="255" cy="715" r="28" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="252" cy="712" r="22" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="220" cy="755" r="29" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="217" cy="752" r="23" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+      <circle cx="255" cy="775" r="27" fill="#598C35" stroke="#1E1E1E" stroke-width="3" />
+      <circle cx="252" cy="772" r="21" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="2" />
+    </g>
+  </g>
+
+  <!-- 5. Tangkai dan Butir Padi -->
+  <g id="padi-group">
+    <path
+      d="M740,780 Q790,560 620,310"
+      stroke="#E69500"
+      stroke-width="14"
+      stroke-linecap="round"
+      fill="none"
+    />
+    <ellipse cx="620" cy="300" rx="22" ry="10" transform="rotate(-35 620 300)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="650" cy="325" rx="24" ry="11" transform="rotate(-25 650 325)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="610" cy="345" rx="24" ry="11" transform="rotate(-40 610 345)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="680" cy="360" rx="26" ry="12" transform="rotate(-15 680 360)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="635" cy="385" rx="26" ry="12" transform="rotate(-30 635 385)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="710" cy="405" rx="28" ry="13" transform="rotate(-5 710 405)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="665" cy="430" rx="28" ry="13" transform="rotate(-20 665 430)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="735" cy="455" rx="30" ry="14" transform="rotate(5 735 455)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="690" cy="480" rx="30" ry="14" transform="rotate(-10 690 480)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="755" cy="510" rx="32" ry="15" transform="rotate(15 755 510)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="710" cy="535" rx="32" ry="15" transform="rotate(0 710 535)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="770" cy="570" rx="34" ry="16" transform="rotate(25 770 570)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="725" cy="595" rx="34" ry="16" transform="rotate(10 725 595)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="780" cy="635" rx="34" ry="16" transform="rotate(35 780 635)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="735" cy="660" rx="34" ry="16" transform="rotate(20 735 660)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="780" cy="700" rx="34" ry="16" transform="rotate(45 780 700)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="740" cy="725" rx="34" ry="16" transform="rotate(30 740 725)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="770" cy="760" rx="32" ry="15" transform="rotate(50 770 760)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+    <ellipse cx="730" cy="780" rx="30" ry="14" transform="rotate(35 730 780)" fill="#FFC700" stroke="#1E1E1E" stroke-width="4" />
+  </g>
+
+  <!-- 6. Rehal (Tatakan Al-Qur'an Berbentuk Silang) -->
+  <g id="rehal-group">
+    <polygon points="370,600 630,735 600,775 340,640" fill="#111827" stroke="#1E1E1E" stroke-width="6" />
+    <polygon points="370,600 630,735 620,745 360,610" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="3" />
+    <polygon points="630,600 370,735 400,775 660,640" fill="#111827" stroke="#1E1E1E" stroke-width="6" />
+    <polygon points="630,600 370,735 380,745 640,610" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="3" />
+  </g>
+
+  <!-- 7. Kitab Suci Al-Qur'an (Terbuka di Tengah) -->
+  <g id="kitab-group">
+    <path d="M370,570 L370,615 Q500,660 630,615 L630,570 Q500,615 370,570 Z" fill="#B87B00" stroke="#1E1E1E" stroke-width="5" />
+    <path d="M500,465 Q430,445 375,465 L370,575 Q430,555 500,580 Z" fill="#FFC700" stroke="#1E1E1E" stroke-width="6" />
+    <path d="M400,490 Q445,475 480,490 M400,510 Q445,495 480,510 M400,530 Q445,515 480,530 M400,550 Q445,535 480,550" stroke="#7A4E00" stroke-width="3.5" stroke-linecap="round" fill="none" />
+    <path d="M500,465 Q570,445 625,465 L630,575 Q570,555 500,580 Z" fill="#FFC700" stroke="#1E1E1E" stroke-width="6" />
+    <path d="M520,490 Q555,475 600,490 M520,510 Q555,495 600,510 M520,530 Q555,515 600,530 M520,550 Q555,535 600,550" stroke="#7A4E00" stroke-width="3.5" stroke-linecap="round" fill="none" />
+    <line x1="500" y1="465" x2="500" y2="580" stroke="#1E1E1E" stroke-width="6" />
+  </g>
+
+  <!-- 8. Pita Putih Melengkung Bertuliskan "IKHLAS BERAMAL" -->
+  <g id="pita-group">
+    <polygon points="170,760 250,735 240,780 160,805" fill="#E5E7EB" stroke="#1E1E1E" stroke-width="5" />
+    <polygon points="160,805 240,780 230,830 170,820" fill="#111827" />
+    <polygon points="170,820 230,830 200,865 245,860 270,785 240,780" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="5" />
+
+    <polygon points="830,760 750,735 760,780 840,805" fill="#E5E7EB" stroke="#1E1E1E" stroke-width="5" />
+    <polygon points="840,805 760,780 770,830 830,820" fill="#111827" />
+    <polygon points="830,820 770,830 800,865 755,860 730,785 760,780" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="5" />
+
+    <path d="M235,770 Q500,850 765,770 L795,835 Q500,920 205,835 Z" fill="#FFFFFF" stroke="#1E1E1E" stroke-width="8" stroke-linejoin="round" />
+    <path d="M245,830 Q500,915 755,830 L785,845 Q500,935 215,845 Z" fill="#111827" />
+
+    <path id="text-path-pita-svg" d="M 230,845 Q 500,925 770,845" fill="none" stroke="none" />
+    <text fill="#111827" font-family="'Arial Black', 'Montserrat', Impact, sans-serif" font-size="54" font-weight="900" letter-spacing="6">
+      <textPath href="#text-path-pita-svg" startOffset="50%" text-anchor="middle">
+        IKHLAS BERAMAL
+      </textPath>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,737 @@
+{
+  "metadata": {
+    "title": "Atomic Knowledge Base — Panduan Mata Pelajaran Kimia Fase F",
+    "source_document": "11. Final Panduan Mata Pelajaran Kimia_17_09_2025_Revisi 4.pdf",
+    "publisher": "Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kementerian Pendidikan Dasar dan Menengah Republik Indonesia",
+    "year": 2025,
+    "subject": "Kimia",
+    "phase": "F",
+    "target": [
+      "SMA/MA",
+      "Program Paket C",
+      "sekolah menengah keagamaan lain"
+    ],
+    "source_pages": 99,
+    "knowledge_type": "source-grounded atomic knowledge base",
+    "fidelity_rule": "Istilah teknis dipertahankan; informasi yang tidak ditemukan ditandai [Data Tidak Tersedia]."
+  },
+  "level_1_identity_philosophy": {
+    "subject": "Kimia",
+    "target": "Fase F; umumnya kelas XI dan XII SMA/MA/Program Paket C",
+    "rationale": [
+      "Kimia dikenal sebagai central science karena berperan penting memahami dunia di sekitar dan mendasari fisika, biologi, industri, kesehatan, lingkungan, teknologi, pertanian, dan ekonomi rumah tangga.",
+      "Kimia mempelajari materi, energi, serta perubahan yang menyertainya; seluruhnya berkaitan dengan partikel seperti atom dan molekul yang dapat mengalami transformasi melalui interaksi dan reaksi kimia.",
+      "Kimia berperan strategis dalam energi, kesehatan, lingkungan, pangan, material, manufaktur, penelitian, dan pengembangan teknologi.",
+      "Pembelajaran Kimia di SMA membekali murid memecahkan masalah sehari-hari dan menjadi bekal mempelajari sains dan teknologi lebih lanjut.",
+      "Pembelajaran mendalam diperlukan untuk mengintegrasikan penguasaan konten, keterampilan proses sains, HOTS, literasi digital, isu lokal/global, dan penguatan karakter."
+    ],
+    "characteristics": {
+      "content": [
+        "Susunan dan struktur materi",
+        "Sifat-sifat materi",
+        "Bagaimana dan mengapa materi tergabung atau terpisah untuk membentuk materi baru",
+        "Energi yang menyertai perubahan materi"
+      ],
+      "representational_bridge": [
+        "Dunia makroskopik: fenomena yang dapat diamati langsung",
+        "Dunia submikroskopik: atom, molekul, dan ion",
+        "Representasi simbolik: rumus kimia, persamaan reaksi, diagram, dan model"
+      ],
+      "elements": [
+        {
+          "name": "Pemahaman Kimia",
+          "description": "Pemahaman fakta, konsep, prinsip, hukum, dan teori pada struktur atom, ikatan kimia, bentuk molekul, gaya intermolekuler, termokimia, laju reaksi, kesetimbangan kimia, larutan, sel elektrokimia, senyawa karbon, dan makromolekul."
+        },
+        {
+          "name": "Keterampilan Proses",
+          "description": "Kemampuan mengamati; mempertanyakan dan memprediksi; merencanakan dan melakukan penyelidikan; memproses, menganalisis data dan informasi; mengevaluasi dan refleksi; serta mengomunikasikan hasil.",
+          "operational_note": "Keterampilan proses bukan urutan langkah yang kaku, melainkan siklus dinamis yang disesuaikan dengan perkembangan dan kemampuan murid."
+        }
+      ]
+    },
+    "subject_goals": [
+      "Membentuk sikap religius dengan menyadari keteraturan dan keindahan alam serta mengagungkan kebesaran Tuhan Yang Maha Esa.",
+      "Menumbuhkan sikap ilmiah yang bertanggung jawab; rasa ingin tahu, integritas, kejujuran, adil, saling menghormati, memahami kekuatan dan keterbatasan diri, serta menjadi pelajar sepanjang hayat.",
+      "Memahami konsep-konsep dasar kimia secara menyeluruh dan mendalam melalui keterampilan proses dan keterampilan berpikir serta menerapkan pengetahuan kimia untuk menganalisis dan memecahkan masalah secara konseptual maupun praktis dalam konteks kehidupan, lingkungan, dan teknologi.",
+      "Mengembangkan keahlian investigasi ilmiah secara mandiri maupun kolaboratif: merumuskan masalah, mengajukan/menguji hipotesis, merancang instrumen percobaan, mengumpulkan/mengolah/menganalisis data kualitatif dan kuantitatif, serta mengomunikasikan hasil secara lisan dan tertulis."
+    ]
+  },
+  "level_2_taxonomy": [
+    {
+      "id": "KIM-F-MAT-01",
+      "phase": "F",
+      "element": "Pemahaman Kimia + Keterampilan Proses",
+      "material": "Struktur atom",
+      "essential_material": [
+        "Model atom Bohr",
+        "Model atom mekanika kuantum",
+        "Konfigurasi elektron",
+        "Hubungan konfigurasi elektron dengan sistem periodik unsur",
+        "Sifat periodik jari-jari atom",
+        "Elektronegativitas",
+        "Kulit K, L, M, N",
+        "Orbital s, p, d, f",
+        "Bilangan kuantum utama (n), azimut (l), magnetik (m), spin (s)",
+        "Aturan Aufbau",
+        "Prinsip Pauli",
+        "Aturan Hund"
+      ],
+      "final_competency": [
+        "Menganalisis hubungan struktur atom dengan sistem periodik unsur.",
+        "Menjelaskan distribusi elektron dalam orbit/orbital dan kaitannya dengan sifat periodik unsur.",
+        "Menganalisis konfigurasi elektron berdasarkan aturan Aufbau, prinsip Pauli, dan aturan Hund.",
+        "Mengidentifikasi pola pengelompokan unsur pada tabel periodik.",
+        "Menerapkan konsep struktur atom untuk menjelaskan pembentukan ikatan, reaktivitas unsur, dan kestabilan senyawa.",
+        "Menghubungkan konsep dengan teknologi dan aplikasi ilmiah."
+      ],
+      "context_examples": [
+        "Spektrum cahaya",
+        "Semikonduktor",
+        "MRI",
+        "Material penyimpan energi baterai lithium-ion",
+        "Katalis",
+        "Analisis polutan"
+      ],
+      "learning_flow": "Memahami fenomena nyata → mengeksplorasi model atom melalui diskusi/presentasi/simulasi → mengaplikasi melalui inkuiri dan masalah kontekstual → merefleksi.",
+      "assessment": [
+        "Formatif: kuis, diskusi, lembar kerja",
+        "Sumatif: tes tertulis, projek, presentasi",
+        "Praktik: laporan eksperimen atau pembuatan model atom/orbital"
+      ],
+      "source_page": "23–25",
+      "source_section": "C. Pemetaan Materi Esensial — 1. Materi Struktur Atom"
+    },
+    {
+      "id": "KIM-F-MAT-02",
+      "phase": "F",
+      "element": "Pemahaman Kimia + Keterampilan Proses",
+      "material": "Ikatan kimia, bentuk molekul, dan gaya intermolekuler",
+      "essential_material": [
+        "Ikatan ionik: gaya elektrostatik antara kation dan anion",
+        "Ikatan kovalen: pemakaian bersama pasangan elektron",
+        "Ikatan logam: lautan elektron terdelokalisasi dan bergerak bebas",
+        "Struktur Lewis",
+        "Polaritas ikatan/molekul",
+        "Teori VSEPR",
+        "Bentuk molekul",
+        "Hibridisasi orbital sebagai pengayaan",
+        "Gaya London (disperse)",
+        "Gaya dipol-dipol",
+        "Ikatan hidrogen",
+        "Hubungan gaya intermolekuler dengan titik didih, titik leleh, kelarutan, dan fase zat"
+      ],
+      "final_competency": [
+        "Membandingkan jenis ikatan kimia serta kaitannya dengan bentuk molekul dan gaya/interaksi antarpartikel dalam memprediksi sifat fisik materi.",
+        "Menggunakan struktur Lewis dan teori VSEPR untuk menjelaskan/prediksi bentuk molekul.",
+        "Menganalisis hubungan jenis ikatan/gaya intermolekuler dengan sifat fisik materi.",
+        "Melakukan eksperimen untuk mengidentifikasi sifat senyawa dan pengaruh gaya intermolekuler.",
+        "Mengomunikasikan hasil eksperimen dan analisis data serta merefleksikan strategi belajar."
+      ],
+      "context_examples": [
+        "Titik didih air",
+        "Kekerasan logam",
+        "Kelarutan garam",
+        "Sabun/deterjen",
+        "Ikatan hidrogen pada DNA/protein",
+        "Desain obat",
+        "Material polimer/komposit"
+      ],
+      "learning_flow": "Memahami fenomena → mengeksplorasi jenis ikatan/gaya melalui diskusi, eksperimen, simulasi → mengaplikasi pada prediksi sifat dan inkuiri → merefleksi.",
+      "assessment": [
+        "Formatif: kuis, diskusi, lembar kerja",
+        "Sumatif: tes tertulis, projek, presentasi",
+        "Praktik: laporan eksperimen atau pembuatan model molekul"
+      ],
+      "source_page": "25–28",
+      "source_section": "C. Pemetaan Materi Esensial — 2. Materi Ikatan Kimia, Bentuk Molekul, dan Gaya Intermolekul"
+    },
+    {
+      "id": "KIM-F-MAT-03",
+      "phase": "F",
+      "element": "Pemahaman Kimia + Keterampilan Proses",
+      "material": "Termokimia",
+      "essential_material": [
+        "Perubahan energi dalam reaksi kimia",
+        "Sistem dan lingkungan",
+        "Sistem terbuka, sistem tertutup, sistem terisolasi",
+        "Proses eksoterm dan endoterm",
+        "Diagram perubahan entalpi",
+        "Persamaan termokimia",
+        "Perubahan entalpi pembentukan standar",
+        "Perubahan entalpi penguraian standar",
+        "Perubahan entalpi pembakaran standar",
+        "Penentuan perubahan entalpi reaksi menggunakan kalorimeter",
+        "Hukum Hess",
+        "Data energi ikatan"
+      ],
+      "final_competency": [
+        "Menganalisis proses eksoterm dan endoterm beserta diagram perubahan entalpinya.",
+        "Mengaitkan perubahan entalpi standar reaksi kimia dengan sumber energi di lingkungan/kehidupan sehari-hari.",
+        "Menuliskan persamaan termokimia.",
+        "Menentukan jenis perubahan entalpi standar.",
+        "Menghitung perubahan entalpi menggunakan data entalpi pembentukan, diagram entalpi, Hukum Hess, kalorimeter, dan energi ikatan.",
+        "Merancang dan melakukan eksperimen reaksi eksoterm/endoterm dan kalorimeter serta mempresentasikan hasilnya."
+      ],
+      "context_examples": [
+        "Pembakaran bensin/LPG/kayu",
+        "Makanan dan metabolisme",
+        "Fotosintesis",
+        "Proses Haber",
+        "Proses kontak",
+        "Pengomposan",
+        "Baterai litium dan sel bahan bakar hidrogen"
+      ],
+      "learning_flow": "Memahami fenomena energi → mengaplikasi melalui perhitungan/eksperimen/konteks → merefleksi dampak energi terhadap kehidupan dan bumi.",
+      "assessment": [
+        "Eksperimen",
+        "Presentasi",
+        "Tes/perhitungan",
+        "Observasi keterampilan alat, prosedur, inisiatif, kolaborasi, dan komunikasi"
+      ],
+      "source_page": "29–32",
+      "source_section": "C. Pemetaan Materi Esensial — 3. Materi Termokimia"
+    },
+    {
+      "id": "KIM-F-MAT-04",
+      "phase": "F",
+      "element": "Pemahaman Kimia + Keterampilan Proses",
+      "material": "Laju Reaksi",
+      "essential_material": [
+        "Laju reaksi",
+        "Faktor yang memengaruhi laju reaksi",
+        "Teori tumbukan",
+        "Konsentrasi",
+        "Luas permukaan",
+        "Suhu",
+        "Katalis",
+        "Hukum laju reaksi"
+      ],
+      "final_competency": [
+        "Menganalisis faktor-faktor yang memengaruhi laju reaksi berdasarkan teori tumbukan.",
+        "Menjelaskan hubungan kondisi reaksi dengan perubahan laju.",
+        "Menyelidiki pengaruh variabel terhadap laju reaksi dan menganalisis data.",
+        "Mengaitkan konsep laju reaksi dengan penerapan industri, lingkungan, kesehatan, dan kehidupan sehari-hari."
+      ],
+      "context_examples": [
+        "Penggunaan katalis",
+        "Catalytic converter kendaraan",
+        "Proses industri",
+        "Pengolahan bahan",
+        "Fenomena reaksi sehari-hari"
+      ],
+      "learning_flow": "Memahami fenomena laju → menguji faktor melalui eksperimen/inkuiri → menganalisis data → merefleksi strategi dan implikasi.",
+      "assessment": [
+        "Formatif melalui observasi/diskusi/lembar kerja",
+        "Eksperimen dan laporan laboratorium",
+        "Tes atau produk/presentasi"
+      ],
+      "source_page": "33–35",
+      "source_section": "C. Pemetaan Materi Esensial — 4. Materi Laju Reaksi"
+    },
+    {
+      "id": "KIM-F-MAT-05",
+      "phase": "F",
+      "element": "Pemahaman Kimia + Keterampilan Proses",
+      "material": "Kesetimbangan Kimia",
+      "essential_material": [
+        "Kesetimbangan dinamis",
+        "Tetapan kesetimbangan",
+        "Pergeseran kesetimbangan",
+        "Kesetimbangan gas",
+        "Kesetimbangan asam-basa",
+        "Hidrolisis garam",
+        "Larutan penyangga/buffer",
+        "Kesetimbangan kelarutan",
+        "Kelarutan dan tetapan kelarutan"
+      ],
+      "final_competency": [
+        "Menganalisis kesetimbangan kimia dan penerapannya.",
+        "Menerapkan konsep kesetimbangan pada kesetimbangan gas, asam-basa, dan kelarutan.",
+        "Menganalisis faktor yang memengaruhi pergeseran kesetimbangan.",
+        "Menjelaskan penerapan kesetimbangan dalam konteks kehidupan, lingkungan, kesehatan, dan industri.",
+        "Melakukan penyelidikan, menganalisis data, menarik kesimpulan, dan mengomunikasikan hasil."
+      ],
+      "context_examples": [
+        "Proses Haber",
+        "Proses kontak",
+        "Kesetimbangan asam-basa dalam darah",
+        "Pengolahan limbah",
+        "Kelarutan mineral/material"
+      ],
+      "learning_flow": "Memahami konsep kesetimbangan melalui fenomena → mengaplikasi pada sistem gas/asam-basa/kelarutan dan penyelidikan → merefleksi.",
+      "assessment": [
+        "Kuis/diskusi/lembar kerja",
+        "Observasi praktikum",
+        "Laporan eksperimen",
+        "Tes lisan/tertulis",
+        "Presentasi"
+      ],
+      "source_page": "36–45",
+      "source_section": "C. Pemetaan Materi Esensial — 5. Materi Kesetimbangan Kimia; 5.2 Kesetimbangan Asam Basa; 5.3 Kesetimbangan Kelarutan"
+    },
+    {
+      "id": "KIM-F-MAT-06",
+      "phase": "F",
+      "element": "Pemahaman Kimia + Keterampilan Proses",
+      "material": "Larutan: Daya Hantar dan Sifat Koligatif",
+      "essential_material": [
+        "Daya hantar listrik larutan",
+        "Sifat koligatif larutan",
+        "Penurunan tekanan uap",
+        "Kenaikan titik didih",
+        "Penurunan titik beku",
+        "Tekanan osmosis",
+        "Diagram P-T",
+        "Penerapan sifat koligatif pada distilasi, pembekuan, dan pemurnian zat"
+      ],
+      "final_competency": [
+        "Menjelaskan daya hantar listrik dan sifat koligatif larutan.",
+        "Menganalisis hubungan jumlah partikel zat terlarut dengan sifat koligatif.",
+        "Melakukan percobaan terkait daya hantar dan sifat koligatif.",
+        "Menghitung perubahan sifat koligatif dan menafsirkan diagram P-T.",
+        "Mengaitkan prinsip larutan dengan penerapan pemurnian dan proses teknologi."
+      ],
+      "context_examples": [
+        "Daya hantar larutan",
+        "Distilasi",
+        "Pembekuan",
+        "Pemurnian zat",
+        "Penerapan larutan dalam kehidupan"
+      ],
+      "learning_flow": "Memahami konsep/observasi → mengaplikasi lewat eksperimen dan perhitungan → merefleksi.",
+      "assessment": [
+        "Asesmen awal, proses, akhir",
+        "Praktikum/laporan",
+        "Tes",
+        "Analisis data dan presentasi"
+      ],
+      "source_page": "46–49",
+      "source_section": "C. Pemetaan Materi Esensial — 6. Materi Daya Hantar dan Sifat Koligatif Larutan"
+    },
+    {
+      "id": "KIM-F-MAT-07",
+      "phase": "F",
+      "element": "Pemahaman Kimia + Keterampilan Proses",
+      "material": "Konsep Redoks dan Sel Elektrokimia",
+      "essential_material": [
+        "Reaksi redoks",
+        "Bilangan oksidasi",
+        "Oksidasi dan reduksi",
+        "Sel volta",
+        "Sel elektrolisis",
+        "Konversi energi kimia dan energi listrik"
+      ],
+      "final_competency": [
+        "Menjelaskan sel elektrokimia dalam kehidupan sehari-hari.",
+        "Menerapkan konsep reaksi oksidasi-reduksi dalam sel elektrokimia.",
+        "Menganalisis hubungan reaksi redoks dengan kerja sel volta dan elektrolisis.",
+        "Mengaitkan elektrokimia dengan sumber energi, teknologi, dan isu lingkungan."
+      ],
+      "context_examples": [
+        "Baterai",
+        "Korosi",
+        "Sumber energi",
+        "Limbah elektronik",
+        "Alternatif energi yang lebih ramah lingkungan"
+      ],
+      "learning_flow": "Memahami redoks dan sel → mengaplikasi melalui eksperimen/simulasi dan masalah nyata → merefleksi.",
+      "assessment": [
+        "Eksperimen",
+        "Diskusi",
+        "Laporan",
+        "Tes",
+        "Presentasi/produk"
+      ],
+      "source_page": "50–52",
+      "source_section": "C. Pemetaan Materi Esensial — 7. Materi Konsep Redoks dan Sel Elektrokimia"
+    },
+    {
+      "id": "KIM-F-MAT-08",
+      "phase": "F",
+      "element": "Pemahaman Kimia + Keterampilan Proses",
+      "material": "Senyawa Karbon dan Makromolekul",
+      "essential_material": [
+        "Hidrokarbon",
+        "Alkana",
+        "Alkena",
+        "Alkuna",
+        "Gugus fungsi senyawa organik",
+        "Alkohol",
+        "Aldehida",
+        "Keton",
+        "Asam karboksilat",
+        "Ester",
+        "Eter",
+        "Karbohidrat",
+        "Protein",
+        "Polimer/makromolekul",
+        "Pembentukan minyak bumi dari gas alam",
+        "Teknik pemisahan dan kegunaan komponen minyak bumi"
+      ],
+      "final_competency": [
+        "Menjelaskan senyawa karbon dan makromolekul serta penerapannya dalam kehidupan sehari-hari.",
+        "Mengidentifikasi hubungan struktur/gugus fungsi dengan sifat dan penggunaan senyawa organik.",
+        "Mengidentifikasi hidrokarbon dan makromolekul melalui kegiatan eksperimen/literasi.",
+        "Mengomunikasikan hasil investigasi secara sistematis.",
+        "Mengaitkan kimia karbon dengan kesehatan, pangan, energi, industri, lingkungan, dan teknologi."
+      ],
+      "context_examples": [
+        "Minyak bumi",
+        "Bahan bakar",
+        "Plastik/polimer",
+        "Karbohidrat dan protein dalam pangan",
+        "Obat",
+        "Bahan organik rumah tangga"
+      ],
+      "learning_flow": "Memahami melalui fenomena dan infografis → mengaplikasi melalui identifikasi/eksperimen/projek → merefleksi kebermanfaatan dan strategi belajar.",
+      "assessment": [
+        "Kuis awal",
+        "Observasi diskusi/praktikum",
+        "Tes lisan/tertulis",
+        "Laporan praktikum",
+        "Laporan diskusi/projek"
+      ],
+      "source_page": "53–56",
+      "source_section": "C. Pemetaan Materi Esensial — 8. Materi Senyawa Karbon dan Makromolekul"
+    }
+  ],
+  "level_3_pedagogy": {
+    "framework_components": [
+      "Dimensi profil lulusan",
+      "Prinsip pembelajaran",
+      "Pengalaman belajar",
+      "Kerangka pembelajaran"
+    ],
+    "profile_graduate": [
+      {
+        "name": "Keimanan dan Ketakwaan terhadap Tuhan YME",
+        "target": "Keyakinan teguh, menghayati nilai spiritual, berakhlak mulia, penuh kasih, dan bertanggung jawab."
+      },
+      {
+        "name": "Kewargaan",
+        "target": "Cinta tanah air, menaati aturan/norma sosial, peduli, bertanggung jawab sosial, dan berkomitmen menyelesaikan masalah nyata terkait keberlanjutan manusia dan lingkungan."
+      },
+      {
+        "name": "Penalaran Kritis",
+        "target": "Berpikir logis, analitis, reflektif; menganalisis masalah, mengevaluasi argumen, menghubungkan gagasan relevan, dan merefleksikan proses berpikir."
+      },
+      {
+        "name": "Kreativitas",
+        "target": "Berpikir inovatif, fleksibel, orisinal; menghasilkan dan mengembangkan alternatif solusi yang unik, efektif, dan bermanfaat."
+      },
+      {
+        "name": "Kolaborasi",
+        "target": "Bekerja sama efektif melalui pembagian peran/tanggung jawab, menghargai kontribusi dan perbedaan."
+      },
+      {
+        "name": "Kemandirian",
+        "target": "Bertanggung jawab atas proses/hasil belajar, mengambil inisiatif, mengatasi hambatan, menyelesaikan tugas, dan mengatur diri."
+      },
+      {
+        "name": "Kesehatan",
+        "target": "[Data Tidak Tersedia — definisi lengkap pada sumber perlu dirujuk langsung bila diperlukan]."
+      },
+      {
+        "name": "Komunikasi",
+        "target": "Memiliki kemampuan komunikasi yang baik untuk berinteraksi efektif dalam berbagai situasi."
+      }
+    ],
+    "principles": {
+      "berkesadaran": "Murid menjadi pelajar aktif dan mampu meregulasi diri; pembelajaran mengembangkan kesadaran atas proses dan tujuan belajar.",
+      "bermakna": "Murid menerapkan pengetahuan secara kontekstual; belajar tidak berhenti pada penguasaan informasi tetapi berorientasi pada kemampuan mengaplikasikan pengetahuan dan menghubungkannya dengan konteks.",
+      "menggembirakan": "Suasana belajar positif, menantang, menyenangkan, memotivasi, mendorong rasa ingin tahu, kreativitas, dan keterlibatan aktif; media digital dan strategi menarik dapat digunakan."
+    },
+    "learning_experience": {
+      "memahami": {
+        "definition": "Pengalaman belajar ketika murid mengkonstruksi pengetahuan melalui pengaitan fenomena, informasi, konsep, dan pengalaman.",
+        "characteristics": [
+          "Memantik rasa ingin tahu.",
+          "Menghubungkan konsep dengan fenomena nyata.",
+          "Mendorong murid aktif mengonstruksi pengetahuan.",
+          "Menjadi fondasi untuk mengaplikasikan pengetahuan."
+        ]
+      },
+      "mengaplikasi": {
+        "definition": "Pengalaman belajar yang menunjukkan aktivitas murid mengaplikasikan pengetahuan secara kontekstual untuk memperluas pengetahuan.",
+        "characteristics": [
+          "Menerapkan pengetahuan pada situasi nyata atau baru.",
+          "Menggunakan pola pikir untuk memecahkan masalah.",
+          "Dapat berupa inkuiri, eksperimen, projek, analisis data, atau pemecahan masalah."
+        ]
+      },
+      "merefleksi": {
+        "definition": "Proses mengevaluasi dan memaknai proses serta hasil tindakan/praktik nyata yang telah dilakukan.",
+        "characteristics": [
+          "Memotivasi diri untuk terus belajar cara belajar.",
+          "Refleksi pencapaian tujuan pembelajaran/evaluasi diri.",
+          "Menerapkan strategi berpikir.",
+          "Metakognisi dan regulasi diri.",
+          "Regulasi emosi dalam pembelajaran."
+        ]
+      }
+    },
+    "learning_framework": {
+      "praktik_pedagogis": [
+        "Pembelajaran berbasis inkuiri",
+        "Pembelajaran berbasis projek",
+        "Pembelajaran berbasis masalah",
+        "Pembelajaran kolaboratif",
+        "Pembelajaran STEM",
+        "Pembelajaran berdiferensiasi",
+        "Diskusi",
+        "Peta konsep",
+        "Advance organizer",
+        "Kerja kelompok"
+      ],
+      "lingkungan_pembelajaran": [
+        "Ruang fisik",
+        "Ruang virtual",
+        "Budaya belajar aman, nyaman, saling memuliakan, interaktif, eksploratif, ekspresif, dan kolaboratif",
+        "Laboratorium",
+        "Perpustakaan",
+        "Lingkungan/alam sekitar",
+        "Museum",
+        "Ruang praktik",
+        "Platform daring/hybrid"
+      ],
+      "digital": [
+        "Website",
+        "Perpustakaan digital",
+        "Video edukasi",
+        "Multimedia interaktif",
+        "Simulasi",
+        "Animasi",
+        "Gamifikasi",
+        "Kuis formatif interaktif",
+        "Portofolio digital",
+        "Desain bahan ajar visual/infografis"
+      ],
+      "partnership": [
+        "Pendidik dan murid sebagai rekan belajar",
+        "Keluarga",
+        "Masyarakat",
+        "Komunitas",
+        "MGMP",
+        "Mitra profesional",
+        "Dunia usaha/industri",
+        "Institusi pendidikan",
+        "Media",
+        "Orang tua",
+        "Tokoh masyarakat",
+        "Organisasi keagamaan/budaya"
+      ]
+    }
+  },
+  "level_4_operations": {
+    "atp_rules": [
+      "Analisis CP adalah langkah pertama perencanaan pembelajaran.",
+      "CP dianalisis secara utuh: rasional, tujuan, karakteristik, dan capaian per fase.",
+      "Rumusan CP yang telah dianalisis dirumuskan menjadi Tujuan Pembelajaran kemudian diurutkan menjadi Alur Tujuan Pembelajaran.",
+      "Penomoran elemen CP bukan urutan pembelajaran; ATP tidak harus mengikuti urutan elemen.",
+      "ATP Fase F dapat dikembangkan mandiri, berdasarkan contoh pemerintah, atau menggunakan contoh sesuai kebutuhan belajar murid.",
+      "ATP Kimia Fase F dapat dikembangkan secara kolaboratif oleh pendidik kelas XI dan XII dalam satuan pendidikan.",
+      "Pendidik perlu memperhatikan keterkaitan lintas fase dan dapat melakukan asesmen awal untuk mengetahui kesiapan konsep prasyarat."
+    ],
+    "example_atp": [
+      {
+        "class": "XI",
+        "sequence": 1,
+        "goal": "Menerapkan konsep struktur atom dan hubungannya dengan sistem periodik unsur."
+      },
+      {
+        "class": "XI",
+        "sequence": 2,
+        "goal": "Membandingkan jenis ikatan kimia serta kaitannya dengan bentuk molekul dan interaksi antarpartikel dalam memprediksi sifat fisik materi."
+      },
+      {
+        "class": "XI",
+        "sequence": 3,
+        "goal": "Menentukan perubahan entalpi standar dari suatu reaksi kimia serta penerapannya dalam kehidupan sehari-hari."
+      },
+      {
+        "class": "XI",
+        "sequence": 4,
+        "goal": "Menganalisis faktor-faktor yang memengaruhi laju reaksi berdasarkan teori tumbukan."
+      },
+      {
+        "class": "XI",
+        "sequence": 5,
+        "goal": "Menerapkan konsep kesetimbangan kimia dalam kesetimbangan gas."
+      },
+      {
+        "class": "XI",
+        "sequence": 6,
+        "goal": "Menerapkan konsep kesetimbangan kimia dalam kesetimbangan asam basa."
+      },
+      {
+        "class": "XI",
+        "sequence": 7,
+        "goal": "Menerapkan konsep kesetimbangan kimia dalam kesetimbangan kelarutan."
+      },
+      {
+        "class": "XII",
+        "sequence": 8,
+        "goal": "Menganalisis daya hantar listrik dan sifat koligatif larutan serta penerapannya."
+      },
+      {
+        "class": "XII",
+        "sequence": 9,
+        "goal": "Menerapkan konsep reaksi oksidasi-reduksi dalam sel elektrokimia."
+      },
+      {
+        "class": "XII",
+        "sequence": 10,
+        "goal": "Menjelaskan senyawa karbon dan makromolekul serta penerapannya dalam kehidupan sehari-hari."
+      }
+    ],
+    "assessment": {
+      "general": "Asesmen tidak hanya berfokus pada teori, tetapi pada pemahaman konseptual mendalam, keterampilan berpikir kritis, dan penerapan dalam kehidupan nyata.",
+      "timing": [
+        "Awal pembelajaran",
+        "Proses pembelajaran",
+        "Akhir pembelajaran"
+      ],
+      "formative": [
+        "Kuis",
+        "Diskusi",
+        "Lembar kerja",
+        "Observasi diskusi",
+        "Observasi praktikum"
+      ],
+      "summative": [
+        "Tes tertulis",
+        "Tes lisan",
+        "Projek",
+        "Presentasi",
+        "Laporan praktikum",
+        "Laporan diskusi"
+      ],
+      "practical": [
+        "Laporan eksperimen",
+        "Pembuatan model atom/orbital",
+        "Pembuatan model molekul"
+      ],
+      "success_logic": [
+        "Gunakan asesmen awal untuk memetakan kesiapan/prasyarat.",
+        "Gunakan asesmen proses untuk memberikan umpan balik dan intervensi.",
+        "Gunakan asesmen akhir untuk menilai ketercapaian tujuan pembelajaran.",
+        "Kriteria angka/rubrik spesifik pada contoh perencanaan hanya berlaku untuk contoh tersebut; tidak ditetapkan sebagai ambang universal untuk semua topik."
+      ]
+    },
+    "planning_cycle": [
+      "1. Identifikasi: kesiapan murid, karakteristik materi, dimensi profil lulusan.",
+      "2. Desain Pembelajaran: tujuan pembelajaran dan kerangka pembelajaran (praktik pedagogis, kemitraan, lingkungan, pemanfaatan digital).",
+      "3. Pengalaman Belajar: berkesadaran, bermakna, menggembirakan; memahami, mengaplikasi, merefleksi.",
+      "4. Asesmen: awal, proses, akhir."
+    ],
+    "example_case": {
+      "title": "Ada Ikatan, di Balik Materi",
+      "subject": "Kimia",
+      "phase_class": "F/XI",
+      "topic": "Ikatan Kimia",
+      "duration": "15 JP (15 × 45 menit)",
+      "purpose": "Membangun pemahaman jenis ikatan kimia, struktur Lewis, bentuk molekul, interaksi intermolekuler, dan kaitannya dengan sifat fisik materi melalui pengalaman memahami–mengaplikasi–merefleksi.",
+      "main_steps": [
+        "Pertemuan awal/subtopik ikatan ion: asesmen awal dan eksplorasi konsep melalui fenomena.",
+        "Subtopik ikatan kovalen: infografis/video, struktur Lewis, pembentukan H2O, analisis bentuk molekul, komunikasi hasil.",
+        "Subtopik ikatan logam: eksperimen sifat logam.",
+        "Subtopik interaksi intermolekuler: eksplorasi dan pengaitan dengan sifat fisik.",
+        "Presentasi/produk, penilaian akhir, dan refleksi."
+      ],
+      "outputs": [
+        "Jawaban/hasil asesmen awal",
+        "Tabel/produk struktur Lewis dan bentuk molekul",
+        "Dokumentasi eksperimen",
+        "Presentasi kelompok",
+        "Tes tertulis",
+        "Refleksi pembelajaran"
+      ]
+    },
+    "activity_examples": [
+      {
+        "title": "Analisis spektrum atom",
+        "goal": "Menghubungkan struktur atom/konfigurasi elektron dengan fenomena spektrum.",
+        "steps": "Mengamati spektrum → menganalisis pola → menghubungkan dengan model atom → mengomunikasikan hasil.",
+        "output": "Analisis/presentasi."
+      },
+      {
+        "title": "Eksperimen kalorimeter",
+        "goal": "Menentukan perubahan entalpi dan mengembangkan keterampilan laboratorium.",
+        "steps": "Merancang percobaan → menggunakan kalorimeter → mengumpulkan/mengolah data → menghitung ΔH → mempresentasikan.",
+        "output": "Data, perhitungan, laporan/presentasi."
+      },
+      {
+        "title": "Prediksi sifat material dari ikatan",
+        "goal": "Menerapkan jenis ikatan dan gaya intermolekuler untuk memprediksi sifat fisik.",
+        "steps": "Identifikasi jenis ikatan → gunakan struktur/bentuk → analisis gaya antarpartikel → prediksi titik didih/leleh/kelarutan/konduktivitas.",
+        "output": "Argumen ilmiah/prediksi."
+      },
+      {
+        "title": "Eksperimen faktor laju reaksi",
+        "goal": "Menganalisis pengaruh variabel terhadap laju berdasarkan teori tumbukan.",
+        "steps": "Menentukan variabel → merancang eksperimen → mengukur laju → analisis pola → kesimpulan.",
+        "output": "Data dan laporan investigasi."
+      },
+      {
+        "title": "Kesetimbangan asam-basa/kelarutan",
+        "goal": "Menerapkan konsep kesetimbangan pada sistem nyata.",
+        "steps": "Mengamati fenomena → merumuskan pertanyaan/hipotesis → penyelidikan → analisis → refleksi.",
+        "output": "Kesimpulan dan komunikasi hasil."
+      },
+      {
+        "title": "Daya hantar dan sifat koligatif",
+        "goal": "Menghubungkan jumlah/jenis partikel dengan sifat larutan.",
+        "steps": "Uji daya hantar/percobaan sifat koligatif → olah data → hitung/tafsirkan → hubungkan dengan aplikasi.",
+        "output": "Laporan/analisis."
+      },
+      {
+        "title": "Sel elektrokimia dan energi",
+        "goal": "Mengaitkan redoks dengan konversi energi kimia-listrik.",
+        "steps": "Eksplorasi sel → eksperimen/simulasi → analisis redoks → evaluasi aplikasi dan isu lingkungan.",
+        "output": "Model/laporan/presentasi."
+      },
+      {
+        "title": "Identifikasi senyawa karbon dan makromolekul",
+        "goal": "Menghubungkan gugus fungsi/struktur dengan penggunaan senyawa.",
+        "steps": "Literasi → identifikasi/eksperimen → klasifikasi → analisis manfaat/risiko → komunikasi.",
+        "output": "Laporan/presentasi."
+      }
+    ]
+  },
+  "level_5_glossary": {
+    "aldehida": "Senyawa organik yang mengandung gugus fungsi karbonil (C=O) di mana atom karbonil tersebut terikat pada atom hidrogen (H) dan gugus R (rantai hidrokarbon atau atom lain).",
+    "alkana": "Senyawa hidrokarbon alifatik jenuh (hanya mengandung ikatan tunggal) dengan rumus umum CₙH₂ₙ₊₂.",
+    "alkena": "Senyawa hidrokarbon alifatik tak jenuh (memiliki ikatan rangkap dua) dengan rumus umum CₙH₂ₙ.",
+    "alkohol": "Senyawa organik yang memiliki gugus hidroksil (R-OH) yang terikat pada atom karbon.",
+    "alkuna": "Senyawa hidrokarbon alifatik tak jenuh (memiliki ikatan rangkap tiga) dengan rumus umum CnH2n-2.",
+    "asam": "Zat yang dapat menghasilkan ion hidrogen (H+) ketika dilarutkan ke dalam air.",
+    "asam karboksilat": "Senyawa organik yang memiliki gugus karboksil (-COOH), dengan rumus umum R-COOH di mana R adalah gugus alkil.",
+    "basa": "Zat yang dapat menghasilkan ion hidroksida (OH-) ketika dilarutkan ke dalam air.",
+    "elektron": "Partikel pembentuk atom yang mengelilingi inti dan bermuatan negatif.",
+    "ester": "Senyawa organik yang terbentuk dari reaksi asam karboksilat dan alkohol dan memiliki gugus fungsi R-COO-R.",
+    "eter": "Senyawa organik yang memiliki gugus fungsi R-O-R.",
+    "gugus fungsi": "Gugus atom yang terdapat pada senyawa karbon dan memberi ciri khas pada deret homolognya.",
+    "hidrolisis garam": "Reaksi antara ion-ion garam dengan air dan membentuk larutan bersifat asam atau basa.",
+    "ikatan hidrogen": "Ikatan antarmolekul yang terjadi antara molekul yang memiliki atom hidrogen dengan molekul lain yang memiliki atom dengan keelektronegatifan yang tinggi (atom F, O, dan N).",
+    "ikatan ion": "Ikatan kimia yang terjadi karena adanya gaya elektrostatis antara ion positif dan ion negatif dalam senyawa ion.",
+    "ikatan kovalen": "Ikatan kimia antara atom dengan atom karena pemakaian bersama pasangan elektron.",
+    "karbohidrat": "Senyawa polihidroksi yang memiliki gugus fungsional aldehid atau keton.",
+    "laju reaksi (definisi 1)": "Ilmu yang menghitung hubungan kuantitatif dari reaktan dan produk dalam reaksi kimia.",
+    "katoda": "Elektroda tempat terjadinya reaksi reduksi selama reaksi elektrokimia.",
+    "kelarutan": "Kemampuan suatu zat kimia tertentu, zat terlarut (solute), untuk larut dalam suatu pelarut (solvent).",
+    "keton": "Senyawa karbon yang memiliki gugus fungsi R-CO-R.",
+    "laju reaksi (definisi 2)": "Berkurangnya jumlah reaktan untuk setiap satuan waktu atau bertambahnya jumlah hasil reaksi untuk setiap satuan waktu.",
+    "larutan": "Campuran homogen antara zat terlarut dengan zat pelarutnya dan tidak mengendap bila didiamkan.",
+    "larutan penyangga/buffer": "Larutan berbahan dasar pelarut air yang terdiri dari campuran yang mengandung asam lemah dan basa konjugasinya, atau campuran dari basa lemah dan asam konjugasinya, yang dapat mempertahankan nilai pH jika ditambahkan sedikit asam, basa, atau air.",
+    "mol": "Satuan yang digunakan untuk menunjukkan jumlah zat.",
+    "polimer": "Molekul yang terbentuk dari penggabungan molekul-molekul sederhana (monomer) membentuk rantai yang panjang dengan Mr besar.",
+    "protein": "Kelompok biomolekul berukuran besar yang terbentuk dari satu rantai panjang asam amino atau lebih.",
+    "reaksi redoks": "Reaksi kimia yang melibatkan perubahan bilangan oksidasi yang terdiri dari reaksi reduksi dan oksidasi secara bersamaan.",
+    "sifat koligatif larutan": "Sifat larutan yang tergantung pada jumlah zat terlarut dan tidak tergantung pada jenis zat terlarut.",
+    "sel elektrokimia": "Sel tempat terjadinya perubahan dari energi kimia menjadi energi listrik atau sebaliknya.",
+    "stoikiometri": "Ilmu yang menghitung hubungan kuantitatif dari reaktan dan produk dalam reaksi kimia.",
+    "struktur Lewis": "Struktur yang menunjukkan jumlah ikatan atom-atom yang terikat membentuk molekul dan pasangan bebas jika ada.",
+    "termokimia": "Bagian ilmu kimia yang membahas hubungan antara kalor dengan reaksi kimia atau proses-proses yang berhubungan dengan reaksi kimia.",
+    "titrasi": "Suatu prosedur yang bertujuan untuk menentukan banyaknya suatu larutan dengan konsentrasi yang telah diketahui agar tepat habis bereaksi dengan sejumlah larutan yang dianalisis (ingin diketahui kadarnya)."
+  }
+}

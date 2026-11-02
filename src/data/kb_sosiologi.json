@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "subject": "Sosiologi",
+    "phase": "F",
+    "education_level": "SMA/MA/Paket C",
+    "classes": [
+      "XI",
+      "XII"
+    ],
+    "document_title": "Panduan Mata Pelajaran Sosiologi Fase F",
+    "publisher": "Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kementerian Pendidikan Dasar dan Menengah Republik Indonesia",
+    "year": 2025,
+    "source_file": "16. Final Panduan Mata Pelajaran Sosiologi_12_09_2025_Revisi 3.pdf",
+    "source_pages": 81,
+    "fidelity_rule": "Source-grounded; information not supported by the document is marked [Data Tidak Tersedia]."
+  },
+  "level_1_identitas_filosofi": {
+    "identitas": {
+      "subjek": "Sosiologi",
+      "sasaran": "SMA/MA/Paket C Kelas XI dan XII, Fase F"
+    },
+    "rasionalitas": [
+      "Membentuk kesadaran sosial, keterampilan berpikir kritis, dan kemampuan analisis terhadap fenomena sosial yang terus berkembang.",
+      "Menghubungkan teori Sosiologi dengan realitas sosial, termasuk masyarakat digital.",
+      "Membekali murid dengan perspektif kritis untuk memahami dan menavigasi kompleksitas kehidupan sosial.",
+      "Menumbuhkan kepekaan sosial, empati, kemampuan beradaptasi, dan kepedulian terhadap persoalan sosial.",
+      "Membantu murid memahami identitas diri dan lingkungan sosial serta menyikapi perubahan sosial secara adaptif dan solutif.",
+      "Mengembangkan etika sosial sebagai panduan nilai untuk mencegah atau meminimalkan konflik dan membangun tatanan sosial yang teratur.",
+      "Mendukung pembentukan masyarakat yang lebih adil, berkeadaban, harmonis, inklusif, dan berkelanjutan."
+    ],
+    "karakteristik": {
+      "ilmu": [
+        "Mempelajari masyarakat, dinamika sosial, interaksi sosial, dan akibat yang ditimbulkannya.",
+        "Bersifat konseptual sekaligus aplikatif.",
+        "Menggunakan analisis sosial dan metode penelitian empiris seperti observasi dan wawancara.",
+        "Bersifat interdisipliner dengan ekonomi, politik, budaya, dan teknologi.",
+        "Menekankan berpikir kritis, analitis, adaptif, kolaboratif, komunikasi berbasis data, dan refleksi kritis."
+      ],
+      "elemen": [
+        {
+          "nama": "Pemahaman Konsep",
+          "deskripsi": "Meliputi definisi, prinsip, prosedur, dan mekanisme hasil kajian dari interaksi manusia; penguasaan materi secara holistik dan kontekstual; penerapan pemahaman konsep; serta refleksi terhadap fenomena yang menjadi objek kajian Sosiologi dalam praktik kehidupan sehari-hari."
+        },
+        {
+          "nama": "Keterampilan Proses",
+          "deskripsi": "Kemampuan dasar untuk meneliti, mengumpulkan, menganalisis, menyajikan, melaporkan, dan mengomunikasikan hasil pembelajaran bermakna dan bereflektif dengan kesadaran kolektif dan kesadaran intelektual yang kritis, logis, dan solutif atas realitas sosial, termasuk dengan bantuan teknologi."
+        }
+      ]
+    }
+  },
+  "level_2_taksonomi_materi": {
+    "table": [
+      {
+        "fase": "F",
+        "elemen": "Pemahaman Konsep",
+        "materi_esensial": "Masalah sosial dan upaya pemecahan masalah sosial berdasarkan perspektif pemberdayaan masyarakat: masalah sosial dan ragamnya; upaya pemecahan masalah dengan pemberdayaan masyarakat sebagai pendekatan.",
+        "kompetensi_akhir": "Menganalisis berbagai permasalahan sosial; menyusun pemecahan masalah sosial dalam perspektif pemberdayaan; menghasilkan projek inovatif digital/nondigital; berpikir kritis dan kreatif; melakukan kajian literasi, analisis, penyajian, pelaporan, dan komunikasi hasil kajian."
+      },
+      {
+        "fase": "F",
+        "elemen": "Pemahaman Konsep",
+        "materi_esensial": "Konflik dan integrasi sosial: konflik sosial; integrasi sosial.",
+        "kompetensi_akhir": "Menganalisis konflik dan kekerasan, penyebab dan dampaknya; memahami dan menerapkan mediasi, negosiasi, kompromi, rekonsiliasi; menganalisis integrasi sosial dan merancang solusi berbasis dialog serta kesepahaman."
+      },
+      {
+        "fase": "F",
+        "elemen": "Pemahaman Konsep",
+        "materi_esensial": "Prinsip kesetaraan dalam perbedaan sosial yang digunakan untuk mewujudkan masyarakat multikultural: kelompok sosial sebagai realitas empiris dalam masyarakat majemuk; membangun harmoni sosial untuk mewujudkan masyarakat yang multikultur.",
+        "kompetensi_akhir": "Menguraikan kelompok sosial sebagai realitas masyarakat yang beragam; menerapkan prinsip kesetaraan; mengembangkan kesadaran multikultural, pemahaman hak dan kewajiban, toleransi, empati, komunikasi lintas budaya, dan kolaborasi."
+      },
+      {
+        "fase": "F",
+        "elemen": "Pemahaman Konsep",
+        "materi_esensial": "Hubungan perubahan sosial pada kelompok atau komunitas dan globalisasi: perubahan sosial; globalisasi dan masyarakat digital.",
+        "kompetensi_akhir": "Menganalisis perubahan sosial, globalisasi, masyarakat digital, serta hubungan interaksi, norma, nilai, struktur sosial, digitalisasi, identitas sosial-kultural, peluang dan tantangan globalisasi."
+      },
+      {
+        "fase": "F",
+        "elemen": "Keterampilan Proses",
+        "materi_esensial": "Mengamati; mendokumentasikan; mengumpulkan; mengolah; menyajikan; melaporkan; mengomunikasikan fenomena sosial di Indonesia dan/atau dunia dari realitas sosial maupun media digital.",
+        "kompetensi_akhir": "Menyajikan respons terhadap perubahan secara logis dan sistematis dengan pendekatan pembelajaran mendalam; merancang projek kolaboratif yang solutif."
+      }
+    ],
+    "class_mapping": [
+      {
+        "class": "XI",
+        "sequence": 1,
+        "tujuan": "Menganalisis berbagai permasalahan sosial yang terjadi dalam masyarakat."
+      },
+      {
+        "class": "XI",
+        "sequence": 2,
+        "tujuan": "Menyusun upaya pemecahan masalah sosial dengan pemberdayaan sebagai pendekatan."
+      },
+      {
+        "class": "XI",
+        "sequence": 3,
+        "tujuan": "Menganalisis konflik dan kekerasan yang terjadi di masyarakat."
+      },
+      {
+        "class": "XI",
+        "sequence": 4,
+        "tujuan": "Menganalisis integrasi sosial di tengah dinamika masyarakat digital."
+      },
+      {
+        "class": "XII",
+        "sequence": 5,
+        "tujuan": "Menguraikan kelompok sosial sebagai realitas masyarakat yang beragam."
+      },
+      {
+        "class": "XII",
+        "sequence": 6,
+        "tujuan": "Menerapkan prinsip kesetaraan dalam perbedaan sosial untuk mewujudkan masyarakat multikultural."
+      },
+      {
+        "class": "XII",
+        "sequence": 7,
+        "tujuan": "Menganalisis berbagai perubahan sosial yang terjadi dalam masyarakat."
+      },
+      {
+        "class": "XII",
+        "sequence": 8,
+        "tujuan": "Menganalisis globalisasi dan masyarakat digital."
+      }
+    ]
+  },
+  "level_3_framework_pedagogi": {
+    "prinsip_pembelajaran": [
+      "Berorientasi pada murid.",
+      "Pembelajaran mendalam.",
+      "Berkesadaran, bermakna, dan menggembirakan.",
+      "Kontekstual: menghubungkan teori dengan situasi nyata.",
+      "Aktif, kolaboratif, reflektif, eksploratif.",
+      "Mendorong pertanyaan, penelitian, analisis, pemecahan masalah, dan aksi nyata.",
+      "Mengintegrasikan praktik pedagogis, kemitraan pembelajaran, lingkungan pembelajaran, dan pemanfaatan digital."
+    ],
+    "pengalaman_belajar": {
+      "alur": [
+        "Memahami",
+        "Mengaplikasi",
+        "Merefleksi"
+      ],
+      "memahami": [
+        "Membangun pengetahuan melalui eksplorasi dan pengalaman.",
+        "Menghubungkan pengetahuan baru dengan pengetahuan sebelumnya.",
+        "Mengonstruksi pemahaman melalui proses mengalami, interaksi, dan pemaknaan.",
+        "Mengidentifikasi, mengklasifikasi, menafsirkan, dan menjelaskan konsep."
+      ],
+      "mengaplikasi": [
+        "Menghubungkan konsep baru dengan pengetahuan sebelumnya.",
+        "Menerapkan pengetahuan dalam situasi nyata atau bidang lain.",
+        "Mengembangkan pemahaman melalui eksplorasi lebih lanjut.",
+        "Berpikir kritis dan mencari solusi inovatif berdasarkan pengetahuan yang ada."
+      ],
+      "merefleksi": [
+        "Mengevaluasi dan memaknai proses serta hasil tindakan/praktik nyata.",
+        "Menilai ketercapaian tujuan pembelajaran.",
+        "Mengidentifikasi kekuatan, tantangan, dan area perbaikan.",
+        "Mengembangkan regulasi diri melalui perencanaan, pelaksanaan, pengawasan, dan evaluasi belajar.",
+        "Menggunakan umpan balik dari pendidik, teman sebaya, komunitas, atau pihak terkait.",
+        "Merumuskan langkah konkret untuk perbaikan dan kontribusi sosial."
+      ]
+    },
+    "profil_lulusan": [
+      "Keimanan dan ketakwaan terhadap Tuhan Yang Maha Esa",
+      "Kewargaan",
+      "Penalaran kritis",
+      "Kreativitas",
+      "Kolaborasi",
+      "Kemandirian",
+      "Kesehatan",
+      "Komunikasi"
+    ]
+  },
+  "level_4_operasional_implementasi": {
+    "alur_tujuan_pembelajaran": {
+      "aturan": [
+        "ATP dirumuskan langsung berdasarkan CP sesuai Panduan Pembelajaran dan Asesmen.",
+        "Pendidik dapat merancang ATP secara mandiri atau menggunakan contoh pemerintah.",
+        "Penyusunan ATP disesuaikan dengan karakteristik mata pelajaran dan tidak harus mengikuti urutan penomoran elemen CP.",
+        "Analisis CP menjadi langkah pertama perencanaan.",
+        "ATP dan dokumen perencanaan membuat CP yang masih umum menjadi lebih operasional untuk pembelajaran intrakurikuler.",
+        "Pendidik mempertimbangkan materi, kedalaman, proses belajar, alternatif cara belajar, dan cara menilai ketercapaian CP."
+      ],
+      "contoh_alur": [
+        "1. Menganalisis berbagai permasalahan sosial yang terjadi dalam masyarakat.",
+        "2. Menyusun upaya pemecahan masalah sosial dengan pemberdayaan sebagai pendekatan.",
+        "3. Menganalisis konflik dan kekerasan yang terjadi di masyarakat.",
+        "4. Menganalisis integrasi sosial di tengah dinamika masyarakat digital.",
+        "5. Menguraikan kelompok sosial sebagai realitas masyarakat yang beragam.",
+        "6. Menerapkan prinsip kesetaraan dalam perbedaan sosial untuk mewujudkan masyarakat multikultural.",
+        "7. Menganalisis berbagai perubahan sosial yang terjadi dalam masyarakat.",
+        "8. Menganalisis globalisasi dan masyarakat digital."
+      ]
+    },
+    "asesmen": {
+      "arsitektur_umum": [
+        "Asesmen pada awal pembelajaran.",
+        "Asesmen pada proses pembelajaran.",
+        "Asesmen pada akhir pembelajaran."
+      ],
+      "contoh_teknik": [
+        "Kuesioner reflektif",
+        "Diskusi kelas",
+        "Mind mapping",
+        "Observasi singkat",
+        "Review proposal",
+        "Jurnal harian",
+        "Observasi keterlibatan",
+        "Umpan balik pendidik dan teman sejawat",
+        "Laporan tertulis",
+        "Presentasi projek",
+        "Refleksi pribadi",
+        "Penilaian sikap dengan rubrik",
+        "Tes tertulis",
+        "Esai analisis kasus",
+        "Asesmen antarteman",
+        "FSB (Fridge, Suitcase, Bin)"
+      ],
+      "kriteria_keberhasilan": "Pada contoh perencanaan, murid dianggap sudah mencapai tujuan pembelajaran jika dapat mencapai kriteria cakap."
+    },
+    "contoh_kasus": [
+      {
+        "judul": "Upaya Pemecahan Masalah Sosial dengan Pemberdayaan sebagai Pendekatan",
+        "tujuan": "Menyusun upaya pemecahan masalah sosial dengan pemberdayaan sebagai pendekatan.",
+        "langkah_utama": [
+          "Asesmen awal dan identifikasi kesiapan.",
+          "Eksplorasi masalah sosial melalui berita, dokumenter, studi kasus, observasi/wawancara.",
+          "Identifikasi akar masalah dan pengaitan dengan teori Sosiologi.",
+          "Merancang strategi pemberdayaan berbasis partisipasi.",
+          "Melaksanakan/menyusun projek dan berkolaborasi dengan komunitas/lembaga.",
+          "Presentasi, evaluasi, dan refleksi."
+        ],
+        "output": "Projek pemberdayaan, laporan, presentasi, refleksi."
+      },
+      {
+        "judul": "Konflik dan Integrasi Sosial",
+        "tujuan": "Menganalisis konflik/kekerasan dan merancang strategi integrasi sosial.",
+        "langkah_utama": [
+          "Eksplorasi kasus konflik nyata.",
+          "Analisis jenis, penyebab, dampak, dan perspektif pihak terkait.",
+          "Studi kasus, diskusi, observasi atau wawancara.",
+          "Simulasi mediasi dan latihan negosiasi.",
+          "Perancangan strategi penyelesaian konflik/integrasi.",
+          "Presentasi dan refleksi."
+        ],
+        "output": "Strategi penyelesaian konflik, simulasi mediasi, laporan/presentasi/esai reflektif."
+      },
+      {
+        "judul": "Kesetaraan dalam Perbedaan Sosial",
+        "tujuan": "Menerapkan prinsip kesetaraan untuk mewujudkan masyarakat multikultural.",
+        "langkah_utama": [
+          "Observasi/penelitian tentang ketidakadilan sosial.",
+          "Analisis prasangka antarkelompok, akses pendidikan tidak merata, atau kesenjangan lainnya.",
+          "Penyusunan laporan kritis dengan konsep/teori Sosiologi.",
+          "Perancangan projek pengentasan masalah.",
+          "Visualisasi gagasan melalui poster, infografik, video edukatif, pop up, komik, atau media lain.",
+          "Refleksi dan asesmen antarteman/FSB."
+        ],
+        "output": "Laporan kritis dan produk projek/visualisasi."
+      },
+      {
+        "judul": "Hubungan Perubahan Sosial, Kelompok/Komunitas, dan Globalisasi",
+        "tujuan": "Menganalisis perubahan sosial, globalisasi, dan masyarakat digital serta konsekuensinya.",
+        "langkah_utama": [
+          "Mengidentifikasi perubahan pada interaksi, norma, nilai, struktur sosial.",
+          "Menghubungkan perubahan dengan globalisasi dan digitalisasi.",
+          "Menganalisis dampak terhadap identitas sosial-kultural, peluang, dan tantangan.",
+          "Menggunakan data/media digital dan diskusi/riset kontekstual.",
+          "Merumuskan respons adaptif dan solutif."
+        ],
+        "output": "[Data Tidak Tersedia: format output spesifik contoh pembelajaran tidak teridentifikasi secara lengkap dalam hasil ekstraksi yang digunakan]"
+      }
+    ]
+  },
+  "level_5_glosarium": {
+    "terms": [
+      {
+        "term": "Globalisasi",
+        "definition": "proses masuknya ke ruang lingkup dunia, yang ditandai dengan peningkatan interaksi, menularnya kebudayaan, dan munculnya masalah bersama."
+      },
+      {
+        "term": "Kearifan lokal (local wisdom)",
+        "definition": "pengetahuan, nilai, norma, dan praktik-praktik budaya yang berkembang dalam suatu masyarakat tertentu, diwariskan secara turun-temurun, dan berfungsi untuk mengatur kehidupan masyarakat secara harmonis dengan alam dan sosial; mencerminkan identitas, ketahanan, dan adaptasi masyarakat terhadap lingkungannya."
+      },
+      {
+        "term": "Kesetaraan (equality)",
+        "definition": "konsep yang merujuk pada keadaan setara atau sederajat antara laki-laki dan perempuan dalam pemenuhan hak-hak politik, ekonomi, sipil, sosial, dan budaya."
+      },
+      {
+        "term": "Masyarakat digital (digital society)",
+        "definition": "masyarakat yang terhubung melalui jaringan teknologi informasi dan komunikasi, yang mempengaruhi pola interaksi dan kehidupan sehari-hari mereka."
+      },
+      {
+        "term": "Masyarakat multikultural (multiculturalism society)",
+        "definition": "masyarakat yang terdiri atas berbagai kelompok budaya yang berbeda, dengan karakteristik dan adat istiadat masing-masing, yang hidup berdampingan dalam satu kesatuan sosial dan politik."
+      },
+      {
+        "term": "Pemberdayaan masyarakat (community empowerment)",
+        "definition": "suatu proses peningkatan kapasitas, kemandirian, dan partisipasi aktif masyarakat dalam mengidentifikasi masalah, merencanakan solusi, mengambil keputusan, dan melaksanakan program untuk memperbaiki kualitas hidup secara berkelanjutan; melibatkan penguatan aspek ekonomi, sosial, politik, dan budaya agar penerima manfaat mampu berdaya dan inklusif."
+      },
+      {
+        "term": "Perubahan iklim",
+        "definition": "perubahan jangka panjang dalam suhu dan pola cuaca di suatu wilayah."
+      },
+      {
+        "term": "Problem based learning (PBL)",
+        "definition": "metode pembelajaran yang berpusat pada murid (student-centered) di mana pembelajaran dimulai dengan sebuah masalah nyata, kompleks, dan relevan."
+      }
+    ],
+    "additional_terms_not_fully_retrieved": "[Data Tidak Tersedia]"
+  }
+}

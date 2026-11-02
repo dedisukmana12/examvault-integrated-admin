@@ -1,0 +1,302 @@
+/* Copyright (c) 2026 Dedi Sukmana - ASF (Autonomous Solution Factory). Proprietary; all rights reserved. */
+@import "tailwindcss";
+
+:root {
+  --primary: #2563eb;
+  --background: #f8fafc;
+  --foreground: #0f172a;
+  --card: #ffffff;
+  --border: #e2e8f0;
+}
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: #1e293b;
+    background-color: #f8fafc;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+/* ==========================================================================
+   TABLE & CARD PAGE BREAK PREVENTION (ANTI-SPLIT VERTICAL ROWS)
+   ========================================================================== */
+table {
+  /* Mengulang header tabel di setiap halaman baru */
+  page-break-inside: auto;
+}
+
+tr {
+  /* Mencegah satu baris terbelah dua */
+  break-inside: avoid;
+  page-break-inside: avoid;
+  page-break-after: auto;
+}
+
+thead {
+  /* Memastikan header tabel muncul lagi di halaman baru */
+  display: table-header-group;
+}
+
+tfoot {
+  display: table-footer-group;
+}
+
+/* Penanganan Tabel Standar Dokumen (Doc 1, 2, 3, 7, 8) */
+.tabel-dokumen {
+  width: 100% !important;
+  max-width: 100% !important;
+  border-collapse: collapse;
+  font-size: 11px;
+}
+
+.tabel-dokumen th, 
+.tabel-dokumen td {
+  padding: 5px 6px;
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+/* Tabel Matriks Khusus PROSEM (Doc 4 - 34 Kolom Mingguan) */
+.tabel-prosem {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 10px;
+}
+
+.tabel-prosem th, 
+.tabel-prosem td {
+  padding: 3px 2px;
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+@media print {
+  .tabel-dokumen {
+    font-size: 8pt !important;
+    line-height: 1.3 !important;
+  }
+  .tabel-dokumen th,
+  .tabel-dokumen td {
+    padding: 3px 4px !important;
+  }
+
+  .tabel-prosem {
+    font-size: 6.5pt !important;
+    line-height: 1.2 !important;
+  }
+  .tabel-prosem th,
+  .tabel-prosem td {
+    padding: 1.5px 1px !important;
+  }
+}
+
+/* Dukungan Cetak Halaman Landscape (Khusus Bab IV: PROSEM) */
+@page landscape-prosem {
+  size: A4 landscape;
+  margin-top: 12mm;
+  margin-bottom: 12mm;
+  margin-left: 18mm;
+  margin-right: 12mm;
+}
+
+.print-landscape-page {
+  page: landscape-prosem;
+}
+
+/* Untuk kotak/card atau blok tanda tangan agar tidak terpotong */
+.ttd-table,
+.ttd-table tr,
+.ttd-table td,
+.ttd-block,
+.card-modul,
+.lkpd-box,
+.avoid-break,
+.page-break-inside-avoid,
+.print\:break-inside-avoid {
+  break-inside: avoid;
+  page-break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+}
+
+/* ==========================================================================
+   PRINT FORMAT SPECIFICATIONS: PORTRAIT & 30MM LEFT BINDING GUTTER MARGIN
+   Standar Naskah Dinas / Administrasi Guru:
+   - Ukuran & Orientasi: A4 Portrait
+   - Margin Kiri (Space Jilid / Binding): 30 mm (3.0 cm)
+   - Margin Kanan: 15 mm (1.5 cm)
+   - Margin Atas & Bawah: 20 mm (2.0 cm)
+   ========================================================================== */
+@media print {
+  @page {
+    size: A4 portrait;
+    margin-top: 20mm;
+    margin-bottom: 20mm;
+    margin-left: 30mm; /* Ruang jilid / binding gutter sebelah kiri */
+    margin-right: 15mm;
+  }
+  
+  html, body {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    font-size: 9.5pt;
+    line-height: 1.35;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    overflow: visible !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Reset ALL ancestor containers so flexbox or min-h-screen never breaks page pagination */
+  #root,
+  #root > div,
+  main,
+  main > div,
+  #document-print-container,
+  #document-print-container > div,
+  .space-y-6,
+  .space-y-8 {
+    display: block !important;
+    flex-direction: row !important;
+    flex: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    overflow: visible !important;
+    position: static !important;
+    float: none !important;
+    box-shadow: none !important;
+    border: none !important;
+  }
+
+  #document-print-container > section + section {
+    margin-top: 0 !important;
+  }
+
+  .print-page-document {
+    background: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow: visible !important;
+  }
+
+  table {
+    width: 100% !important;
+    page-break-inside: auto !important;
+    border-collapse: collapse !important;
+    font-size: 8.5pt;
+  }
+
+  .tabel-dokumen {
+    width: 100% !important;
+    max-width: 100% !important;
+    table-layout: fixed !important;
+    border-collapse: collapse !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+    font-size: 8.5pt !important;
+  }
+
+  .tabel-dokumen th, 
+  .tabel-dokumen td {
+    padding: 3px 5px !important;
+    word-break: break-word !important;
+  }
+
+  tr {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+    page-break-after: auto !important;
+  }
+
+  thead {
+    display: table-header-group !important;
+  }
+
+  tfoot {
+    display: table-footer-group !important;
+  }
+
+  th, td {
+    border-color: #334155 !important;
+  }
+
+  .ttd-table,
+  .ttd-table tr,
+  .ttd-table td,
+  .ttd-block,
+  .card-modul,
+  .lkpd-box {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+    -webkit-column-break-inside: avoid !important;
+  }
+
+  .ttd-block {
+    margin-top: 10pt !important;
+    padding-top: 6pt !important;
+  }
+
+  .print\:break-after-page,
+  .page-break-after {
+    page-break-after: always !important;
+    break-after: page !important;
+  }
+
+  .print\:break-before-page,
+  .page-break-before {
+    page-break-before: always !important;
+    break-before: page !important;
+  }
+
+  .print\:break-inside-avoid,
+  .page-break-inside-avoid,
+  .avoid-break {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  /* Hide screen-only interactive controls during print */
+  nav,
+  footer,
+  button,
+  .print\:hidden,
+  .no-print {
+    display: none !important;
+  }
+
+  .print\:text-black {
+    color: #000000 !important;
+  }
+
+  .print\:border-slate-800,
+  .print\:border-black {
+    border-color: #000000 !important;
+  }
+
+  .print\:bg-black {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+  }
+
+  .print\:bg-transparent {
+    background-color: transparent !important;
+  }
+}
+

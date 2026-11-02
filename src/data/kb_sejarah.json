@@ -1,0 +1,729 @@
+{
+  "metadata": {
+    "title": "Atomic Knowledge Base — Panduan Mata Pelajaran Sejarah",
+    "source_file": "Panduan Mata Pelajaran Sejarah.pdf",
+    "publisher": "Badan Standar, Kurikulum, dan Asesmen Pendidikan — Kemendikdasmen",
+    "year": 2025,
+    "document_pages": 130,
+    "substantive_scope": [
+      "Sejarah SMA/MA/Program Paket C Fase F",
+      "Sejarah Tingkat Lanjut SMA/MA/Program Paket C Fase F",
+      "Sejarah SMK/MAK Fase E",
+      "Sejarah SMK/MAK Fase F"
+    ],
+    "fidelity_note": "Ekstraksi berbasis dokumen. Tidak menambahkan informasi di luar sumber; informasi yang tidak ditemukan ditandai [Data Tidak Tersedia]."
+  },
+  "level_1_identitas_filosofi": {
+    "subjek": "Sejarah dan Sejarah Tingkat Lanjut",
+    "sasaran": [
+      "Sejarah SMA/MA/Program Paket C Fase F",
+      "Sejarah Tingkat Lanjut SMA/MA/Program Paket C Fase F",
+      "Sejarah SMK/MAK Fase E",
+      "Sejarah SMK/MAK Fase F"
+    ],
+    "rasional_sejarah": [
+      "Mengkaji kehidupan manusia dalam ruang dan waktu, terutama berbagai peristiwa sejarah dalam kehidupan bangsa Indonesia.",
+      "Berfokus pada substansi sejarah Indonesia dengan perspektif Indonesia sentris.",
+      "Bercirikan diakronis (kronologis), sinkronis, tematik, multidisipliner dan konektivitas; dapat dikaitkan dengan sejarah lokal maupun sejarah dunia.",
+      "Kesadaran sejarah ke-Indonesia-an menjadi pengikat persatuan dan kesatuan sebagai bangsa.",
+      "Pengetahuan masa lalu dikontekstualisasikan pada kehidupan kini dan menjadi bahan proyeksi masa depan.",
+      "Pembelajaran melatih berpikir kritis, empati, refleksi, karya dan pengambilan keputusan bijaksana."
+    ],
+    "rasional_sejarah_tingkat_lanjut": [
+      "Pendalaman dan perluasan Sejarah kelompok umum dengan fokus sejarah dunia perspektif global.",
+      "Mendorong wawasan global, keterampilan berpikir/literasi sejarah dan kesadaran sejarah.",
+      "Membuka pilihan studi dan pengenalan profesi, komunitas serta kegiatan kesejarahan."
+    ],
+    "rasional_smk": [
+      "Menghubungkan masa lampau dan masa kini serta membentuk nasionalisme, disiplin, kerja sama, kejujuran, tanggung jawab dan adaptasi terhadap dunia kerja.",
+      "Mendukung memasuki dunia kerja, pendidikan tinggi dan kewirausahaan.",
+      "Substansi dapat disesuaikan dengan kompetensi bidang keahlian melalui studi kasus dunia kerja."
+    ],
+    "karakteristik": {
+      "elemen": [
+        {
+          "name": "Pemahaman Konsep",
+          "description": "Memahami peristiwa sejarah menggunakan konsep dasar ilmu sejarah."
+        },
+        {
+          "name": "Keterampilan Proses",
+          "description": "Mengamati, menanya, mengumpulkan sumber/heuristik, kritik sumber, interpretasi, komunikasi, refleksi dan projek lanjutan."
+        }
+      ],
+      "khusus_sejarah_tingkat_lanjut": [
+        "Signifikansi sejarah",
+        "Pencarian sumber sejarah",
+        "Perubahan, keberlanjutan dan keberulangan",
+        "Perkembangan dan keruntuhan",
+        "Keruangan sejarah",
+        "Empati dan keputusan moral",
+        "Pelaku sejarah"
+      ]
+    }
+  },
+  "level_2_taksonomi_materi": {
+    "criteria_materi_esensial": [
+      "Kronologi",
+      "Konektivitas",
+      "Kausalitas",
+      "Signifikansi",
+      "Kontekstual"
+    ],
+    "table": [
+      {
+        "id": "MAT-E-01",
+        "phase": "E",
+        "subject": "Sejarah",
+        "element": "Pemahaman Konsep",
+        "material": "Konsep dasar ilmu sejarah; penelitian sejarah; Kerajaan Hindu-Buddha; Kerajaan Islam",
+        "competency": "Memahami konsep dasar ilmu sejarah serta menginterpretasi berbagai peristiwa sejarah Indonesia; menerapkan keterampilan berpikir sejarah.",
+        "source_page": "29-30",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-SJ-01",
+        "phase": "F",
+        "subject": "Sejarah SMA/MA/Program Paket C",
+        "element": "Pemahaman Konsep",
+        "material": "Masa penjajahan bangsa Barat",
+        "competency": "Menjelaskan proses kedatangan dan motif bangsa Barat; menganalisis dampak sosial, politik, ekonomi, budaya, ilmu pengetahuan dan teknologi; menggunakan hubungan sebab-akibat, konektivitas lokal-nasional-global dan konteks masa lalu-kini-masa depan.",
+        "source_page": "33",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-SJ-02",
+        "phase": "F",
+        "subject": "Sejarah SMA/MA/Program Paket C",
+        "element": "Pemahaman Konsep",
+        "material": "Perlawanan rakyat daerah terhadap penjajah",
+        "competency": "Memetakan lokasi, tokoh, latar belakang, bentuk, jalannya perlawanan dan dampak; mengontekstualisasikan dengan sejarah lokal.",
+        "source_page": "33",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-SJ-03",
+        "phase": "F",
+        "subject": "Sejarah SMA/MA/Program Paket C",
+        "element": "Pemahaman Konsep",
+        "material": "Pergerakan kebangsaan Indonesia",
+        "competency": "Menjelaskan latar belakang, bentuk, tokoh, pemikiran dan dampak pergerakan; mengkaji Sumpah Pemuda 1928 sebagai lahirnya konsepsi kebangsaan Indonesia, tanah air Indonesia dan bahasa Indonesia.",
+        "source_page": "33-34",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-SJ-04",
+        "phase": "F",
+        "subject": "Sejarah SMA/MA/Program Paket C",
+        "element": "Pemahaman Konsep",
+        "material": "Pendudukan Jepang",
+        "competency": "Menjelaskan latar belakang kedatangan, bentuk pendudukan, perlawanan rakyat dan dampaknya; mengaitkan dengan Perang Dunia II dan isu SDGs.",
+        "source_page": "34",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-SJ-05",
+        "phase": "F",
+        "subject": "Sejarah SMA/MA/Program Paket C",
+        "element": "Pemahaman Konsep",
+        "material": "Proklamasi Kemerdekaan Indonesia",
+        "competency": "Menjelaskan janji kemerdekaan Jepang, kekalahan Jepang, Rengasdengklok, rumah Laksamana Maeda, pembacaan teks proklamasi, penyebaran berita, respons daerah/dunia dan sidang PPKI I-II-III; menulis biografi tokoh dan bermain peran.",
+        "source_page": "34",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-SJ-06",
+        "phase": "F",
+        "subject": "Sejarah SMA/MA/Program Paket C",
+        "element": "Pemahaman Konsep",
+        "material": "Mempertahankan kemerdekaan Indonesia",
+        "competency": "Menganalisis strategi diplomasi dan pertempuran fisik 1945-1949 serta perbedaan perspektif Indonesia dan Belanda dan relevansinya pada masa kini.",
+        "source_page": "34",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-SJ-07",
+        "phase": "F",
+        "subject": "Sejarah SMA/MA/Program Paket C",
+        "element": "Pemahaman Konsep",
+        "material": "Pemerintahan Sukarno",
+        "competency": "Menjelaskan Demokrasi RIS, Demokrasi Liberal dan Demokrasi Terpimpin; menganalisis kebijakan politik, ekonomi, sosial, militer, ilmu pengetahuan dan teknologi dalam/luar negeri, dampak serta ancaman ideologi/disintegrasi; menulis biografi Sukarno.",
+        "source_page": "35",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-SJ-08",
+        "phase": "F",
+        "subject": "Sejarah SMA/MA/Program Paket C",
+        "element": "Pemahaman Konsep",
+        "material": "Pemerintahan Suharto",
+        "competency": "Menjelaskan latar belakang dan perkembangan pemerintahan Suharto; menganalisis kebijakan politik, ekonomi, sosial, militer, ilmu pengetahuan dan teknologi dalam/luar negeri serta dampaknya; menulis biografi Suharto.",
+        "source_page": "35",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-SJ-09",
+        "phase": "F",
+        "subject": "Sejarah SMA/MA/Program Paket C",
+        "element": "Pemahaman Konsep",
+        "material": "Reformasi",
+        "competency": "Menjelaskan latar belakang, jalannya, aktor dan dampak Reformasi 1998; menganalisis pemerintahan/kebijakan Habibie, Abdurrahman Wahid, Megawati, Susilo Bambang Yudhoyono dan Joko Widodo; membandingkan peran pemuda/mahasiswa 1998, 1966, 1945, 1928 dan 1908 dengan masa kini.",
+        "source_page": "35",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-STL-01",
+        "phase": "F",
+        "subject": "Sejarah Tingkat Lanjut",
+        "element": "Pemahaman Konsep",
+        "material": "Asal usul manusia: Big History, Big Bang, asal usul jagat raya, manusia awal, migrasi, komunitas, berburu-meramu, api, domestikasi, seni, menetap dan revolusi neolitikum; keterkaitan sejarah, arkeologi, paleontologi, sosial, psikologi, fisika, kimia, biologi molekuler dan bioteknologi.",
+        "competency": "Memahami asal-usul dan perkembangan awal manusia secara multidisipliner serta mengaplikasikan nilai kemanusiaan dan keberlangsungan planet.",
+        "source_page": "36-38",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-STL-02",
+        "phase": "F",
+        "subject": "Sejarah Tingkat Lanjut",
+        "element": "Pemahaman Konsep",
+        "material": "Peradaban-peradaban besar dunia: Mesopotamia, Mesir Kuno, India Kuno, Tiongkok Kuno, Yunani Kuno, Romawi Kuno, Peru Kuno, Mesoamerika Kuno dan Islam; awal mula, perkembangan, keruntuhan, pengaruh terhadap Nusantara.",
+        "competency": "Menganalisis awal mula, perkembangan dan keruntuhan peradaban serta pengaruh dan konektivitasnya dengan Nusantara dan dunia modern.",
+        "source_page": "39-41",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-STL-03",
+        "phase": "F",
+        "subject": "Sejarah Tingkat Lanjut",
+        "element": "Pemahaman Konsep",
+        "material": "Pemikiran-pemikiran besar dunia: merkantilisme, sosialisme, liberalisme, demokrasi dan gerakan Islam; latar belakang, tokoh, isi, perkembangan, pengaruh dan eksistensi masa kini.",
+        "competency": "Menganalisis sejarah intelektual dan hubungan pemikiran dengan perubahan politik, ekonomi, sosial dan revolusi dunia.",
+        "source_page": "42-45",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-STL-04",
+        "phase": "F",
+        "subject": "Sejarah Tingkat Lanjut",
+        "element": "Pemahaman Konsep",
+        "material": "Revolusi-revolusi besar dunia: Revolusi Industri, Amerika, Perancis, Rusia dan gerakan nasionalisme/kemerdekaan Asia, Afrika dan Amerika Latin; aktor, jaringan, konektivitas, perubahan masyarakat; demokrasi, liberalisme, sosialisme, nasionalisme, Pan Islamisme dan teologi Pembebasan.",
+        "competency": "Menganalisis latar belakang, jalannya, dampak, aktor, jaringan, konektivitas dan perubahan masyarakat dalam revolusi dunia.",
+        "source_page": "42-45",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-STL-05",
+        "phase": "F",
+        "subject": "Sejarah Tingkat Lanjut",
+        "element": "Pemahaman Konsep",
+        "material": "Perang Dunia I dan II: sejarah politik/hubungan internasional, teknologi militer, kesehatan, TIK, industri/logistik, energi/transportasi, sains, psikologi sosial, HAM/hukum internasional dan ekonomi/keuangan; tokoh dan tempat bersejarah.",
+        "competency": "Menjelaskan latar belakang, jalannya dan berakhirnya Perang Dunia I-II serta menganalisis dampaknya secara multidimensi.",
+        "source_page": "46-49",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-STL-06",
+        "phase": "F",
+        "subject": "Sejarah Tingkat Lanjut",
+        "element": "Pemahaman Konsep",
+        "material": "Perang Dingin: teknologi/militer, diplomasi, organisasi multilateral, politik proksi, space race, komputasi/TI/kriptografi, kedokteran/sains, ekonomi/industri, energi/transportasi, intelijen/spionase, hukum internasional/HAM; Blok Barat-Timur, krisis nuklir, konflik regional, Afrika dan Asia Tenggara.",
+        "competency": "Menjelaskan latar belakang, jalannya dan berakhirnya Perang Dingin serta menganalisis dampaknya pada berbagai bidang dan kasus konflik global.",
+        "source_page": "49-52",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-STL-07",
+        "phase": "F",
+        "subject": "Sejarah Tingkat Lanjut",
+        "element": "Pemahaman Konsep",
+        "material": "Peristiwa kontemporer dunia sampai abad ke-21: teknologi/digitalisasi, kesehatan/kedokteran, energi/lingkungan, geopolitik/keamanan, ekonomi/keuangan, sosial/budaya, transportasi/urbanisasi, pendidikan/riset, industri 4.0/otomatisasi, hukum/etika teknologi; Kashmir, People Power Filipina, Palestina, Kongo, Perang Teluk, Krisis Finansial Asia 1998, Yugoslavia, WTC 9/11, krisis ekonomi 2008, Arab Spring, Rusia-Ukraina, Covid-19.",
+        "competency": "Menganalisis kapan, di mana, aktor, latar belakang, jalannya, penyelesaian, akhir dan pengaruh berbagai peristiwa kontemporer dalam berbagai bidang kehidupan.",
+        "source_page": "52-55",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-E-SMK-01",
+        "phase": "E",
+        "subject": "Sejarah SMK/MAK",
+        "element": "Pemahaman Konsep",
+        "material": "Konsep dasar ilmu sejarah; penelitian sejarah; Kerajaan Hindu-Buddha; Kerajaan Islam; penjajahan bangsa Barat; perlawanan rakyat daerah; pergerakan kebangsaan Indonesia.",
+        "competency": "Memahami konsep dasar dan menginterpretasi peristiwa sejarah Indonesia serta mengkritisi peristiwa masa lalu yang relevan dengan bidang kejuruan.",
+        "source_page": "30",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "MAT-F-SMK-01",
+        "phase": "F",
+        "subject": "Sejarah SMK/MAK",
+        "element": "Pemahaman Konsep",
+        "material": "Pendudukan Jepang; Proklamasi Kemerdekaan Indonesia; mempertahankan kemerdekaan; pemerintahan Sukarno; pemerintahan Suharto; Reformasi.",
+        "competency": "Memahami perjalanan bangsa Indonesia, membangun kesadaran sejarah, literasi dan empati, serta mengaitkan nilai sejarah dengan kompetensi kejuruan untuk menghadapi tantangan dan peluang dunia kerja dan industri.",
+        "source_page": "30",
+        "source_section": "Pemetaan Materi Esensial"
+      }
+    ]
+  },
+  "level_3_framework_pedagogi": {
+    "framework_components": [
+      "Dimensi profil lulusan",
+      "Prinsip pembelajaran",
+      "Pengalaman belajar",
+      "Kerangka pembelajaran"
+    ],
+    "principles": [
+      {
+        "name": "Berkesadaran",
+        "definition": "Murid sadar sebagai pelajar aktif, memahami tujuan pembelajaran, termotivasi intrinsik dan mampu meregulasi diri serta mengembangkan strategi belajar."
+      },
+      {
+        "name": "Bermakna",
+        "definition": "Pengetahuan diterapkan secara kontekstual; pembelajaran terhubung dengan isu personal/lokal/nasional/global dan dapat melibatkan orang tua, masyarakat atau komunitas."
+      },
+      {
+        "name": "Menggembirakan",
+        "definition": "Suasana belajar positif, menantang, menyenangkan dan memotivasi; mendukung rasa ingin tahu, kreativitas dan keterlibatan aktif."
+      }
+    ],
+    "learning_experience": [
+      {
+        "name": "Memahami",
+        "definition": "Membangun kesadaran tujuan, mengonstruksi pengetahuan secara aktif dan mendalam dari berbagai sumber/konteks.",
+        "knowledge_types": [
+          "Pengetahuan Esensial",
+          "Pengetahuan Aplikatif",
+          "Pengetahuan Nilai dan Karakter"
+        ],
+        "characteristics": [
+          "Menghubungkan pengetahuan baru dengan pengetahuan sebelumnya",
+          "Menstimulasi proses berpikir",
+          "Menghubungkan konteks nyata/kehidupan sehari-hari",
+          "Kebebasan eksploratif dan kolaboratif",
+          "Menanamkan nilai moral dan etika",
+          "Mengaitkan pembelajaran dengan pembentukan karakter"
+        ]
+      },
+      {
+        "name": "Mengaplikasi",
+        "definition": "Menerapkan pengetahuan secara kontekstual melalui pemecahan masalah, pengambilan keputusan dan produk/kinerja, termasuk pendekatan multidisiplin/interdisiplin.",
+        "characteristics": [
+          "Menghubungkan konsep baru dengan pengetahuan sebelumnya",
+          "Menerapkan pengetahuan pada situasi nyata/bidang lain",
+          "Eksplorasi lebih lanjut",
+          "Berpikir kritis dan solusi inovatif"
+        ]
+      },
+      {
+        "name": "Merefleksi",
+        "definition": "Mengevaluasi dan memaknai proses serta hasil tindakan/praktik; mengembangkan regulasi diri, metakognisi, evaluasi diri dan langkah perbaikan konkret.",
+        "characteristics": [
+          "Memotivasi diri untuk belajar bagaimana belajar",
+          "Evaluasi pencapaian tujuan",
+          "Menerapkan strategi berpikir",
+          "Metakognisi/regulasi diri",
+          "Regulasi emosi"
+        ]
+      }
+    ],
+    "profil_lulusan": [
+      {
+        "id": "DPL-1",
+        "name": "Keimanan dan Ketakwaan terhadap Tuhan YME",
+        "description": "Keyakinan teguh akan keberadaan Tuhan; menghayati nilai spiritual; berakhlak mulia, penuh kasih dan bertanggung jawab."
+      },
+      {
+        "id": "DPL-2",
+        "name": "Kewargaan",
+        "description": "Cinta tanah air, menaati aturan/norma, peduli, bertanggung jawab sosial dan berkontribusi pada kebaikan bersama sebagai warga negara dan warga dunia."
+      },
+      {
+        "id": "DPL-3",
+        "name": "Penalaran Kritis",
+        "description": "Berpikir logis, analitis dan reflektif; menganalisis masalah, mengevaluasi argumen, menghubungkan gagasan dan merefleksikan proses berpikir."
+      },
+      {
+        "id": "DPL-4",
+        "name": "Kreativitas",
+        "description": "Berpikir inovatif, fleksibel dan orisinal; melihat masalah dari berbagai sudut pandang dan mengembangkan alternatif solusi efektif."
+      },
+      {
+        "id": "DPL-5",
+        "name": "Kolaborasi",
+        "description": "Bekerja sama efektif/gotong royong, membagi peran dan tanggung jawab, menghargai kontribusi dan perbedaan."
+      },
+      {
+        "id": "DPL-6",
+        "name": "Kemandirian",
+        "description": "Bertanggung jawab atas proses/hasil belajar, berinisiatif, mengatasi hambatan, menentukan pilihan dan gigih mencapai tujuan."
+      },
+      {
+        "id": "DPL-7",
+        "name": "Kesehatan",
+        "description": "Menjaga kebiasaan hidup sehat, kebugaran serta keseimbangan kesehatan mental dan fisik untuk well-being."
+      },
+      {
+        "id": "DPL-8",
+        "name": "Komunikasi",
+        "description": "Menyampaikan ide/gagasan/informasi dengan jelas, berinteraksi efektif, berbagi dan mempertahankan pendapat serta menyampaikan beragam sudut pandang."
+      }
+    ],
+    "kerangka_pembelajaran": {
+      "praktik_pedagogis": [
+        "Pembelajaran berbasis inkuiri",
+        "Pembelajaran berbasis projek",
+        "Pembelajaran berbasis masalah",
+        "Pembelajaran kolaboratif",
+        "Pembelajaran STEM",
+        "Pembelajaran berdiferensiasi",
+        "Diskusi",
+        "Peta konsep",
+        "Advance organizer",
+        "Kerja kelompok"
+      ],
+      "lingkungan_pembelajaran": "Integrasi ruang fisik, ruang virtual dan budaya belajar; aman, nyaman, saling memuliakan, interaktif, eksploratif dan kolaboratif.",
+      "pemanfaatan_teknologi_digital": "Teknologi digunakan dalam perencanaan, pelaksanaan dan asesmen: bahan visual/infografis, kuis/simulasi, website, perpustakaan digital, video edukasi, multimedia, gamifikasi, tes formatif interaktif dan portofolio digital.",
+      "kemitraan_pembelajaran": "Kolaborasi dengan pendidik, murid, keluarga, masyarakat, komunitas, MGMP, mitra profesional, dunia usaha/industri, institusi pendidikan, media, ahli, tokoh masyarakat serta organisasi keagamaan/budaya."
+    }
+  },
+  "level_4_operasional_implementasi": {
+    "alur_tujuan_pembelajaran": {
+      "Sejarah SMA Fase F": [
+        "Memahami peristiwa-peristiwa penting dalam perjalanan sejarah bangsa Indonesia pada masa penjajahan bangsa Barat",
+        "Memahami perlawanan rakyat daerah terhadap penjajah hingga pergerakan kebangsaan Indonesia",
+        "Memahami Pendudukan Jepang di Indonesia",
+        "Memahami Proklamasi Kemerdekaan Indonesia",
+        "Memahami Kondisi Indonesia pada masa awal kemerdekaan",
+        "Memahami Kondisi Indonesia pada masa pemerintahan Sukarno",
+        "Memahami kondisi Indonesia pada masa pemerintahan Suharto",
+        "Memahami kondisi Indonesia pada masa Reformasi"
+      ],
+      "Sejarah Tingkat Lanjut Fase F": [
+        "Memahami sejarah kehidupan awal manusia",
+        "Memahami Peradaban-peradaban besar dunia",
+        "Memahami pengaruh peradaban-peradaban besar dunia dengan perkembangan peradaban di Indonesia",
+        "Memahami hubungan antara peradaban-peradaban dunia dengan perkembangan peradaban di Indonesia",
+        "Memahami Pemikiran-pemikiran besar dunia",
+        "Memahami dampak perkembangan pemikiran-pemikiran besar dunia terhadap pergerakan kebangsaan Indonesia",
+        "Memahami Revolusi-revolusi besar dunia",
+        "Memahami Dampak Revolusi-revolusi besar dunia bagi Indonesia",
+        "Memahami Penyebab, Proses, serta Dampak Perang Dunia I",
+        "Memahami Penyebab, Proses, serta Dampak Perang Dunia II",
+        "Memahami Penyebab, Proses, serta Dampak Perang Dingin",
+        "Memahami Dampak Perang Dunia I, II, dan Perang Dingin bagi Indonesia",
+        "Memahami Peristiwa-peristiwa kontemporer dunia sampai abad-21"
+      ],
+      "Sejarah SMK Fase E": [
+        "Memahami konsep dasar ilmu sejarah",
+        "Memahami Kehidupan Masyarakat Indonesia pada masa kerajaan Hindu Budha",
+        "Memahami perkembangan kerajaan Hindu Budha di Indonesia",
+        "Memahami Kehidupan Masyarakat Indonesia pada masa kerajaan Islam",
+        "Memahami Perkembangan kerajaan Islam di Indonesia",
+        "Memahami peristiwa-peristiwa penting dalam perjalanan sejarah bangsa Indonesia pada masa penjajahan bangsa Barat",
+        "Memahami perlawanan rakyat daerah terhadap penjajah hingga pergerakan kebangsaan Indonesia"
+      ],
+      "Sejarah SMK Fase F": [
+        "Memahami Pendudukan Jepang di Indonesia",
+        "Memahami Proklamasi Kemerdekaan Indonesia",
+        "Memahami Kondisi Indonesia pada masa awal kemerdekaan",
+        "Memahami Kondisi Indonesia pada masa pemerintahan Sukarno",
+        "Memahami kondisi Indonesia pada masa pemerintahan Suharto",
+        "Memahami kondisi Indonesia pada masa Reformasi"
+      ]
+    },
+    "keterampilan_proses": [
+      {
+        "id": "PROC-01",
+        "element": "Keterampilan Proses",
+        "content": "Mengamati fenomena sejarah terkait materi pelajaran.",
+        "source_page": "10-11, 18-19, 23-26",
+        "source_section": "Capaian Pembelajaran"
+      },
+      {
+        "id": "PROC-02",
+        "element": "Keterampilan Proses",
+        "content": "Menanya dengan rumus 5W 1H: apa, siapa, kapan, di mana, mengapa, bagaimana; memperkirakan jawaban.",
+        "source_page": "11, 19, 24-26",
+        "source_section": "Capaian Pembelajaran"
+      },
+      {
+        "id": "PROC-03",
+        "element": "Keterampilan Proses",
+        "content": "Mengumpulkan informasi (heuristik) dari sumber primer dan sekunder melalui studi pustaka, dokumen/arsip, wawancara, observasi, kuesioner dan studi lapangan terhadap peninggalan sejarah.",
+        "source_page": "11, 19, 24-26",
+        "source_section": "Capaian Pembelajaran"
+      },
+      {
+        "id": "PROC-04",
+        "element": "Keterampilan Proses",
+        "content": "Menganalisis informasi (kritik sumber): menyeleksi sumber, memverifikasi, triangulasi/cek silang akurasi data dan fakta sejarah, serta menginterpretasi/menafsirkan.",
+        "source_page": "11, 19, 24-26",
+        "source_section": "Capaian Pembelajaran"
+      },
+      {
+        "id": "PROC-05",
+        "element": "Keterampilan Proses",
+        "content": "Menarik kesimpulan dengan menarasikan temuan hasil investigasi terhadap permasalahan sejarah.",
+        "source_page": "19, 25-26",
+        "source_section": "Capaian Pembelajaran"
+      },
+      {
+        "id": "PROC-06",
+        "element": "Keterampilan Proses",
+        "content": "Mengomunikasikan informasi sejarah secara lisan, tulisan, dan/atau media lain, digital atau nondigital.",
+        "source_page": "11, 19, 25-26",
+        "source_section": "Capaian Pembelajaran"
+      },
+      {
+        "id": "PROC-07",
+        "element": "Keterampilan Proses",
+        "content": "Merefleksikan pengalaman belajar dan merencanakan projek lanjutan lintas mata pelajaran secara kolaboratif.",
+        "source_page": "11, 19, 25-26",
+        "source_section": "Capaian Pembelajaran"
+      },
+      {
+        "id": "PROC-08",
+        "element": "Kriteria berpikir sejarah",
+        "content": "Signifikansi sejarah: importance, profundity, quantity, durability, relevance.",
+        "source_page": "30-31",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "PROC-09",
+        "element": "Kriteria berpikir sejarah",
+        "content": "Pencarian sumber sejarah: identifikasi sumber primer/sekunder; atribusi motif pembuat sumber; kontekstualisasi jiwa zaman; koroborasi untuk menguji validitas dan reliabilitas.",
+        "source_page": "31",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "PROC-10",
+        "element": "Kriteria berpikir sejarah",
+        "content": "Perubahan, keberlanjutan dan keberulangan: memahami masa lalu-kini-masa depan; menganalisis aspek, faktor pemicu dan dampaknya.",
+        "source_page": "31",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "PROC-11",
+        "element": "Kriteria berpikir sejarah",
+        "content": "Perkembangan dan keruntuhan: menganalisis aspek, faktor pemicu dan dampak perkembangan maupun keruntuhan.",
+        "source_page": "31",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "PROC-12",
+        "element": "Kriteria berpikir sejarah",
+        "content": "Keruangan sejarah: memahami lingkup global, nasional dan lokal; menganalisis hubungan/keterkaitan dan dampaknya.",
+        "source_page": "31",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "PROC-13",
+        "element": "Kriteria berpikir sejarah",
+        "content": "Empati dan keputusan moral: melihat konteks saat peristiwa terjadi, perspektif pelaku, mengevaluasi masa lalu sebagai pelajaran kini, mengambil nilai masa lalu sebagai refleksi.",
+        "source_page": "31",
+        "source_section": "Pemetaan Materi Esensial"
+      },
+      {
+        "id": "PROC-14",
+        "element": "Kriteria berpikir sejarah",
+        "content": "Pelaku sejarah: memahami biografi, motif, dimensi pemikiran, kebatinan, tindakan dan karya pelaku sejarah.",
+        "source_page": "31",
+        "source_section": "Pemetaan Materi Esensial"
+      }
+    ],
+    "asesmen": {
+      "general_design": [
+        "Asesmen pada awal pembelajaran",
+        "Asesmen pada proses pembelajaran",
+        "Asesmen pada akhir pembelajaran"
+      ],
+      "sample_initial": "Tes lisan menggunakan peta dunia dan gambar hasil peradaban kuno untuk melihat kemampuan awal dan kesiapan belajar.",
+      "sample_formative": [
+        "Identifikasi peradaban berdasarkan wilayah/pusat peradaban, hasil peradaban dan perkembangannya.",
+        "Analisis faktor-faktor yang memengaruhi perkembangan peradaban dan komunikasi lisan melalui diskusi kelompok.",
+        "Analisis perkembangan salah satu peradaban kuno sampai modern dan komunikasi tertulis dalam makalah.",
+        "Pengolahan informasi tentang peradaban kuno sampai modern dan komunikasi lisan/tertulis melalui media informasi digital/nondigital."
+      ],
+      "sample_summative": "Unjuk kerja identifikasi pusat peradaban dan hasil peradaban, analisis perkembangan, makalah dan media informasi yang diperbaiki berdasarkan umpan balik pendidik dan teman sejawat.",
+      "success_criteria": "Murid dianggap sudah memiliki kompetensi dan mencapai tujuan pembelajaran jika berada pada kategori Baik. Kategori Perlu Bimbingan/Cukup mendapat pendampingan dan penguatan; kategori Baik/Sangat Baik dapat diberi pengayaan.",
+      "rubric_dimensions": [
+        "Pemahaman konsep",
+        "Pemanfaatan sumber belajar",
+        "Keaktifan dalam pembelajaran",
+        "Kemampuan menyelesaikan masalah",
+        "Nilai yang dapat diambil dan penerapannya dalam kehidupan sehari-hari"
+      ],
+      "sample_weighted_contemporary": "Analisis historis 30%; dampak multidimensi 30%; solusi kreatif 20%; presentasi efektif 20%."
+    },
+    "contoh_kasus": [
+      {
+        "id": "ACT-01",
+        "title": "Ekspedisi Virtual Peradaban Dunia",
+        "tujuan": "Mengidentifikasi peradaban besar dunia berdasarkan wilayah dan menganalisis perkembangannya.",
+        "langkah": [
+          "Mengamati peta/gambar situs sejarah",
+          "Menjelajah virtual tour/video atau menggunakan gambar peninggalan bila teknologi terbatas",
+          "Mengisi tabel wilayah/pusat peradaban, hasil peradaban dan perkembangan",
+          "Mendiskusikan hasil dalam kelompok"
+        ],
+        "output": "Tabel identifikasi dan analisis peradaban; dapat dijadikan asesmen sumatif.",
+        "source_page": "80-82",
+        "source_section": "Contoh Perencanaan Pembelajaran Mendalam"
+      },
+      {
+        "id": "ACT-02",
+        "title": "Kajian Faktor Perkembangan Peradaban",
+        "tujuan": "Menganalisis faktor-faktor yang memengaruhi perkembangan peradaban dunia dan mengomunikasikannya.",
+        "langkah": [
+          "Mendiskusikan fenomena peradaban masa kini secara kontekstual",
+          "Melakukan kajian literatur",
+          "Menganalisis faktor perkembangan",
+          "Mengomunikasikan secara lisan dalam diskusi kelompok",
+          "Memberi contoh dari lingkungan sekitar"
+        ],
+        "output": "Paparan/diskusi kelompok dan jurnal refleksi individu.",
+        "source_page": "83",
+        "source_section": "Contoh Perencanaan Pembelajaran Mendalam"
+      },
+      {
+        "id": "ACT-03",
+        "title": "Makalah Perkembangan Hasil Peradaban",
+        "tujuan": "Menganalisis salah satu hasil peradaban dunia yang berkembang dari zaman kuno sampai modern dan kaitannya dengan Indonesia.",
+        "langkah": [
+          "Memilih tema: IPTEK, komunikasi, aksara, transportasi, busana, kedokteran/kesehatan",
+          "Mengumpulkan sumber dari buku, video, jurnal dan situs ilmiah",
+          "Menganalisis dan mendiskusikan informasi",
+          "Menulis makalah dengan sistematika yang ditentukan",
+          "Melakukan refleksi"
+        ],
+        "output": "Makalah; dijadikan asesmen sumatif.",
+        "source_page": "83-84",
+        "source_section": "Contoh Perencanaan Pembelajaran Mendalam"
+      },
+      {
+        "id": "ACT-04",
+        "title": "Media Informasi Sejarah dan Gallery Walk",
+        "tujuan": "Mengolah dan mengomunikasikan informasi peradaban besar dunia secara digital/nondigital.",
+        "langkah": [
+          "Membuat media informasi sesuai tema kelompok",
+          "Memberi contoh kontekstual dari lingkungan sekitar",
+          "Menampilkan karya melalui gallery walk/Padlet",
+          "Mempresentasikan karya dan menerima pertanyaan",
+          "Memberi umpan balik antarkelompok",
+          "Melakukan evaluasi diri"
+        ],
+        "output": "Media informasi sejarah, presentasi dan jurnal refleksi.",
+        "source_page": "84-85",
+        "source_section": "Contoh Perencanaan Pembelajaran Mendalam"
+      },
+      {
+        "id": "ACT-05",
+        "title": "Refleksi Individu Pembelajaran Sejarah",
+        "tujuan": "Memaknai proses belajar, kesulitan, strategi perbaikan, manfaat, inspirasi dan nilai sejarah.",
+        "langkah": [
+          "Mengisi jurnal: pemahaman materi",
+          "Mengidentifikasi kesulitan dan upaya mengatasinya",
+          "Menuliskan penerapan dalam kehidupan",
+          "Menuliskan hal inspiratif dan nilai yang diperoleh",
+          "Merumuskan penerapan nilai"
+        ],
+        "output": "Jurnal refleksi individu dan dasar tindak lanjut.",
+        "source_page": "85-87",
+        "source_section": "Contoh Perencanaan Pembelajaran Mendalam"
+      }
+    ]
+  },
+  "level_5_glosarium": [
+    {
+      "term": "Merkantilisme",
+      "definition": "Suatu teori ekonomi yang menyatakan bahwa kesejahteraan suatu negara hanya ditentukan oleh banyaknya aset atau modal yang disimpan oleh negara yang bersangkutan, dan besarnya volume perdagangan global sangat penting.",
+      "source_page": "96"
+    },
+    {
+      "term": "Sejarah global",
+      "definition": "Pendekatan dalam penulisan sejarah yang menekankan koneksi satu wilayah dengan wilayah lain dalam membentuk hubungan intelektual, ekonomi, politik, sosial kebudayaan dan lain-lain.",
+      "source_page": "96"
+    },
+    {
+      "term": "Berpikir historis",
+      "definition": "Proses berpikir dalam mempelajari suatu peristiwa sejarah.",
+      "source_page": "96"
+    },
+    {
+      "term": "Kronologis",
+      "definition": "Kejadian sejarah yang disusun sesuai urutan waktu terjadinya sebuah peristiwa.",
+      "source_page": "96"
+    },
+    {
+      "term": "Diakronis",
+      "definition": "Memanjang dalam waktu tetapi terbatas dalam ruang.",
+      "source_page": "96"
+    },
+    {
+      "term": "Sinkronis",
+      "definition": "Mempelajari peristiwa sejarah dengan seluruh aspek yang terkait pada masa atau waktu tertentu secara lebih mendalam.",
+      "source_page": "96"
+    },
+    {
+      "term": "Berpikir kausalitas",
+      "definition": "Cara berpikir yang menyangkut hubungan sebab akibat antara peristiwa satu dengan peristiwa yang lain.",
+      "source_page": "96"
+    },
+    {
+      "term": "Sosialisme",
+      "definition": "Paham atau ideologi yang mementingkan kekuasaan dan kepentingan negara; kebebasan individu dibatasi dan lebih mengutamakan campur tangan pemerintah dalam pengendalian kesejahteraan bersama.",
+      "source_page": "96"
+    },
+    {
+      "term": "Liberalisme",
+      "definition": "Paham yang menekankan aspek kebebasan individu terkait haknya dalam mendapatkan keadilan sosial dan kesejahteraan sosial secara kolektif.",
+      "source_page": "96"
+    },
+    {
+      "term": "Pan Islamisme",
+      "definition": "Gerakan untuk memperjuangkan bersatunya umat Islam di bawah satu negara Islam yang umumnya disebut kekhalifahan.",
+      "source_page": "97"
+    },
+    {
+      "term": "Demokrasi",
+      "definition": "Bentuk pemerintahan yang keputusan-keputusan penting, baik langsung maupun tidak langsung, didasarkan pada kesepakatan mayoritas yang diberikan secara bebas dari masyarakat.",
+      "source_page": "97"
+    },
+    {
+      "term": "Heuristik",
+      "definition": "Tahap pengumpulan sumber-sumber sejarah yang akan diteliti dalam penulisan sejarah.",
+      "source_page": "97"
+    }
+  ],
+  "retrieval_index": {
+    "recommended_tags": [
+      "sejarah",
+      "sejarah indonesia",
+      "sejarah tingkat lanjut",
+      "sejarah SMK",
+      "fase E",
+      "fase F",
+      "pemahaman konsep",
+      "keterampilan proses",
+      "diakronis",
+      "sinkronis",
+      "kausalitas",
+      "heuristik",
+      "kritik sumber",
+      "interpretasi",
+      "literasi sejarah",
+      "kesadaran sejarah",
+      "pembelajaran mendalam",
+      "berkesadaran",
+      "bermakna",
+      "menggembirakan",
+      "memahami",
+      "mengaplikasi",
+      "merefleksi",
+      "ATP",
+      "asesmen",
+      "peradaban",
+      "revolusi",
+      "perang dunia",
+      "perang dingin",
+      "kontemporer"
+    ]
+  }
+}

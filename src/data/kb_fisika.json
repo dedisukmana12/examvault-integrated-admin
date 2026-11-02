@@ -1,0 +1,127 @@
+{
+  "kb_id": "kb_fisika_fase_f_2025",
+  "title": "Atomic Knowledge Base — Panduan Mata Pelajaran Fisika",
+  "version": "1.0.0",
+  "language": "id-ID",
+  "source": {
+    "filename": "Capaian_Pembelajaran_Fisika_2025.pdf",
+    "document_type": "Capaian Pembelajaran (CP)",
+    "year": 2025,
+    "publisher": "Kementerian Pendidikan Dasar dan Menengah",
+    "scope": "Fase F"
+  },
+  "purpose": "Referensi tunggal AI/RAG untuk identitas, CP, rasional, tujuan, pedagogi, dan materi esensial mata pelajaran Fisika.",
+  "node_prefix": "FIS",
+  "fidelity_rules": [
+    "Pertahankan istilah teknis dan matematis fisika.",
+    "Bagi elemen menjadi dua pilar: Pemahaman Fisika dan Keterampilan Proses.",
+    "Integrasikan penerapan konsep fisika dengan rekayasa, inovasi teknologi, kehidupan sehari-hari, dan isu global seperti perubahan iklim."
+  ],
+  "architecture": {
+    "levels": [
+      "identity",
+      "rationale_and_goals",
+      "pedagogy",
+      "elements",
+      "essential_materials"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "FIS.identity",
+      "type": "identity",
+      "topic": "Identitas Mata Pelajaran",
+      "phase": ["F"],
+      "source_text": "Fisika mengkaji sifat-sifat materi dalam ruang dan waktu beserta konsep gaya dan energi. Mengkaji fenomena dari skala atomik hingga jagat raya dengan nalar ilmiah, objektif, dan kuantitatif. Menjadi fondasi ilmu dasar dan rekayasa/teknologi.",
+      "retrieval_tags": ["Fisika", "Materi", "Gaya", "Energi", "Kuantitatif"]
+    },
+    {
+      "id": "FIS.rationale",
+      "type": "rationale",
+      "topic": "Rasionalitas Pembelajaran Fisika",
+      "phase": ["F"],
+      "source_text": "Fisika mendasari perkembangan teknologi modern (mekanik, permesinan, otomotif, komputer, telekomunikasi). Terintegrasi dengan matematika (pemodelan kuantitatif), geografi (iklim, kebencanaan), dan seni (pencahayaan, suara).",
+      "retrieval_tags": ["Teknologi", "Pemodelan kuantitatif", "Interdisiplin", "Inovasi"]
+    },
+    {
+      "id": "FIS.goals",
+      "type": "goals",
+      "topic": "Tujuan Mata Pelajaran",
+      "phase": ["F"],
+      "source_text": "1) Membentuk sikap religius; 2) Mengembangkan rasa ingin tahu, integritas, kolaborasi; 3) Menguasai konsep, prinsip, hukum Fisika untuk menjelaskan/memprediksi fenomena; 4) Mampu melakukan percobaan (merumuskan masalah, uji hipotesis, rakit instrumen, olah data); 5) Berpikir kritis, kreatif, dan pemecahan masalah.",
+      "retrieval_tags": ["Tujuan", "Eksperimen", "Integritas", "Pemecahan Masalah"]
+    },
+    {
+      "id": "FIS.elements.pemahaman",
+      "type": "element",
+      "topic": "Elemen: Pemahaman Fisika",
+      "phase": ["F"],
+      "source_text": "Pemahaman fakta, konsep, prinsip, hukum, teori, dan model pada materi mekanika; fluida; gelombang; termodinamika; kelistrikan dan kemagnetan; fisika modern; dan teori dasar digital.",
+      "retrieval_tags": ["Pemahaman Fisika", "Elemen", "Mekanika", "Fluida", "Termodinamika"]
+    },
+    {
+      "id": "FIS.elements.keterampilan_proses",
+      "type": "element",
+      "topic": "Elemen: Keterampilan Proses",
+      "phase": ["F"],
+      "source_text": "Siklus inkuiri yang dinamis: mengamati, mempertanyakan & memprediksi, merencanakan & melakukan penyelidikan (termasuk merakit instrumen), memproses & menganalisis data, mengevaluasi & refleksi, serta mengomunikasikan hasil.",
+      "retrieval_tags": ["Keterampilan Proses", "Inkuiri", "Penyelidikan", "Eksperimen"]
+    },
+    {
+      "id": "FIS.cp.fase_f",
+      "type": "learning_outcome",
+      "topic": "CP Pemahaman Fisika Fase F",
+      "phase": ["F"],
+      "source_text": "Murid mampu menganalisis hubungan gerak dan gaya; membuat karya penerapan hukum fluida; menganalisis konsep kalor dan termodinamika (isu perubahan iklim); menganalisis gelombang; mengevaluasi rangkaian listrik; menganalisis elektromagnetik; menganalisis fisika modern; dan menerapkan teori dasar digital.",
+      "retrieval_tags": ["CP Fase F", "Gerak dan Gaya", "Fluida", "Termodinamika", "Gelombang", "Listrik", "Fisika Modern"]
+    },
+    {
+      "id": "FIS.material.mekanika",
+      "type": "essential_material",
+      "topic": "Mekanika (Gerak dan Gaya)",
+      "phase": ["F"],
+      "source_text": "Menganalisis hubungan gerak dan gaya serta pemanfaatannya untuk menjelaskan fenomena alam, desain, atau rekayasa struktur.",
+      "retrieval_tags": ["Mekanika", "Gerak", "Gaya", "Rekayasa struktur"]
+    },
+    {
+      "id": "FIS.material.fluida",
+      "type": "essential_material",
+      "topic": "Fluida",
+      "phase": ["F"],
+      "source_text": "Membuat karya yang menunjukkan penerapan hukum fluida dalam kehidupan sehari-hari.",
+      "retrieval_tags": ["Fluida", "Hukum fluida", "Proyek", "Karya"]
+    },
+    {
+      "id": "FIS.material.termodinamika",
+      "type": "essential_material",
+      "topic": "Kalor dan Termodinamika",
+      "phase": ["F"],
+      "source_text": "Menganalisis konsep kalor dan termodinamika serta penerapannya untuk mengidentifikasi fenomena perubahan iklim.",
+      "retrieval_tags": ["Kalor", "Termodinamika", "Perubahan iklim", "Suhu"]
+    },
+    {
+      "id": "FIS.material.gelombang",
+      "type": "essential_material",
+      "topic": "Gelombang",
+      "phase": ["F"],
+      "source_text": "Menganalisis gejala gelombang dan penerapannya dalam kehidupan sehari-hari (misal: komunikasi, musik, medis).",
+      "retrieval_tags": ["Gelombang", "Gejala gelombang", "Optik", "Akustik"]
+    },
+    {
+      "id": "FIS.material.kelistrikan_kemagnetan",
+      "type": "essential_material",
+      "topic": "Kelistrikan dan Elektromagnetik",
+      "phase": ["F"],
+      "source_text": "Mengevaluasi rangkaian listrik dan menganalisis fenomena elektromagnetik.",
+      "retrieval_tags": ["Rangkaian listrik", "Elektromagnetik", "Kelistrikan", "Kemagnetan"]
+    },
+    {
+      "id": "FIS.material.modern_digital",
+      "type": "essential_material",
+      "topic": "Fisika Modern dan Teori Dasar Digital",
+      "phase": ["F"],
+      "source_text": "Menganalisis teori dasar fisika modern dan pengaruhnya terhadap perkembangan teknologi, serta menerapkan teori dasar digital dalam kehidupan sehari-hari.",
+      "retrieval_tags": ["Fisika modern", "Teori digital", "Teknologi", "Semikonduktor"]
+    }
+  ]
+}

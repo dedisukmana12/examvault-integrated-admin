@@ -1,0 +1,127 @@
+{
+  "kb_id": "kb_ekonomi_fase_f_2025",
+  "title": "Atomic Knowledge Base — Panduan Mata Pelajaran Ekonomi",
+  "version": "1.0.0",
+  "language": "id-ID",
+  "source": {
+    "filename": "Capaian_Pembelajaran_Ekonomi_2025.pdf",
+    "document_type": "Capaian Pembelajaran (CP)",
+    "year": 2025,
+    "publisher": "Kementerian Pendidikan Dasar dan Menengah",
+    "scope": "Fase F"
+  },
+  "purpose": "Referensi tunggal AI/RAG untuk identitas, CP, rasional, tujuan, pedagogi, dan materi esensial mata pelajaran Ekonomi.",
+  "node_prefix": "EKO",
+  "fidelity_rules": [
+    "Pertahankan istilah teknis ekonomi dan akuntansi.",
+    "Bagi elemen menjadi dua pilar: Pemahaman Konsep dan Keterampilan Proses.",
+    "Integrasikan aspek literasi finansial dan keuangan digital dalam pemecahan masalah."
+  ],
+  "architecture": {
+    "levels": [
+      "identity",
+      "rationale_and_goals",
+      "pedagogy",
+      "elements",
+      "essential_materials"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "EKO.identity",
+      "type": "identity",
+      "topic": "Identitas Mata Pelajaran",
+      "phase": ["F"],
+      "source_text": "Ekonomi merupakan ilmu sosial yang mempelajari pilihan-pilihan rasional individu, rumah tangga, perusahaan, dan negara dalam mengalokasikan sumber daya yang terbatas untuk memenuhi kebutuhan yang tidak terbatas. Mengandung dimensi material, etika, moralitas, dan kemaslahatan bersama.",
+      "retrieval_tags": ["Ekonomi", "Fase F", "Karakteristik Ekonomi", "Kelangkaan", "Pilihan Rasional"]
+    },
+    {
+      "id": "EKO.rationale",
+      "type": "rationale",
+      "topic": "Rasionalitas Pembelajaran Ekonomi",
+      "phase": ["F"],
+      "source_text": "Membekali murid pemahaman kelangkaan, biaya peluang, produksi, distribusi. Merespons kemajuan IPTEK (digitalisasi, otomatisasi, ekonomi berbasis data) yang menuntut adaptasi, kreativitas, dan etika keputusan. Beririsan dengan Matematika, Sosiologi, Geografi, dan TIK.",
+      "retrieval_tags": ["Digitalisasi", "Otomatisasi", "Ekonomi Data", "Biaya Peluang", "Kesejahteraan"]
+    },
+    {
+      "id": "EKO.literacy",
+      "type": "rationale",
+      "topic": "Literasi Ekonomi dan Finansial",
+      "phase": ["F"],
+      "source_text": "Literasi ekonomi: menganalisis kondisi ekonomi, membuat keputusan alokasi sumber daya. Literasi finansial: penggalian sumber keuangan, menghindari pembelanjaan konsumtif tak efektif, menciptakan peluang produktif.",
+      "retrieval_tags": ["Literasi finansial", "Literasi ekonomi", "Perilaku konsumtif", "Keuangan"]
+    },
+    {
+      "id": "EKO.goals",
+      "type": "goals",
+      "topic": "Tujuan Mata Pelajaran",
+      "phase": ["F"],
+      "source_text": "Tujuan: 1) Memanfaatkan sumber daya efisien & berkelanjutan; 2) Memecahkan masalah ekonomi secara kritis & inovatif; 3) Meminimalisasi dampak buruk dinamika ekonomi; 4) Merencanakan keuangan masa depan; 5) Kritis terhadap kebijakan ekonomi (lokal-global).",
+      "retrieval_tags": ["Tujuan", "Efisiensi", "Perencanaan Keuangan", "Kebijakan Ekonomi"]
+    },
+    {
+      "id": "EKO.elements.pemahaman",
+      "type": "element",
+      "topic": "Elemen: Pemahaman Konsep",
+      "phase": ["F"],
+      "source_text": "Mendefinisikan, menafsirkan, dan merumuskan konsep dengan bahasa sendiri terkait ilmu ekonomi, ekonomi makro, ekonomi internasional, dan akuntansi keuangan dasar.",
+      "retrieval_tags": ["Pemahaman Konsep", "Elemen", "Makro", "Internasional", "Akuntansi"]
+    },
+    {
+      "id": "EKO.elements.keterampilan_proses",
+      "type": "element",
+      "topic": "Elemen: Keterampilan Proses",
+      "phase": ["F"],
+      "source_text": "Mengamati, memahami, menganalisis, mengumpulkan informasi, mengorganisasikan, menarik kesimpulan, mengaplikasikan, mengomunikasikan, merefleksikan, dan merencanakan projek kolaboratif.",
+      "retrieval_tags": ["Keterampilan Proses", "Projek", "Kolaboratif", "Analisis Data"]
+    },
+    {
+      "id": "EKO.cp.fase_f",
+      "type": "learning_outcome",
+      "topic": "CP Pemahaman Konsep Fase F",
+      "phase": ["F"],
+      "source_text": "Murid mampu: Menjelaskan konsep dasar ekonomi; Mengidentifikasi masalah ekonomi & keuangan digital; Memahami pendapatan nasional, pertumbuhan, kemiskinan, kesenjangan; Memahami ketenagakerjaan; Memahami uang, inflasi, kebijakan moneter; Memahami akuntansi keuangan dasar (persamaan, siklus, laporan keuangan); Memahami kebijakan fiskal, APBN/APBD, pajak; Memahami ekonomi internasional.",
+      "retrieval_tags": ["CP Fase F", "Pendapatan Nasional", "Inflasi", "Akuntansi", "Pajak", "Ketenagakerjaan", "Keuangan Digital"]
+    },
+    {
+      "id": "EKO.material.masalah_digital",
+      "type": "essential_material",
+      "topic": "Masalah Ekonomi dan Keuangan Digital",
+      "phase": ["F"],
+      "source_text": "Keterkaitan permasalahan ekonomi dengan literasi ekonomi dan keuangan digital di lingkungan sekitar.",
+      "retrieval_tags": ["Keuangan digital", "Literasi", "Masalah ekonomi"]
+    },
+    {
+      "id": "EKO.material.makro",
+      "type": "essential_material",
+      "topic": "Makroekonomi: Pendapatan, Pertumbuhan, dan Ketenagakerjaan",
+      "phase": ["F"],
+      "source_text": "Konsep pendapatan nasional, pertumbuhan ekonomi, ketenagakerjaan, kaitannya dengan kemiskinan dan kesenjangan sosial, serta solusi mengatasinya.",
+      "retrieval_tags": ["Pendapatan nasional", "Pertumbuhan ekonomi", "Ketenagakerjaan", "Pengangguran", "Kesenjangan"]
+    },
+    {
+      "id": "EKO.material.moneter_fiskal",
+      "type": "essential_material",
+      "topic": "Uang, Inflasi, Kebijakan Moneter dan Fiskal",
+      "phase": ["F"],
+      "source_text": "Konsep uang, peredaran uang, inflasi, kebijakan moneter (Bank Sentral), kebijakan fiskal, fungsi anggaran (APBN/APBD), dan perpajakan.",
+      "retrieval_tags": ["Inflasi", "Kebijakan Moneter", "Kebijakan Fiskal", "APBN", "Pajak", "Uang"]
+    },
+    {
+      "id": "EKO.material.akuntansi",
+      "type": "essential_material",
+      "topic": "Akuntansi Keuangan Dasar",
+      "phase": ["F"],
+      "source_text": "Menilai kondisi keuangan unit usaha melalui persamaan dasar akuntansi, siklus akuntansi, dan pembuatan laporan keuangan.",
+      "retrieval_tags": ["Akuntansi", "Persamaan dasar", "Siklus akuntansi", "Laporan keuangan", "Unit usaha"]
+    },
+    {
+      "id": "EKO.material.internasional",
+      "type": "essential_material",
+      "topic": "Ekonomi Internasional",
+      "phase": ["F"],
+      "source_text": "Konsep ekonomi internasional dan penyelesaian masalah-masalah terkait perdagangan antarnegara.",
+      "retrieval_tags": ["Ekonomi internasional", "Perdagangan global", "Ekspor", "Impor"]
+    }
+  ]
+}

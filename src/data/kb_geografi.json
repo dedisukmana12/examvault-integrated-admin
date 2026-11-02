@@ -1,0 +1,119 @@
+{
+  "kb_id": "kb_geografi_fase_f_2025",
+  "title": "Atomic Knowledge Base — Panduan Mata Pelajaran Geografi",
+  "version": "1.0.0",
+  "language": "id-ID",
+  "source": {
+    "filename": "Capaian_Pembelajaran_Geografi_2025.pdf",
+    "document_type": "Capaian Pembelajaran (CP)",
+    "year": 2025,
+    "publisher": "Kementerian Pendidikan Dasar dan Menengah",
+    "scope": "Fase F"
+  },
+  "purpose": "Referensi tunggal AI/RAG untuk identitas, CP, rasional, tujuan, pedagogi, dan materi esensial mata pelajaran Geografi.",
+  "node_prefix": "GEO",
+  "fidelity_rules": [
+    "Gunakan 3 pendekatan geografi: analisis spasial, analisis ekologis, dan analisis kompleks regional.",
+    "Bagi elemen menjadi dua pilar: Pemahaman Konsep dan Keterampilan Proses.",
+    "Integrasikan penerapan Sistem Informasi Geografis (SIG), Peta, dan Penginderaan Jauh dalam Keterampilan Proses."
+  ],
+  "architecture": {
+    "levels": [
+      "identity",
+      "rationale_and_goals",
+      "pedagogy",
+      "elements",
+      "essential_materials"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "GEO.identity",
+      "type": "identity",
+      "topic": "Identitas Mata Pelajaran",
+      "phase": ["F"],
+      "source_text": "Mata pelajaran Geografi mengantarkan murid mencapai kemampuan mengidentifikasi, memahami, mengelola dan menganalisis serta mengevaluasi secara keruangan tentang berbagai fenomena geografi fisik dan sosial, termasuk perubahan iklim. Geografi menjembatani rumpun ilmu alam dan sosial dengan 3 pendekatan utama: keruangan (spasial), kelingkungan (ekologis), dan kompleks wilayah (regional).",
+      "retrieval_tags": ["Geografi", "Keruangan", "Ekologis", "Kompleks Regional", "Spasial"]
+    },
+    {
+      "id": "GEO.rationale",
+      "type": "rationale",
+      "topic": "Rasionalitas Pembelajaran Geografi",
+      "phase": ["F"],
+      "source_text": "Kajian meliputi litosfer, pedosfer, atmosfer, hidrosfer, biosfer, dan antroposfer. Menghubungkan gejala alam dan sosial untuk meningkatkan penalaran kritis dan kreativitas (skala lokal hingga global). Mendukung profil lulusan Kewargaan (cinta tanah air melalui pemahaman posisi strategis Indonesia).",
+      "retrieval_tags": ["Kewargaan", "Litosfer", "Atmosfer", "Antroposfer", "Cinta Tanah Air"]
+    },
+    {
+      "id": "GEO.goals",
+      "type": "goals",
+      "topic": "Tujuan Mata Pelajaran",
+      "phase": ["F"],
+      "source_text": "1) Memahami wilayah tempat tinggal (keunikan/karakteristik); 2) Memahami proses yang mempengaruhi lingkungan fisik & sosial; 3) Memahami interaksi alam & manusia; 4) Memahami dan menggunakan data geospasial; 5) Mengenal mitigasi & adaptasi bencana alam; 6) Menganalisis spasial fenomena keseharian.",
+      "retrieval_tags": ["Tujuan", "Data geospasial", "Mitigasi bencana", "Interaksi alam manusia"]
+    },
+    {
+      "id": "GEO.elements.pemahaman",
+      "type": "element",
+      "topic": "Elemen: Pemahaman Konsep",
+      "phase": ["F"],
+      "source_text": "Pemahaman terhadap fenomena keruangan, kewilayahan, dan kebhinekaan. Menggunakan teknologi geospasial (peta, penginderaan jauh, SIG) untuk menganalisis masalah geografis. Topik: posisi strategis Indonesia, keanekaragaman hayati, geografi penduduk, perubahan iklim, kebencanaan, lingkungan hidup, pembangunan & kerja sama antarnegara.",
+      "retrieval_tags": ["Pemahaman Konsep", "SIG", "Penginderaan Jauh", "Peta"]
+    },
+    {
+      "id": "GEO.elements.keterampilan_proses",
+      "type": "element",
+      "topic": "Elemen: Keterampilan Proses",
+      "phase": ["F"],
+      "source_text": "Tindakan aktif dan kreatif melalui pendekatan ilmiah: mengamati fenomena, menanya, mengumpulkan data (observasi/pustaka), mengorganisasikan, menganalisis data, menarik kesimpulan, mengomunikasikan (peta, infografis, tabel), dan merencanakan projek kolaboratif.",
+      "retrieval_tags": ["Keterampilan Proses", "Observasi", "Projek", "Infografis"]
+    },
+    {
+      "id": "GEO.cp.fase_f",
+      "type": "learning_outcome",
+      "topic": "CP Pemahaman Konsep Fase F",
+      "phase": ["F"],
+      "source_text": "Menganalisis keuntungan posisi strategis wilayah Indonesia (astronomis, geografis, geologis) dan SDA; memahami pola keanekaragaman hayati; memahami karakteristik penduduk; memahami perubahan iklim, kebencanaan, & lingkungan hidup; memahami kewilayahan, pembangunan, & kerja sama antarnegara.",
+      "retrieval_tags": ["CP Fase F", "Posisi Strategis", "Keanekaragaman Hayati", "Kependudukan", "Perubahan Iklim", "Kebencanaan"]
+    },
+    {
+      "id": "GEO.material.posisi_strategis",
+      "type": "essential_material",
+      "topic": "Posisi Strategis Indonesia & SDA",
+      "phase": ["F"],
+      "source_text": "Menganalisis keuntungan astronomis, geografis, dan geologis Indonesia serta potensi dan pengelolaan sumber daya alam secara berkelanjutan.",
+      "retrieval_tags": ["Posisi astronomis", "Geologis", "Sumber daya alam", "Poros maritim"]
+    },
+    {
+      "id": "GEO.material.biosfer",
+      "type": "essential_material",
+      "topic": "Keanekaragaman Hayati",
+      "phase": ["F"],
+      "source_text": "Memahami pola persebaran flora dan fauna (keanekaragaman hayati) di Indonesia dan dunia serta upaya konservasinya.",
+      "retrieval_tags": ["Flora", "Fauna", "Biosfer", "Konservasi", "Bioma"]
+    },
+    {
+      "id": "GEO.material.antroposfer",
+      "type": "essential_material",
+      "topic": "Dinamika Kependudukan",
+      "phase": ["F"],
+      "source_text": "Memahami karakteristik geografi penduduk di wilayah Indonesia, mobilitas, bonus demografi, dan kualitas sumber daya manusia.",
+      "retrieval_tags": ["Penduduk", "Demografi", "Migrasi", "Antroposfer"]
+    },
+    {
+      "id": "GEO.material.mitigasi",
+      "type": "essential_material",
+      "topic": "Perubahan Iklim dan Kebencanaan",
+      "phase": ["F"],
+      "source_text": "Memahami mitigasi dan adaptasi terhadap perubahan iklim, kebencanaan alam/non-alam, dan pelestarian lingkungan hidup.",
+      "retrieval_tags": ["Mitigasi", "Bencana alam", "Perubahan iklim", "Adaptasi"]
+    },
+    {
+      "id": "GEO.material.kewilayahan",
+      "type": "essential_material",
+      "topic": "Kewilayahan dan Kerja Sama Global",
+      "phase": ["F"],
+      "source_text": "Memahami konsep wilayah, perwilayahan, tata ruang, pusat pertumbuhan, serta kerja sama ekonomi/politik antarnegara (regional dan global).",
+      "retrieval_tags": ["Wilayah", "Tata ruang", "Pusat pertumbuhan", "Kerja sama internasional"]
+    }
+  ]
+}

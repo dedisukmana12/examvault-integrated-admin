@@ -1,0 +1,858 @@
+{
+  "kb_metadata": {
+    "id": "KB_ATOMIC_ATP_PROSEM_PROTA_MODUL_AJAR_INGGRIS_XII",
+    "version": "1.0.0",
+    "language": "id-ID",
+    "status": "source_grounded",
+    "purpose": "Single Source of Truth berbasis atomic knowledge untuk membantu menyusun ATP, Prosem, Prota, dan Modul Ajar.",
+    "source_basis": {
+      "title": "Bahasa Inggris: Life Today untuk SMA/MA Kelas XII",
+      "grade": "XII",
+      "phase": "F",
+      "publisher": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi",
+      "year": 2022,
+      "isbn": "978-602-427-945-5",
+      "source_file": "Inggris_BS_KLS_XII.pdf",
+      "source_note": "Buku menyatakan bahwa buku dikembangkan mengacu pada Kurikulum Merdeka dan dapat digunakan sebagai referensi/inspirasi yang dapat dimodifikasi sesuai karakteristik, potensi, dan kebutuhan peserta didik.",
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    "important_scope_rule": "Knowledge base ini tidak menganggap isi buku sebagai regulasi tunggal. Materi dan tujuan belajar bersumber dari buku; aturan kurikulum/regulasi sekolah harus ditempatkan pada regulatory_layer terpisah."
+  },
+  "atomic_model": {
+    "principle": "Satu atom menyimpan satu fakta, konsep, kompetensi, aktivitas, asesmen, atau aturan transformasi yang dapat digunakan ulang.",
+    "atom_required_fields": [
+      "id",
+      "atom_type",
+      "statement",
+      "source",
+      "tags"
+    ],
+    "atom_types": [
+      "identity",
+      "curriculum_context",
+      "unit",
+      "theme",
+      "topic",
+      "learning_goal",
+      "competency",
+      "skill",
+      "knowledge",
+      "language_feature",
+      "text_structure",
+      "vocabulary_domain",
+      "learning_activity",
+      "assessment",
+      "reflection",
+      "product",
+      "differentiation",
+      "resource",
+      "time_allocation",
+      "document_rule",
+      "dependency"
+    ],
+    "source_confidence": {
+      "direct": "Secara eksplisit terdapat pada sumber.",
+      "derived": "Diturunkan secara logis dari beberapa atom sumber tanpa menambah fakta eksternal.",
+      "generated": "Dibuat oleh sistem sebagai rancangan pembelajaran; wajib ditandai dan tidak dianggap fakta sumber."
+    }
+  },
+  "source_atoms": [
+    {
+      "id": "SRC-001",
+      "atom_type": "identity",
+      "statement": "Buku berjudul Bahasa Inggris: Life Today untuk SMA/MA Kelas XII.",
+      "source": {
+        "page": 1,
+        "lines": "2-6",
+        "confidence": "direct"
+      },
+      "tags": [
+        "book",
+        "english",
+        "grade_12"
+      ]
+    },
+    {
+      "id": "SRC-002",
+      "atom_type": "curriculum_context",
+      "statement": "Buku dikembangkan mengacu pada Kurikulum Merdeka.",
+      "source": {
+        "page": 3,
+        "lines": "63-75",
+        "confidence": "direct"
+      },
+      "tags": [
+        "kurikulum_merdeka",
+        "reference"
+      ]
+    },
+    {
+      "id": "SRC-003",
+      "atom_type": "curriculum_context",
+      "statement": "Buku dapat digunakan sebagai referensi atau inspirasi dan dapat dimodifikasi sesuai karakteristik, potensi, dan kebutuhan peserta didik.",
+      "source": {
+        "page": 3,
+        "lines": "68-75",
+        "confidence": "direct"
+      },
+      "tags": [
+        "adaptation",
+        "student_needs",
+        "differentiation"
+      ]
+    },
+    {
+      "id": "SRC-004",
+      "atom_type": "curriculum_context",
+      "statement": "Buku menyebut Capaian Pembelajaran fase F sebagai titik sentral pengembangan buku.",
+      "source": {
+        "page": 5,
+        "lines": "132-136",
+        "confidence": "direct"
+      },
+      "tags": [
+        "phase_f",
+        "learning_achievement"
+      ]
+    },
+    {
+      "id": "SRC-005",
+      "atom_type": "skill",
+      "statement": "Enam elemen keterampilan yang disajikan secara integratif dan komunikatif adalah listening, reading, viewing, speaking, writing, dan presenting.",
+      "source": {
+        "page": 6,
+        "lines": "139-144",
+        "confidence": "direct"
+      },
+      "tags": [
+        "listening",
+        "reading",
+        "viewing",
+        "speaking",
+        "writing",
+        "presenting"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "U01",
+      "title": "Narrative Text: The Story of a Friendly Future",
+      "theme": "Renewable Energy",
+      "source": {
+        "pages": [
+          17,
+          21
+        ],
+        "confidence": "direct"
+      },
+      "learning_goals": [
+        {
+          "id": "U01-LG01",
+          "statement": "Mengidentifikasi tujuan komunikatif dan struktur skematik narrative text."
+        },
+        {
+          "id": "U01-LG02",
+          "statement": "Mengidentifikasi fitur kebahasaan narrative text: past tenses dan action verbs."
+        },
+        {
+          "id": "U01-LG03",
+          "statement": "Menyatakan informasi eksplisit dan implisit, termasuk gagasan utama dan informasi rinci, dari narrative text."
+        },
+        {
+          "id": "U01-LG04",
+          "statement": "Menulis narrative text dengan struktur skematik dan fitur kebahasaan yang sesuai."
+        },
+        {
+          "id": "U01-LG05",
+          "statement": "Menceritakan kembali narrative text yang dipelajari."
+        }
+      ],
+      "content_atoms": [
+        {
+          "id": "U01-K01",
+          "type": "topic",
+          "statement": "Renewable energy"
+        },
+        {
+          "id": "U01-K02",
+          "type": "text_structure",
+          "statement": "Narrative text: orientation, complication, evaluation, resolution, coda"
+        },
+        {
+          "id": "U01-K03",
+          "type": "language_feature",
+          "statement": "Past tenses"
+        },
+        {
+          "id": "U01-K04",
+          "type": "language_feature",
+          "statement": "Action verbs"
+        },
+        {
+          "id": "U01-K05",
+          "type": "vocabulary_domain",
+          "statement": "Kosakata terkait renewable energy, electricity, power outage, energy conservation"
+        }
+      ],
+      "skill_atoms": [
+        {
+          "id": "U01-S01",
+          "skill": "Listening",
+          "activity": "Menyimak percakapan tentang energy saving/power outage."
+        },
+        {
+          "id": "U01-S02",
+          "skill": "Speaking",
+          "activity": "Role play dialog tentang cara menghemat energi."
+        },
+        {
+          "id": "U01-S03",
+          "skill": "Reading",
+          "activity": "Membaca narrative text dan mengidentifikasi informasi."
+        },
+        {
+          "id": "U01-S04",
+          "skill": "Viewing",
+          "activity": "Mengamati video tentang renewable energy dan fossil fuels."
+        },
+        {
+          "id": "U01-S05",
+          "skill": "Writing",
+          "activity": "Menulis narrative text tentang renewable energy."
+        },
+        {
+          "id": "U01-S06",
+          "skill": "Presenting",
+          "activity": "Retelling narrative text."
+        }
+      ],
+      "assessment_atoms": [
+        {
+          "id": "U01-A01",
+          "type": "diagnostic",
+          "statement": "Pertanyaan awal tentang pengalaman dan pengetahuan peserta didik mengenai listrik/energi."
+        },
+        {
+          "id": "U01-A02",
+          "type": "formative",
+          "statement": "Pertanyaan pemahaman, identifikasi struktur, vocabulary, dan language features."
+        },
+        {
+          "id": "U01-A03",
+          "type": "performance",
+          "statement": "Role play dan retelling."
+        },
+        {
+          "id": "U01-A04",
+          "type": "product",
+          "statement": "Narrative text tentang renewable energy."
+        },
+        {
+          "id": "U01-A05",
+          "type": "reflection",
+          "statement": "Refleksi terhadap pemahaman narrative text dan pembelajaran dari cerita."
+        }
+      ]
+    },
+    {
+      "id": "U02",
+      "title": "Argumentative Text: E-Money",
+      "theme": "Digital Money",
+      "source": {
+        "pages": [
+          18,
+          56
+        ],
+        "confidence": "direct"
+      },
+      "learning_goals": [
+        {
+          "id": "U02-LG01",
+          "statement": "Mengidentifikasi tujuan komunikatif dan struktur skematik argumentative text."
+        },
+        {
+          "id": "U02-LG02",
+          "statement": "Mengidentifikasi fitur kebahasaan argumentative text, termasuk expressions of asking and giving opinions."
+        },
+        {
+          "id": "U02-LG03",
+          "statement": "Menyatakan informasi eksplisit dan implisit, termasuk gagasan utama dan informasi rinci, dari argumentative text."
+        },
+        {
+          "id": "U02-LG04",
+          "statement": "Menulis argumentative text dengan struktur skematik dan fitur kebahasaan yang sesuai."
+        },
+        {
+          "id": "U02-LG05",
+          "statement": "Menampilkan argumentative text dalam media pilihan dengan menggunakan expressions of asking and giving opinions."
+        }
+      ],
+      "content_atoms": [
+        {
+          "id": "U02-K01",
+          "type": "topic",
+          "statement": "Digital money / e-money"
+        },
+        {
+          "id": "U02-K02",
+          "type": "language_feature",
+          "statement": "Expressions of asking and giving opinions"
+        },
+        {
+          "id": "U02-K03",
+          "type": "vocabulary_domain",
+          "statement": "Digital money, e-payment, cashless transaction, online banking, payment"
+        }
+      ],
+      "skill_atoms": [
+        {
+          "id": "U02-S01",
+          "skill": "Listening",
+          "activity": "Menyimak podcast tentang e-money."
+        },
+        {
+          "id": "U02-S02",
+          "skill": "Speaking",
+          "activity": "Memberikan opini tentang cash money dan e-money."
+        },
+        {
+          "id": "U02-S03",
+          "skill": "Reading",
+          "activity": "Membaca argumentative text tentang cashless society/e-money."
+        },
+        {
+          "id": "U02-S04",
+          "skill": "Viewing",
+          "activity": "Mengamati video tentang banking dan digital payment."
+        },
+        {
+          "id": "U02-S05",
+          "skill": "Writing",
+          "activity": "Menulis argumentative text dalam bentuk podcast/script."
+        },
+        {
+          "id": "U02-S06",
+          "skill": "Presenting",
+          "activity": "Menyajikan argumentative text melalui media pilihan."
+        }
+      ],
+      "assessment_atoms": [
+        {
+          "id": "U02-A01",
+          "type": "formative",
+          "statement": "Latihan pemahaman teks, vocabulary, opini, dan informasi eksplisit/implisit."
+        },
+        {
+          "id": "U02-A02",
+          "type": "performance",
+          "statement": "Penyampaian opini dan performansi argumentative text."
+        },
+        {
+          "id": "U02-A03",
+          "type": "product",
+          "statement": "Argumentative text/podcast mengenai e-money."
+        },
+        {
+          "id": "U02-A04",
+          "type": "reflection",
+          "statement": "Refleksi tentang pro-kontra e-money dan manfaat mempelajari argumentative text."
+        }
+      ]
+    },
+    {
+      "id": "U03",
+      "title": "Hortatory Exposition: Netiquette",
+      "theme": "Netiquette",
+      "source": {
+        "pages": [
+          19,
+          98
+        ],
+        "confidence": "direct"
+      },
+      "learning_goals": [
+        {
+          "id": "U03-LG01",
+          "statement": "Mengidentifikasi tujuan komunikatif dan struktur skematik hortatory exposition text."
+        },
+        {
+          "id": "U03-LG02",
+          "statement": "Mengidentifikasi fitur kebahasaan hortatory exposition text: present tense dan emotive phrases."
+        },
+        {
+          "id": "U03-LG03",
+          "statement": "Menyatakan informasi eksplisit dan implisit, termasuk gagasan utama dan informasi rinci, dari hortatory exposition text."
+        },
+        {
+          "id": "U03-LG04",
+          "statement": "Mengkategorikan fakta dan opini pada hortatory exposition text."
+        },
+        {
+          "id": "U03-LG05",
+          "statement": "Menulis hortatory exposition text dengan struktur skematik dan fitur kebahasaan yang sesuai."
+        },
+        {
+          "id": "U03-LG06",
+          "statement": "Melakukan presentasi kelompok yang berfokus pada hortatory exposition text."
+        }
+      ],
+      "content_atoms": [
+        {
+          "id": "U03-K01",
+          "type": "topic",
+          "statement": "Netiquette / acceptable online behavior"
+        },
+        {
+          "id": "U03-K02",
+          "type": "text_structure",
+          "statement": "Hortatory exposition: thesis, arguments, recommendation"
+        },
+        {
+          "id": "U03-K03",
+          "type": "language_feature",
+          "statement": "Present tense"
+        },
+        {
+          "id": "U03-K04",
+          "type": "language_feature",
+          "statement": "Emotive phrases"
+        },
+        {
+          "id": "U03-K05",
+          "type": "thinking_skill",
+          "statement": "Membedakan fakta dan opini"
+        },
+        {
+          "id": "U03-K06",
+          "type": "vocabulary_domain",
+          "statement": "Social media, online behavior, cyber safety, hate speech, digital civility"
+        }
+      ],
+      "skill_atoms": [
+        {
+          "id": "U03-S01",
+          "skill": "Listening",
+          "activity": "Menyimak dialog tentang social media/netiquette."
+        },
+        {
+          "id": "U03-S02",
+          "skill": "Speaking",
+          "activity": "Diskusi dan role play terkait perilaku di media sosial."
+        },
+        {
+          "id": "U03-S03",
+          "skill": "Reading",
+          "activity": "Membaca hortatory exposition dan menganalisis informasi."
+        },
+        {
+          "id": "U03-S04",
+          "skill": "Viewing",
+          "activity": "Mengamati infographic dan memahami elemen visualnya."
+        },
+        {
+          "id": "U03-S05",
+          "skill": "Writing",
+          "activity": "Menulis hortatory exposition tentang netiquette."
+        },
+        {
+          "id": "U03-S06",
+          "skill": "Presenting",
+          "activity": "Presentasi kelompok."
+        }
+      ],
+      "assessment_atoms": [
+        {
+          "id": "U03-A01",
+          "type": "formative",
+          "statement": "Latihan vocabulary, pemahaman dialog/teks, identifikasi fakta-opini, dan struktur teks."
+        },
+        {
+          "id": "U03-A02",
+          "type": "performance",
+          "statement": "Role play dan presentasi kelompok."
+        },
+        {
+          "id": "U03-A03",
+          "type": "product",
+          "statement": "Hortatory exposition text tentang netiquette."
+        },
+        {
+          "id": "U03-A04",
+          "type": "reflection",
+          "statement": "Refleksi mengenai netiquette, kesulitan menulis hortatory text, serta perilaku DO's dan DON'Ts di internet."
+        }
+      ]
+    },
+    {
+      "id": "U04",
+      "title": "Discussion Text: Carbon Footprints",
+      "theme": "Carbon Footprints",
+      "source": {
+        "pages": [
+          20,
+          148
+        ],
+        "confidence": "direct"
+      },
+      "learning_goals": [
+        {
+          "id": "U04-LG01",
+          "statement": "Mengidentifikasi tujuan komunikatif dan struktur skematik discussion text."
+        },
+        {
+          "id": "U04-LG02",
+          "statement": "Mengidentifikasi fitur kebahasaan discussion text: generic participants, simple present, thinking verbs, modality, contrastive conjunction, dan passive voice."
+        },
+        {
+          "id": "U04-LG03",
+          "statement": "Menyatakan informasi eksplisit dan implisit, gagasan utama, dan informasi rinci dari discussion text."
+        },
+        {
+          "id": "U04-LG04",
+          "statement": "Mengkategorikan fakta dan opini berdasarkan discussion text."
+        },
+        {
+          "id": "U04-LG05",
+          "statement": "Menulis discussion text dengan struktur skematik dan fitur kebahasaan yang sesuai."
+        },
+        {
+          "id": "U04-LG06",
+          "statement": "Melakukan presentasi kelompok yang berfokus pada discussion text."
+        }
+      ],
+      "content_atoms": [
+        {
+          "id": "U04-K01",
+          "type": "topic",
+          "statement": "Carbon footprints"
+        },
+        {
+          "id": "U04-K02",
+          "type": "language_feature",
+          "statement": "Generic participants"
+        },
+        {
+          "id": "U04-K03",
+          "type": "language_feature",
+          "statement": "Simple present"
+        },
+        {
+          "id": "U04-K04",
+          "type": "language_feature",
+          "statement": "Thinking verbs"
+        },
+        {
+          "id": "U04-K05",
+          "type": "language_feature",
+          "statement": "Modality"
+        },
+        {
+          "id": "U04-K06",
+          "type": "language_feature",
+          "statement": "Contrastive conjunction"
+        },
+        {
+          "id": "U04-K07",
+          "type": "language_feature",
+          "statement": "Passive voice"
+        },
+        {
+          "id": "U04-K08",
+          "type": "vocabulary_domain",
+          "statement": "Carbon footprint, greenhouse gases, transport, food, energy use, environmental impact"
+        }
+      ],
+      "skill_atoms": [
+        {
+          "id": "U04-S01",
+          "skill": "Listening",
+          "activity": "Menyimak dialog tentang pengurangan carbon footprints."
+        },
+        {
+          "id": "U04-S02",
+          "skill": "Speaking",
+          "activity": "Interview dengan teman tentang cara membatasi carbon footprints."
+        },
+        {
+          "id": "U04-S03",
+          "skill": "Reading",
+          "activity": "Membaca discussion text tentang konsumsi daging/carbon footprint."
+        },
+        {
+          "id": "U04-S04",
+          "skill": "Viewing",
+          "activity": "Menonton video tentang carbon footprints."
+        },
+        {
+          "id": "U04-S05",
+          "skill": "Writing",
+          "activity": "Menulis discussion text tentang carbon footprints."
+        },
+        {
+          "id": "U04-S06",
+          "skill": "Presenting",
+          "activity": "Presentasi kelompok."
+        }
+      ],
+      "assessment_atoms": [
+        {
+          "id": "U04-A01",
+          "type": "formative",
+          "statement": "Latihan vocabulary, pemahaman teks, struktur, language features, serta fakta dan opini."
+        },
+        {
+          "id": "U04-A02",
+          "type": "performance",
+          "statement": "Interview dan presentasi kelompok."
+        },
+        {
+          "id": "U04-A03",
+          "type": "product",
+          "statement": "Discussion text tentang carbon footprints."
+        },
+        {
+          "id": "U04-A04",
+          "type": "reflection",
+          "statement": "Refleksi terhadap pemahaman discussion text dan isu carbon footprint."
+        }
+      ]
+    }
+  ],
+  "cross_unit_atoms": [
+    {
+      "id": "XU-SK01",
+      "atom_type": "skill",
+      "statement": "Pembelajaran mengintegrasikan receptive skills: listening, reading, viewing.",
+      "source": "SRC-005"
+    },
+    {
+      "id": "XU-SK02",
+      "atom_type": "skill",
+      "statement": "Pembelajaran mengintegrasikan productive skills: speaking, writing, presenting.",
+      "source": "SRC-005"
+    },
+    {
+      "id": "XU-PED01",
+      "atom_type": "learning_activity",
+      "statement": "Buku menggunakan kombinasi aktivitas individual, pair work, group work, role play, project writing, presentation, assessment, enrichment, dan reflection.",
+      "source": {
+        "pages": [
+          13,
+          14,
+          15,
+          17,
+          18,
+          19,
+          20
+        ],
+        "confidence": "direct"
+      }
+    },
+    {
+      "id": "XU-PED02",
+      "atom_type": "learning_activity",
+      "statement": "Writing menggunakan Genre-Based Approach dengan tahapan yang dipandu dari drafting sampai publishing.",
+      "source": {
+        "page": 14,
+        "lines": "309-312",
+        "confidence": "direct"
+      }
+    },
+    {
+      "id": "XU-PED03",
+      "atom_type": "assessment",
+      "statement": "Assessment digunakan untuk mengukur kemajuan belajar dan memperbaiki perkembangan belajar.",
+      "source": {
+        "page": 14,
+        "lines": "316-319",
+        "confidence": "direct"
+      }
+    },
+    {
+      "id": "XU-PED04",
+      "atom_type": "reflection",
+      "statement": "Reflection memberi kesempatan peserta didik melakukan self-assessment terhadap pengalaman belajarnya.",
+      "source": {
+        "page": 15,
+        "lines": "327-329",
+        "confidence": "direct"
+      }
+    }
+  ],
+  "document_generation_layer": {
+    "ATP": {
+      "purpose": "Mengurutkan tujuan pembelajaran secara logis dari kompetensi yang akan dicapai menuju pembelajaran yang lebih kompleks.",
+      "recommended_fields": [
+        "atp_id",
+        "phase",
+        "grade",
+        "subject",
+        "unit_id",
+        "sequence",
+        "learning_goal_id",
+        "derived_learning_objective",
+        "knowledge_atoms",
+        "skill_atoms",
+        "activity_summary",
+        "assessment_evidence",
+        "estimated_periods",
+        "prerequisite_ids",
+        "notes"
+      ],
+      "generation_rules": [
+        "Gunakan learning_goal sebagai sumber utama tujuan.",
+        "Jangan menciptakan kompetensi yang tidak memiliki hubungan dengan atom sumber atau konteks pembelajaran.",
+        "Pecah tujuan kompleks menjadi tujuan yang dapat diamati.",
+        "Urutkan dari memahami/mengidentifikasi menuju menerapkan/menghasilkan/menyajikan bila didukung oleh struktur unit.",
+        "Setiap tujuan harus memiliki evidence atau produk asesmen."
+      ]
+    },
+    "Prosem": {
+      "purpose": "Memetakan tujuan, unit, materi, aktivitas, dan asesmen ke distribusi minggu/semester.",
+      "recommended_fields": [
+        "prosem_id",
+        "semester",
+        "weeks_available",
+        "effective_weeks",
+        "unit_id",
+        "learning_goal_ids",
+        "topic",
+        "skill_focus",
+        "activity_focus",
+        "assessment_focus",
+        "estimated_periods",
+        "week_start",
+        "week_end",
+        "notes"
+      ],
+      "generation_rules": [
+        "Prosem adalah layer waktu; jangan mengubah fakta materi sumber.",
+        "Distribusi minggu harus mengikuti kalender pendidikan dan alokasi JP sekolah yang diberikan pengguna.",
+        "Unit dapat dipecah menjadi beberapa blok pembelajaran berdasarkan learning_goal dan skill.",
+        "Sediakan ruang untuk assessment, enrichment, dan reflection jika kalender memungkinkan."
+      ]
+    },
+    "Prota": {
+      "purpose": "Memetakan keseluruhan program pembelajaran satu tahun.",
+      "recommended_fields": [
+        "prota_id",
+        "academic_year",
+        "grade",
+        "phase",
+        "subject",
+        "semester",
+        "unit_id",
+        "theme",
+        "learning_goal_count",
+        "estimated_periods",
+        "month_range",
+        "assessment_milestones",
+        "notes"
+      ],
+      "generation_rules": [
+        "Prota berada pada level makro dan tidak perlu memuat langkah aktivitas secara rinci.",
+        "Semua unit yang dipilih untuk tahun ajaran harus memiliki jejak ke atom sumber.",
+        "Jumlah JP tahunan harus dapat diaudit terhadap alokasi JP yang diberikan sekolah."
+      ]
+    },
+    "modul_ajar": {
+      "purpose": "Mengubah atom tujuan, materi, aktivitas, asesmen, dan sumber menjadi rancangan pembelajaran operasional.",
+      "recommended_fields": [
+        "module_id",
+        "identity",
+        "learning_goal_ids",
+        "derived_learning_objectives",
+        "prerequisites",
+        "meaningful_context",
+        "content",
+        "language_features",
+        "text_structure",
+        "activities",
+        "learning_model",
+        "methods",
+        "media",
+        "resources",
+        "assessment",
+        "differentiation",
+        "reflection_teacher",
+        "reflection_student",
+        "student_product"
+      ],
+      "generation_rules": [
+        "Modul harus memiliki keterkaitan satu-ke-satu atau many-to-one yang dapat ditelusuri ke learning_goal.",
+        "Aktivitas harus menjadi sarana mencapai tujuan, bukan sekadar daftar kegiatan.",
+        "Asesmen harus mengukur bukti ketercapaian tujuan.",
+        "Gunakan aktivitas autentik yang tersedia dalam sumber bila sesuai konteks.",
+        "Boleh mengadaptasi aktivitas karena sumber menyatakan buku dapat dimodifikasi sesuai kebutuhan peserta didik.",
+        "Jangan mengklaim aktivitas tambahan sebagai aktivitas yang berasal dari buku; tandai sebagai generated/adapted."
+      ]
+    }
+  },
+  "traceability_rules": {
+    "rule_01": "Setiap learning objective harus memiliki source_atom_ids.",
+    "rule_02": "Setiap materi harus memiliki unit_id dan/atau source_atom_id.",
+    "rule_03": "Setiap aktivitas harus ditandai source, adapted, atau generated.",
+    "rule_04": "Setiap asesmen harus menunjuk learning_goal_ids yang diukur.",
+    "rule_05": "Setiap produk akhir harus memiliki evidence_type.",
+    "rule_06": "Jangan menggabungkan regulasi kurikulum dengan isi buku dalam atom yang sama.",
+    "rule_07": "Jika informasi tidak tersedia dalam sumber, nilai harus null atau status harus 'needs_external_input', bukan diisi dengan asumsi."
+  },
+  "required_external_inputs": {
+    "for_atp": [
+      "Capaian Pembelajaran resmi yang berlaku di satuan pendidikan",
+      "alokasi JP per minggu",
+      "kalender pendidikan",
+      "karakteristik peserta didik",
+      "kebijakan satuan pendidikan"
+    ],
+    "for_prosem": [
+      "kalender pendidikan",
+      "minggu efektif",
+      "jadwal assessment sekolah",
+      "alokasi JP"
+    ],
+    "for_prota": [
+      "kalender pendidikan tahunan",
+      "alokasi JP tahunan",
+      "cakupan unit yang ditetapkan sekolah"
+    ],
+    "for_modul_ajar": [
+      "identitas satuan pendidikan",
+      "alokasi waktu",
+      "karakteristik peserta didik",
+      "sarana/prasarana",
+      "kebijakan kurikulum yang berlaku",
+      "preferensi model/metode pembelajaran"
+    ]
+  },
+  "validation": {
+    "hard_checks": [
+      "Tidak boleh ada learning_goal tanpa unit_id.",
+      "Tidak boleh ada activity tanpa skill atau learning_goal.",
+      "Tidak boleh ada assessment tanpa learning_goal_id.",
+      "Tidak boleh ada generated content yang ditandai sebagai source_direct.",
+      "Jumlah JP pada Prosem tidak boleh melebihi minggu efektif x JP per minggu.",
+      "Jumlah JP Prota harus konsisten dengan distribusi Prosem."
+    ],
+    "quality_checks": [
+      "Alignment: tujuan-materi-aktivitas-asesmen harus konsisten.",
+      "Traceability: setiap output dapat ditelusuri kembali ke atom sumber.",
+      "Non-duplication: hindari tujuan yang identik tanpa alasan pedagogis.",
+      "Progression: urutan tujuan harus menunjukkan perkembangan kompetensi.",
+      "Contextualization: adaptasi konteks boleh dilakukan tanpa mengubah identitas kompetensi inti sumber."
+    ]
+  }
+}

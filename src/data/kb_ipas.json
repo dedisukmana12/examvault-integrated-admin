@@ -1,0 +1,69 @@
+{
+  "kb_id": "kb_ipas_fase_b_c_2025",
+  "title": "Atomic Knowledge Base — Panduan Mata Pelajaran Ilmu Pengetahuan Alam dan Sosial (IPAS)",
+  "version": "1.0.0",
+  "language": "id-ID",
+  "source": {
+    "filename": "7. Final Panduan Mata Pelajaran IPAS_03_10_2025_Revisi 4.pdf",
+    "document_type": "Panduan Mata Pelajaran",
+    "year": 2025,
+    "publisher": "Badan Standar, Kurikulum, dan Asesmen Pendidikan — Pusat Kurikulum dan Pembelajaran",
+    "scope": "Fase B dan C"
+  },
+  "purpose": "Referensi tunggal AI/RAG untuk identitas, CP, materi esensial, pedagogi, ATP, asesmen dan terminologi IPAS.",
+  "node_prefix": "IPAS",
+  "fidelity_rules": [
+    "Source-grounded; information not supported by the document is marked [Data Tidak Tersedia].",
+    "Kedua elemen disampaikan sebagai satu kesatuan utuh; keterampilan proses adalah cara memperoleh pemahaman IPAS dan tidak diturunkan menjadi tujuan pembelajaran yang terpisah."
+  ],
+  "architecture": {
+    "levels": [
+      "identity_philosophy",
+      "taxonomy",
+      "pedagogy",
+      "operational"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "IPAS.identity",
+      "type": "identity",
+      "topic": "Identitas Mata Pelajaran",
+      "phase": ["B", "C"],
+      "source_text": "Mata pelajaran Ilmu Pengetahuan Alam dan Sosial (IPAS) bertujuan mengembangkan pemahaman, keterampilan ilmiah, dan karakter untuk menghadapi tantangan masa depan, seperti perubahan iklim, kesehatan, ketimpangan sosial, dan keberlanjutan lingkungan. Mengintegrasikan pengetahuan alam dan sosial.",
+      "retrieval_tags": ["IPAS", "SD", "Alam", "Sosial", "Perubahan Iklim", "Keberlanjutan"]
+    },
+    {
+      "id": "IPAS.elements",
+      "type": "element",
+      "topic": "Elemen IPAS",
+      "phase": ["B", "C"],
+      "source_text": "1. Pemahaman IPAS: fakta, konsep, prinsip, teori pada makhluk hidup, zat, energi, bumi, ruang dan waktu, interaksi sosial, ekonomi. 2. Keterampilan Proses: mengamati, mempertanyakan, memprediksi, menyelidiki, menganalisis, mengevaluasi, refleksi, mengomunikasikan hasil.",
+      "retrieval_tags": ["Pemahaman IPAS", "Keterampilan Proses", "Sains", "Sosial"]
+    },
+    {
+      "id": "IPAS.cp.fase_b",
+      "type": "learning_outcome",
+      "topic": "CP Fase B (Kelas III-IV SD/MI)",
+      "phase": ["B"],
+      "source_text": "Materi esensial Fase B: bentuk dan fungsi pancaindra, siklus hidup makhluk hidup, pelestarian SDA, wujud zat, energi, gaya, interaksi sosial, letak geografis, ragam bentang alam dan budaya, sejarah masyarakat, nilai mata uang.",
+      "retrieval_tags": ["Fase B", "Pancaindra", "Siklus hidup", "SDA", "Energi", "Gaya", "Interaksi sosial", "Peta", "Uang"]
+    },
+    {
+      "id": "IPAS.cp.fase_c",
+      "type": "learning_outcome",
+      "topic": "CP Fase C (Kelas V-VI SD/MI)",
+      "phase": ["C"],
+      "source_text": "Materi esensial Fase C: sistem organ tubuh, ekosistem biotik/abiotik, gelombang bunyi dan cahaya, energi alternatif, tata surya, kondisi geografis Indonesia, sejarah pahlawan, keragaman budaya nasional, kegiatan ekonomi masyarakat.",
+      "retrieval_tags": ["Fase C", "Sistem organ", "Ekosistem", "Gelombang", "Energi alternatif", "Tata surya", "Pahlawan", "Budaya nasional", "Ekonomi"]
+    },
+    {
+      "id": "IPAS.pedagogy",
+      "type": "pedagogy",
+      "topic": "Pedagogi IPAS",
+      "phase": ["B", "C"],
+      "source_text": "Menggunakan Taksonomi SOLO untuk perkembangan pemahaman konseptual. Pembelajaran mendalam (berkesadaran, bermakna, menggembirakan). Fokus pada pendidikan perubahan iklim, literasi finansial, dan kesehatan.",
+      "retrieval_tags": ["Taksonomi SOLO", "Pembelajaran mendalam", "Perubahan iklim", "Literasi finansial"]
+    }
+  ]
+}

@@ -1,0 +1,2100 @@
+{
+  "metadata": {
+    "title": "Atomic Knowledge Base — Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK)",
+    "source_document": "Panduan Mata Pelajaran Pendidikan Jasmani, Olahraga, dan Kesehatan Fase A-F",
+    "publisher": "Badan Standar, Kurikulum, dan Asesmen Pendidikan, Kementerian Pendidikan Dasar dan Menengah Republik Indonesia",
+    "year": 2025,
+    "scope": "Fase A-F; SD/MI/Program Paket A, SMP/MTs/Program Paket B, SMA/MA/Program Paket C, dan SMK/MAK",
+    "source_pages": 166,
+    "extraction_principle": "Source-faithful; istilah teknis dipertahankan; informasi yang tidak ditemukan ditandai [Data Tidak Tersedia]."
+  },
+  "level_1_identitas_filosofi": {
+    "subjek": "Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK)",
+    "sasaran": [
+      "SD/MI/Program Paket A",
+      "SMP/MTs/Program Paket B",
+      "SMA/MA/Program Paket C",
+      "SMK/MAK"
+    ],
+    "fase": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "rasionalitas": [
+      "Tujuan esensial PJOK adalah membantu murid menjadi pelajar sepanjang hayat untuk hidup sehat dan aktif.",
+      "Murid mengembangkan keterampilan, pengetahuan, pemahaman, dan dorongan dari dalam diri untuk melakukan aktivitas jasmani serta memperoleh manfaat kesehatan secara menyeluruh.",
+      "Kurikulum PJOK perlu merespons perubahan budaya gerak masyarakat, dampak teknologi terhadap pilihan gaya hidup, tantangan minat generasi muda terhadap aktivitas jasmani/olahraga, serta kebutuhan inklusivitas.",
+      "Pembelajaran mendalam diintegrasikan melalui pembelajaran tentang dan melalui aktivitas jasmani/olahraga yang berkesadaran, bermakna, dan menggembirakan.",
+      "PJOK menumbuhkan kecintaan sepanjang hayat terhadap aktivitas jasmani dan olahraga, sikap positif terhadap kesehatan, serta keterampilan afektif seperti kerja sama tim dan fair play.",
+      "PJOK bersifat holistik: pembelajaran gerak tidak hanya berfokus pada aspek jasmani, tetapi juga personal, sosial, emosional, kognitif, karakter, dan kesehatan."
+    ],
+    "karakteristik": [
+      "Pendekatan holistik dalam memaknai well-being.",
+      "Pembelajaran bermakna, berkesadaran, dan menyenangkan; aktif dan berpusat pada murid; memberi ruang voice and choice.",
+      "Pengembangan keterampilan: dari keterampilan gerak fundamental, elaborasi berbagai keterampilan gerak, hingga keterampilan gerak spesifik.",
+      "Penanaman tanggung jawab dan perilaku belajar sepanjang hayat untuk aktivitas jasmani dan kesehatan.",
+      "Pengembangan berpikir kritis dan pemecahan masalah melalui analisis pola gerak, evaluasi strategi, pengambilan keputusan, dan pemecahan masalah.",
+      "Lingkungan inklusif, aman, suportif, dan bebas diskriminasi.",
+      "Refleksi dan penilaian autentik."
+    ],
+    "elemen": [
+      {
+        "name": "Terampil Bergerak",
+        "description": "Mengembangkan kompetensi keterampilan gerak fundamental dan spesifik; menerapkan konsep dan strategi gerak untuk meningkatkan penampilan, kompetensi gerak, dan kepercayaan diri."
+      },
+      {
+        "name": "Belajar melalui Gerak",
+        "description": "Mengembangkan keterampilan personal dan sosial melalui partisipasi dalam gerak dan aktivitas jasmani, terutama fair play, kerja tim, komunikasi, pengambilan keputusan, pemecahan masalah, berpikir kritis/kreatif, kolaborasi, dan kepemimpinan."
+      },
+      {
+        "name": "Bergaya Hidup Aktif",
+        "description": "Mengembangkan kapasitas murid untuk merancang, menerapkan, dan mengevaluasi kebugaran sendiri serta kompetensi mempromosikan gaya hidup aktif."
+      },
+      {
+        "name": "Memilih Hidup yang Menyehatkan",
+        "description": "Mengembangkan kapasitas literasi kesehatan untuk mendapatkan, memahami, dan menerapkan informasi/layanan kesehatan; mencakup nutrisi, pola makan sehat, kebugaran, aktivitas jasmani, lingkungan sehat, keselamatan, dan pencegahan cedera."
+      }
+    ]
+  },
+  "level_2_taksonomi_materi": [
+    {
+      "fase": "A",
+      "jenjang_kelas": "I-II SD/MI/Program Paket A",
+      "elemen": "Terampil Bergerak",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Mempraktikkan keterampilan gerak fundamental dan menerapkannya dalam berbagai situasi gerak yang berbeda; mengeksplorasi berbagai strategi gerak; dan mengeksplorasi berbagai konsep gerak serta menyimpulkan efektivitasnya."
+    },
+    {
+      "fase": "A",
+      "jenjang_kelas": "I-II SD/MI/Program Paket A",
+      "elemen": "Belajar melalui Gerak",
+      "materi_esensial": [
+        "Taat aturan untuk membentuk fair play: menghargai teman dan lawan, menerima kemenangan dan kekalahan dengan sportif, tidak berbuat curang.",
+        "Penerapan strategi kolaborasi: membantu teman, memberi kesempatan, berbagi peran, saling memberi dukungan."
+      ],
+      "kompetensi_akhir": "Menaati peraturan untuk menumbuhkan fair play di dalam berbagai aktivitas jasmani; menerapkan strategi kolaborasi ketika berpartisipasi dalam aktivitas jasmani."
+    },
+    {
+      "fase": "A",
+      "jenjang_kelas": "I-II SD/MI/Program Paket A",
+      "elemen": "Bergaya Hidup Aktif",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Berpartisipasi di dalam berbagai aktivitas jasmani dan mengidentifikasi manfaatnya."
+    },
+    {
+      "fase": "A",
+      "jenjang_kelas": "I-II SD/MI/Program Paket A",
+      "elemen": "Memilih Hidup yang Menyehatkan",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Mengenali gaya hidup aktif dan sehat; mengenali manfaat komponen makanan bergizi seimbang; serta mengenali situasi dan potensi yang berisiko terhadap kesehatan dan keselamatan serta strategi mencari bantuan kepada orang dewasa terpercaya."
+    },
+    {
+      "fase": "B",
+      "jenjang_kelas": "III-IV SD/MI/Program Paket A",
+      "elemen": "Terampil Bergerak",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak."
+    },
+    {
+      "fase": "B",
+      "jenjang_kelas": "III-IV SD/MI/Program Paket A",
+      "elemen": "Belajar melalui Gerak",
+      "materi_esensial": [
+        "Penerapan strategi gerak sederhana: menipu lawan dalam permainan kejar-kejaran (berlari zig-zag), mencari ruang kosong dalam permainan bola, mengatur kecepatan lari supaya tidak cepat lelah; pemecahan masalah gerak.",
+        "Penerapan peraturan dan etika bermain adil secara konsisten untuk menumbuhkan fair play.",
+        "Partisipasi positif dalam aktivitas jasmani secara kelompok atau tim."
+      ],
+      "kompetensi_akhir": "Menerapkan strategi gerak sederhana dan memecahkan masalah gerak; menerapkan peraturan untuk menumbuhkan fair play di dalam berbagai aktivitas jasmani; dan berpartisipasi secara positif dalam kelompok atau tim di dalam berbagai aktivitas jasmani."
+    },
+    {
+      "fase": "B",
+      "jenjang_kelas": "III-IV SD/MI/Program Paket A",
+      "elemen": "Bergaya Hidup Aktif",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Berpartisipasi dalam berbagai aktivitas jasmani dan mengenali faktor-faktor yang menyebabkan aktivitas jasmani menyenangkan."
+    },
+    {
+      "fase": "B",
+      "jenjang_kelas": "III-IV SD/MI/Program Paket A",
+      "elemen": "Memilih Hidup yang Menyehatkan",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Mengenali risiko kesehatan akibat gaya hidup dan berbagai aktivitas jasmani untuk pencegahannya; mengidentifikasi pola makan sehat dan bergizi seimbang sesuai rekomendasi kesehatan untuk menunjang aktivitas sehari-hari; dan mempraktikkan penanganan cedera ringan sesuai pemahaman tentang prinsip pertolongan pertama."
+    },
+    {
+      "fase": "C",
+      "jenjang_kelas": "V-VI SD/MI/Program Paket A",
+      "elemen": "Terampil Bergerak",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak."
+    },
+    {
+      "fase": "C",
+      "jenjang_kelas": "V-VI SD/MI/Program Paket A",
+      "elemen": "Belajar melalui Gerak",
+      "materi_esensial": [
+        "Pengujian efektivitas strategi gerak dan taktik dalam berbagai situasi gerak.",
+        "Rancangan peraturan baru untuk fair play dan modifikasi permainan agar semua murid, tanpa melihat kemampuan fisik, jenis kelamin, atau latar belakang, dapat ikut bermain dan merasa diterima.",
+        "Pelaksanaan berbagai peran untuk keberhasilan tim."
+      ],
+      "kompetensi_akhir": "Menguji efektivitas penerapan strategi gerak dalam berbagai situasi gerak; merancang peraturan alternatif dan modifikasi permainan untuk mendukung fair play dan partisipasi inklusif; dan menjalankan berbagai peran untuk mencapai keberhasilan kelompok atau tim di dalam berbagai aktivitas jasmani."
+    },
+    {
+      "fase": "C",
+      "jenjang_kelas": "V-VI SD/MI/Program Paket A",
+      "elemen": "Bergaya Hidup Aktif",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Berpartisipasi dalam aktivitas jasmani dan menjelaskan pengaruh aktivitas jasmani yang teratur terhadap kesehatan; mengidentifikasi rekomendasi aktivitas jasmani serta pencegahan perilaku sedenter."
+    },
+    {
+      "fase": "C",
+      "jenjang_kelas": "V-VI SD/MI/Program Paket A",
+      "elemen": "Memilih Hidup yang Menyehatkan",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Mengidentifikasi dan menghubungkan antara gaya hidup, risiko kesehatan, dan aktivitas pencegahannya sesuai rekomendasi otoritas kesehatan; menjelaskan pola makan sehat untuk menunjang aktivitas jasmani berdasarkan informasi kandungan gizi pada makanan; dan mempraktikkan penanganan cedera sedang sesuai pemahaman tentang prinsip pertolongan pertama."
+    },
+    {
+      "fase": "D",
+      "jenjang_kelas": "VII-IX SMP/MTs/Program Paket B",
+      "elemen": "Terampil Bergerak",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Menerapkan keterampilan gerak serta mentransfernya ke dalam berbagai situasi gerak; memperagakan strategi gerak yang dapat dimanfaatkan untuk meningkatkan capaian keterampilan gerak."
+    },
+    {
+      "fase": "D",
+      "jenjang_kelas": "VII-IX SMP/MTs/Program Paket B",
+      "elemen": "Belajar melalui Gerak",
+      "materi_esensial": [
+        "Pembuktian efektivitas strategi atau taktik dalam konteks berbeda.",
+        "Investigasi peraturan untuk mewujudkan fair play dan inklusivitas.",
+        "Penerapan kepemimpinan, kolaborasi, dan pengambilan keputusan dalam tim/kelompok."
+      ],
+      "kompetensi_akhir": "Membuktikan strategi gerak yang paling efektif dalam situasi gerak yang berbeda; menginvestigasi modifikasi peraturan yang mendukung fair play dan partisipasi inklusif; menerapkan kepemimpinan, kolaborasi, dan pengambilan keputusan kelompok ketika berpartisipasi di dalam berbagai aktivitas jasmani."
+    },
+    {
+      "fase": "D",
+      "jenjang_kelas": "VII-IX SMP/MTs/Program Paket B",
+      "elemen": "Bergaya Hidup Aktif",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Berpartisipasi dalam aktivitas jasmani dan menjelaskan reaksi tubuh terhadap berbagai tingkat intensitas yang berbeda; menjelaskan strategi peningkatan aktivitas jasmani dan pencegahan perilaku sedenter."
+    },
+    {
+      "fase": "D",
+      "jenjang_kelas": "VII-IX SMP/MTs/Program Paket B",
+      "elemen": "Memilih Hidup yang Menyehatkan",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Menganalisis risiko kesehatan akibat gaya hidup dan merancang tindakan pencegahan melalui aktivitas jasmani berdasarkan rekomendasi otoritas kesehatan; merancang pola makan sehat berdasarkan analisis kandungan gizi sesuai kebutuhan aktivitas jasmani; serta mempraktikkan prosedur untuk menangani cedera yang berisiko terhadap kesehatan dan keselamatan berdasarkan prinsip pertolongan pertama."
+    },
+    {
+      "fase": "E",
+      "jenjang_kelas": "X SMA/MA/SMK/MAK/Program Paket C",
+      "elemen": "Terampil Bergerak",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Menerapkan keterampilan gerak spesifik di dalam berbagai situasi gerak yang menantang; mengembangkan strategi gerak untuk mendapatkan keberhasilan capaian keterampilan gerak melintasi berbagai situasi gerak yang menantang."
+    },
+    {
+      "fase": "E",
+      "jenjang_kelas": "X SMA/MA/SMK/MAK/Program Paket C",
+      "elemen": "Belajar melalui Gerak",
+      "materi_esensial": [
+        "Refleksi transfer strategi gerak dan taktik dalam berbagai situasi berbeda.",
+        "Peragaan fair play dan evaluasi pengaruh perilaku etis terhadap capaian aktivitas jasmani.",
+        "Penerapan strategi pengambilan keputusan dalam tim."
+      ],
+      "kompetensi_akhir": "Merefleksikan transfer strategi gerak yang telah dikuasai dalam situasi gerak yang berbeda; memperagakan fair play dan mengevaluasi pengaruh perilaku etis terhadap capaian aktivitas jasmani bagi individu dan kelompok; serta menerapkan strategi pengambilan keputusan dalam kerja tim yang mempertunjukkan keterampilan kepemimpinan dan kolaborasi."
+    },
+    {
+      "fase": "E",
+      "jenjang_kelas": "X SMA/MA/SMK/MAK/Program Paket C",
+      "elemen": "Bergaya Hidup Aktif",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Berpartisipasi dalam aktivitas kebugaran dan menginvestigasi dampak partisipasi yang teratur terhadap kesehatan; merancang strategi peningkatan aktivitas kebugaran untuk kesehatan."
+    },
+    {
+      "fase": "E",
+      "jenjang_kelas": "X SMA/MA/SMK/MAK/Program Paket C",
+      "elemen": "Memilih Hidup yang Menyehatkan",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Mengevaluasi risiko kesehatan akibat gaya hidup dan tindakan pencegahan melalui aktivitas jasmani serta mempromosikannya menggunakan berbagai media; mengevaluasi pola makan sehat berdasarkan analisis kandungan gizi sesuai kebutuhan aktivitas jasmani; mempraktikkan pertolongan pertama."
+    },
+    {
+      "fase": "F",
+      "jenjang_kelas": "XI-XII SMA/MA/SMK/MAK/Program Paket C",
+      "elemen": "Terampil Bergerak",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Mengevaluasi keterampilan gerak spesifik di dalam berbagai situasi gerak yang menantang untuk meningkatkan kinerja gerak; mengevaluasi strategi gerak untuk mendapatkan keberhasilan capaian keterampilan gerak melintasi berbagai situasi gerak yang menantang."
+    },
+    {
+      "fase": "F",
+      "jenjang_kelas": "XI-XII SMA/MA/SMK/MAK/Program Paket C",
+      "elemen": "Belajar melalui Gerak",
+      "materi_esensial": [
+        "Evaluasi strategi gerak dan taktik dalam situasi lebih menantang.",
+        "Evaluasi fair play dan refleksi pengaruh etis terhadap capaian aktivitas jasmani.",
+        "Evaluasi strategi pengambilan keputusan dalam tim."
+      ],
+      "kompetensi_akhir": "Mengevaluasi strategi gerak yang telah dikuasai dalam situasi gerak baru yang menantang; mengevaluasi fair play dan merefleksikan pengaruh perilaku etis terhadap capaian aktivitas jasmani bagi individu dan kelompok; dan mengevaluasi strategi pengambilan keputusan dalam kerja tim yang mempertunjukkan keterampilan kepemimpinan dan kolaborasi."
+    },
+    {
+      "fase": "F",
+      "jenjang_kelas": "XI-XII SMA/MA/SMK/MAK/Program Paket C",
+      "elemen": "Bergaya Hidup Aktif",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Berpartisipasi dalam aktivitas kebugaran dan mengevaluasi dampak partisipasi yang teratur terhadap kesehatan; mengevaluasi efektivitas strategi peningkatan aktivitas kebugaran untuk kesehatan."
+    },
+    {
+      "fase": "F",
+      "jenjang_kelas": "XI-XII SMA/MA/SMK/MAK/Program Paket C",
+      "elemen": "Memilih Hidup yang Menyehatkan",
+      "materi_esensial": [],
+      "kompetensi_akhir": "Mengadvokasi gaya hidup aktif dan sehat melalui aktivitas jasmani menggunakan berbagai media; mengadvokasi pola makan sehat dan bergizi seimbang kepada orang lain sesuai kebutuhan aktivitas jasmaninya; dan mempraktikkan tindakan penyelamatan hidup sesuai prosedur operasional standar (POS)."
+    }
+  ],
+  "level_3_framework_pedagogi": {
+    "prinsip_pembelajaran": [
+      "Berkesadaran, bermakna, dan menggembirakan.",
+      "Berpusat pada murid, aktif, kolaboratif, demokratis, inklusif, dan autentik.",
+      "Belajar tentang gerak dan belajar melalui gerak.",
+      "Praktik nyata, berpikir tingkat tinggi, kolaborasi, refleksi, dan transfer.",
+      "Integrasi praktik pedagogis, lingkungan pembelajaran, teknologi digital, dan kemitraan pembelajaran."
+    ],
+    "pengalaman_belajar": [
+      "Memahami: membangun kesadaran terhadap tujuan belajar dan mengonstruksi pengetahuan melalui pengetahuan esensial, aplikatif, serta nilai dan karakter.",
+      "Mengaplikasi: menggunakan pengetahuan/keterampilan dalam situasi nyata untuk menyelesaikan masalah, mengambil keputusan, atau menghasilkan sesuatu.",
+      "Merefleksi: mengonstruksi kembali pemahaman secara kritis, menghubungkan dengan konteks lebih luas, mengevaluasi strategi, mengidentifikasi hambatan/keberhasilan, dan merancang perbaikan."
+    ],
+    "profil_lulusan": [
+      "Keimanan dan ketakwaan terhadap Tuhan YME",
+      "Kewargaan",
+      "Kreativitas",
+      "Penalaran kritis",
+      "Kolaborasi",
+      "Kemandirian",
+      "Kesehatan",
+      "Komunikasi"
+    ],
+    "model_pedagogis_yang_disebutkan": [
+      "Sport Education Model (SEM)",
+      "Teaching Games for Understanding (TGfU)",
+      "Cooperative Learning",
+      "Project-Based Learning (PjBL)",
+      "Personalized Fitness Planning"
+    ]
+  },
+  "level_4_operasional_implementasi": {
+    "atp": {
+      "aturan": [
+        "ATP dikembangkan tiap fase kemudian ditetapkan per tahun.",
+        "ATP perlu dikembangkan secara kolaboratif lintas kelas/tingkatan dalam satu fase atau melalui komunitas/tim pendidik/MGMP/KKG/KKT.",
+        "ATP disesuaikan dengan karakteristik dan kompetensi yang dikembangkan PJOK.",
+        "ATP fokus pada pencapaian pembelajaran.",
+        "Contoh ATP pemerintah adalah contoh; urutan dapat diubah/dimodifikasi sesuai kebutuhan.",
+        "Penomoran elemen CP bukan urutan pembelajaran; ATP tidak harus mengikuti urutan elemen.",
+        "Contoh ATP PJOK menggunakan pendekatan konkret ke abstrak: mulai dari aktivitas/gerakan yang dapat diamati, kemudian konsep/prinsip di baliknya.",
+        "Setiap tujuan pembelajaran memuat kompetensi dan lingkup materi."
+      ],
+      "alur_logis": [
+        "Analisis CP",
+        "Uraikan CP menjadi tujuan pembelajaran",
+        "Tentukan kompetensi dan lingkup materi",
+        "Susun tujuan secara runtut dan sistematis",
+        "Tetapkan per tahun sesuai fase",
+        "Rancang pembelajaran dan asesmen yang mengarah pada CP akhir fase"
+      ]
+    },
+    "asesmen": {
+      "prinsip": [
+        "Autentik dan terintegrasi dengan proses belajar.",
+        "Tidak hanya menilai hasil akhir/performa fisik, tetapi juga proses, strategi, etika, kolaborasi, refleksi, dan pengambilan keputusan.",
+        "Menggunakan umpan balik untuk memperkuat pembelajaran."
+      ],
+      "formatif": [
+        "Observasi aktivitas dan penampilan gerak",
+        "Rubrik sederhana/kinerja",
+        "Penilaian diri (self-assessment)",
+        "Penilaian antarteman",
+        "Jurnal/refleksi",
+        "Diskusi dan umpan balik langsung",
+        "Gambar/simbol untuk fase awal"
+      ],
+      "sumatif": [
+        "Unjuk kerja dengan rubrik",
+        "Portofolio",
+        "Projek",
+        "Turnamen/performa akhir",
+        "Demonstrasi keterampilan",
+        "Produk atau rangkaian gerak"
+      ],
+      "contoh_kriteria": [
+        "Pemahaman konsep/strategi",
+        "Perencanaan/pengembangan strategi",
+        "Penerapan strategi",
+        "Kerja sama tim",
+        "Refleksi diri",
+        "Adaptasi terhadap situasi gerak"
+      ]
+    },
+    "contoh_kasus": [
+      {
+        "judul": "Strategi gerak dalam permainan",
+        "tujuan": "Menerapkan, mengembangkan, dan mengevaluasi strategi gerak dalam situasi nyata.",
+        "langkah_utama": "Memahami konsep/strategi → mencoba dalam permainan → berdiskusi/berkolaborasi → mengevaluasi efektivitas → merefleksi dan memperbaiki.",
+        "output": "Penampilan gerak, strategi/taktik, dan refleksi."
+      },
+      {
+        "judul": "Program kebugaran pribadi",
+        "tujuan": "Merancang, menjalankan, dan mengevaluasi program aktivitas kebugaran sebagai bagian gaya hidup sehat.",
+        "langkah_utama": "Identifikasi kebutuhan/kondisi → rancang program → laksanakan konsisten → ukur perubahan → evaluasi dan revisi.",
+        "output": "Portofolio jurnal latihan, grafik perkembangan, dan rencana revisi."
+      },
+      {
+        "judul": "Permainan inklusif dan fair play",
+        "tujuan": "Mengembangkan kolaborasi, etika, kepemimpinan, dan partisipasi inklusif.",
+        "langkah_utama": "Memahami aturan → memodifikasi aturan/permainan → bermain → mengamati perilaku fair play → refleksi konflik/kerja sama.",
+        "output": "Peraturan permainan/modifikasi, performa kelompok, dan refleksi."
+      },
+      {
+        "judul": "Strategi menyerang bola basket — contoh perencanaan",
+        "tujuan": "Menciptakan, mengembangkan, dan mengevaluasi strategi gerak menyerang.",
+        "langkah_utama": "Asesmen diri → aktivitas Dragon Tail → mengembangkan strategi melalui Ultimate Basketball → turnamen mini → evaluasi/refleksi.",
+        "output": "Rancangan strategi, performa, evaluasi strategi, dan refleksi."
+      }
+    ]
+  },
+  "level_5_glosarium": [
+    {
+      "istilah": "Advokasi",
+      "definisi": "Pembelaan, dukungan, atau rekomendasi terhadap suatu tujuan atau kepentingan baik untuk kepentingan individu maupun kelompok, melalui berbagai strategi dan pendekatan."
+    },
+    {
+      "istilah": "Aktivitas Jasmani",
+      "definisi": "Gerak tubuh melalui olahraga, latihan, aktivitas sehari-hari, dan berbagai bentuk rekreasi aktif lainnya."
+    },
+    {
+      "istilah": "Belajar melalui gerak",
+      "definisi": "Proses belajar yang melibatkan aktivitas jasmani atau gerakan tubuh sebagai sarana untuk memahami dan menginternalisasi konsep, keterampilan, atau informasi."
+    },
+    {
+      "istilah": "Bergaya hidup aktif",
+      "definisi": "Gaya hidup yang mempromosikan aktivitas jasmani dan gerakan secara teratur sebagai bagian integral dari kehidupan sehari-hari."
+    },
+    {
+      "istilah": "Capaian Pembelajaran (learning outcomes)",
+      "definisi": "Ungkapan tujuan pendidikan tentang apa yang diharapkan diketahui, dipahami, dan dapat dikerjakan murid setelah menyelesaikan suatu periode belajar."
+    },
+    {
+      "istilah": "Capaian Pembelajaran (learning outcomes) PJOK",
+      "definisi": "Menyiapkan individu yang terliterasi secara jasmani, memiliki motivasi, kepercayaan diri, pengetahuan, pemahaman, dan kompetensi jasmani agar menghargai serta mengambil tanggung jawab untuk terlibat dalam aktivitas jasmani secara teratur dan berkelanjutan."
+    },
+    {
+      "istilah": "Disposisi",
+      "definisi": "Karakter yang melekat pada diri seseorang untuk melakukan suatu tindakan."
+    },
+    {
+      "istilah": "Fairplay",
+      "definisi": "Konsep prinsip keadilan dan sportivitas, terutama dalam olahraga; bermain adil, menghormati aturan, dan menghargai lawan."
+    },
+    {
+      "istilah": "Kebugaran yang terkait dengan kesehatan",
+      "definisi": "Kemampuan tubuh untuk berfungsi secara efisien, efektif, dan bebas cedera ketika bekerja dan aktivitas waktu luang, rekreasi aktif, serta menghadapi situasi darurat; meliputi kebugaran kardio, kelenturan, daya tahan, dan kekuatan otot."
+    },
+    {
+      "istilah": "Kerjasama dalam suatu tim",
+      "definisi": "Upaya kolaboratif kelompok untuk mencapai tujuan bersama atau menyelesaikan tugas secara efektif dan efisien; tim merupakan kelompok individu yang saling bergantung."
+    },
+    {
+      "istilah": "Keterampilan gerak",
+      "definisi": "Gerakan dasar dalam aktivitas jasmani/olahraga yang dilakukan dengan teknik tertentu secara efektif dan efisien untuk mencapai hasil maksimal."
+    },
+    {
+      "istilah": "Keterampilan gerak fundamental",
+      "definisi": "Gerak dasar/pola pendahulu yang membentuk fondasi aktivitas jasmani, olahraga, rekreasi aktif, dan permainan tradisional; meliputi lokomotor, non-lokomotor, manipulatif, aksial, dan keterampilan mengontrol objek."
+    },
+    {
+      "istilah": "Keterampilan gerak lokomotor",
+      "definisi": "Kemampuan bergerak dari satu tempat ke tempat lain, misalnya berjalan, berguling, atau berjingkat."
+    },
+    {
+      "istilah": "Keterampilan non-lokomotor",
+      "definisi": "Bergerak di suatu titik tanpa mengubah lokasi, misalnya melengkung, mengulur, memelintir, memutar, mengayun, dan menjaga keseimbangan."
+    },
+    {
+      "istilah": "Keterampilan mengontrol objek",
+      "definisi": "Keterampilan meng-handle/mengontrol objek atau peralatan seperti menendang, memukul, menggiring, meluncurkan, atau menghentikan bola."
+    },
+    {
+      "istilah": "Keselamatan",
+      "definisi": "Bebas dari bahaya, cedera, atau sakit dengan menilai risiko, mengambil keputusan aman, dan bertindak untuk memastikan keselamatan diri dan orang lain."
+    },
+    {
+      "istilah": "Konsep gerak",
+      "definisi": "Kerangka kerja untuk meningkatkan unjuk kerja gerak; meliputi kesadaran tentang tubuh, ruang, usaha, dan hubungan dengan objek, orang, dan ruang."
+    },
+    {
+      "istilah": "Memilih hidup yang menyehatkan",
+      "definisi": "Proses membuat pilihan yang mendukung kesehatan fisik, mental, dan emosional; mencakup makanan bergizi, olahraga, pengelolaan stres, tidur, dan keseimbangan aktivitas-istirahat."
+    },
+    {
+      "istilah": "Pembelajaran",
+      "definisi": "Proses interaksi antarmurid, murid dengan tenaga pendidik, dan sumber belajar pada lingkungan belajar yang berpotensi mengubah perilaku atau kompetensi."
+    },
+    {
+      "istilah": "Pendidikan jasmani",
+      "definisi": "Proses pendidikan terstruktur menggunakan gerak dan aktivitas jasmani untuk mengembangkan kompetensi gerak, pengetahuan, dan nilai positif bagi perkembangan holistik serta partisipasi sepanjang hayat."
+    },
+    {
+      "istilah": "Permainan",
+      "definisi": "Aktivitas terstruktur dan memiliki aturan yang melibatkan keterampilan gerak dan strategi serta menumbuhkan kegembiraan, kerja sama/persaingan sehat, dan pembelajaran bermakna."
+    },
+    {
+      "istilah": "Permainan Invasi/Serangan (Invasion Games)",
+      "definisi": "Kategori permainan ketika tim mencetak skor dengan memasuki wilayah lawan dan mengarahkan objek ke sasaran/gawang sambil mempertahankan wilayah sendiri; contoh sepak bola, bola basket, bola tangan, futsal."
+    },
+    {
+      "istilah": "Permainan Lapangan (Striking/Fielding Games)",
+      "definisi": "Kategori permainan ketika satu tim memukul/melempar objek ke area permainan lalu berlari mencetak poin, sementara lawan menangkap/mengembalikan objek dan meminimalkan skor; contoh kasti, baseball/softball, cricket."
+    },
+    {
+      "istilah": "Permainan Net (Net/Wall Games)",
+      "definisi": "Kategori permainan ketika pemain/tim mengirim objek melewati net atau melawan dinding ke area lawan agar lawan gagal mengembalikan dengan benar; contoh bola voli, bulu tangkis, tenis lapangan/meja."
+    },
+    {
+      "istilah": "Permainan Target (Target Games)",
+      "definisi": "Permainan yang memberi skor ketika bola/proyektil diarahkan ke sasaran; mengandalkan akurasi dan konsentrasi; contoh golf, woodball, bowling, pétangue."
+    },
+    {
+      "istilah": "Permainan sederhana",
+      "definisi": "Permainan olahraga yang disederhanakan melalui aturan, jumlah pemain, lapangan, atau alat."
+    },
+    {
+      "istilah": "Respek",
+      "definisi": "Sikap menghargai orang lain, diri sendiri, dan lingkungan melalui perilaku/ucapan sopan, menghormati perbedaan, dan mengakui hak/perasaan orang lain."
+    },
+    {
+      "istilah": "Sehat",
+      "definisi": "Kondisi optimal secara jasmani, mental, dan sosial yang mendukung belajar, bergerak aktif, dan interaksi positif."
+    },
+    {
+      "istilah": "Sekuen gerak",
+      "definisi": "Serangkaian gerakan yang saling terhubung dan dilakukan berurutan untuk tujuan tertentu."
+    },
+    {
+      "istilah": "Situasi gerak",
+      "definisi": "Konteks/kondisi aktivitas jasmani atau olahraga yang menuntut keterampilan, strategi, atau taktik untuk mengatasi tantangan/mencapai tujuan."
+    },
+    {
+      "istilah": "Strategi gerak",
+      "definisi": "Rencana/pendekatan sengaja untuk mengatasi tantangan atau meningkatkan performa melalui pemilihan keterampilan, taktik, dan keputusan sesuai konteks."
+    },
+    {
+      "istilah": "Tantangan gerak",
+      "definisi": "Tugas/situasi yang menuntut keterampilan fisik, strategi, dan pemecahan masalah melalui gerakan."
+    },
+    {
+      "istilah": "Teknik",
+      "definisi": "Cara tertentu melakukan gerakan untuk mencapai efisiensi, ketepatan, dan efektivitas."
+    },
+    {
+      "istilah": "Terampil bergerak",
+      "definisi": "Kemampuan melakukan gerakan dengan kontrol, efisiensi, ketepatan, dan adaptasi dalam berbagai aktivitas jasmani dan situasi jasmaniah."
+    },
+    {
+      "istilah": "Voice and Choice",
+      "definisi": "Konsep yang menekankan kesempatan murid berpartisipasi dalam pengambilan keputusan dan memilih opsi sesuai kebutuhan dan preferensi."
+    },
+    {
+      "istilah": "Wellbeing",
+      "definisi": "Perasaan sehat dan kualitas hidup atau kapasitas merawat/menjaga diri dan orang lain terkait kesehatan, keselamatan, dan hubungan sehat."
+    }
+  ],
+  "atomic_nodes": [
+    {
+      "id_node": "PJOK_L1_N001",
+      "level": 1,
+      "title": "Identitas dan rasionalitas",
+      "phase": null,
+      "element": null,
+      "topic": null,
+      "content": [
+        "Tujuan esensial PJOK adalah membantu murid menjadi pelajar sepanjang hayat untuk hidup sehat dan aktif.",
+        "Murid mengembangkan keterampilan, pengetahuan, pemahaman, dan dorongan dari dalam diri untuk melakukan aktivitas jasmani serta memperoleh manfaat kesehatan secara menyeluruh.",
+        "Kurikulum PJOK perlu merespons perubahan budaya gerak masyarakat, dampak teknologi terhadap pilihan gaya hidup, tantangan minat generasi muda terhadap aktivitas jasmani/olahraga, serta kebutuhan inklusivitas.",
+        "Pembelajaran mendalam diintegrasikan melalui pembelajaran tentang dan melalui aktivitas jasmani/olahraga yang berkesadaran, bermakna, dan menggembirakan.",
+        "PJOK menumbuhkan kecintaan sepanjang hayat terhadap aktivitas jasmani dan olahraga, sikap positif terhadap kesehatan, serta keterampilan afektif seperti kerja sama tim dan fair play.",
+        "PJOK bersifat holistik: pembelajaran gerak tidak hanya berfokus pada aspek jasmani, tetapi juga personal, sosial, emosional, kognitif, karakter, dan kesehatan."
+      ],
+      "source_page": 8,
+      "source_section": "A. Pendahuluan — Latar Belakang",
+      "source_text": [
+        "Tujuan esensial PJOK adalah membantu murid menjadi pelajar sepanjang hayat untuk hidup sehat dan aktif.",
+        "Murid mengembangkan keterampilan, pengetahuan, pemahaman, dan dorongan dari dalam diri untuk melakukan aktivitas jasmani serta memperoleh manfaat kesehatan secara menyeluruh.",
+        "Kurikulum PJOK perlu merespons perubahan budaya gerak masyarakat, dampak teknologi terhadap pilihan gaya hidup, tantangan minat generasi muda terhadap aktivitas jasmani/olahraga, serta kebutuhan inklusivitas.",
+        "Pembelajaran mendalam diintegrasikan melalui pembelajaran tentang dan melalui aktivitas jasmani/olahraga yang berkesadaran, bermakna, dan menggembirakan.",
+        "PJOK menumbuhkan kecintaan sepanjang hayat terhadap aktivitas jasmani dan olahraga, sikap positif terhadap kesehatan, serta keterampilan afektif seperti kerja sama tim dan fair play.",
+        "PJOK bersifat holistik: pembelajaran gerak tidak hanya berfokus pada aspek jasmani, tetapi juga personal, sosial, emosional, kognitif, karakter, dan kesehatan."
+      ],
+      "dependencies": [],
+      "retrieval_tags": [
+        "pjok",
+        "rasional",
+        "hidup aktif",
+        "kesehatan",
+        "pembelajaran mendalam"
+      ]
+    },
+    {
+      "id_node": "PJOK_A_TERAM_CP",
+      "level": 2,
+      "title": "CP Fase A — Terampil Bergerak",
+      "phase": "A",
+      "element": "Terampil Bergerak",
+      "topic": "Terampil Bergerak",
+      "content": "Mempraktikkan keterampilan gerak fundamental dan menerapkannya dalam berbagai situasi gerak yang berbeda; mengeksplorasi berbagai strategi gerak; dan mengeksplorasi berbagai konsep gerak serta menyimpulkan efektivitasnya.",
+      "source_page": 21,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Mempraktikkan keterampilan gerak fundamental dan menerapkannya dalam berbagai situasi gerak yang berbeda; mengeksplorasi berbagai strategi gerak; dan mengeksplorasi berbagai konsep gerak serta menyimpulkan efektivitasnya.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Terampil Bergerak",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_A_BELAJ_CP",
+      "level": 2,
+      "title": "CP Fase A — Belajar melalui Gerak",
+      "phase": "A",
+      "element": "Belajar melalui Gerak",
+      "topic": "Belajar melalui Gerak",
+      "content": "Menaati peraturan untuk menumbuhkan fair play di dalam berbagai aktivitas jasmani; menerapkan strategi kolaborasi ketika berpartisipasi dalam aktivitas jasmani.",
+      "source_page": 21,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Menaati peraturan untuk menumbuhkan fair play di dalam berbagai aktivitas jasmani; menerapkan strategi kolaborasi ketika berpartisipasi dalam aktivitas jasmani.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Belajar melalui Gerak",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_A_BERGA_CP",
+      "level": 2,
+      "title": "CP Fase A — Bergaya Hidup Aktif",
+      "phase": "A",
+      "element": "Bergaya Hidup Aktif",
+      "topic": "Bergaya Hidup Aktif",
+      "content": "Berpartisipasi di dalam berbagai aktivitas jasmani dan mengidentifikasi manfaatnya.",
+      "source_page": 21,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Berpartisipasi di dalam berbagai aktivitas jasmani dan mengidentifikasi manfaatnya.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Bergaya Hidup Aktif",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_A_MEMIL_CP",
+      "level": 2,
+      "title": "CP Fase A — Memilih Hidup yang Menyehatkan",
+      "phase": "A",
+      "element": "Memilih Hidup yang Menyehatkan",
+      "topic": "Memilih Hidup yang Menyehatkan",
+      "content": "Mengenali gaya hidup aktif dan sehat; mengenali manfaat komponen makanan bergizi seimbang; serta mengenali situasi dan potensi yang berisiko terhadap kesehatan dan keselamatan serta strategi mencari bantuan kepada orang dewasa terpercaya.",
+      "source_page": 21,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Mengenali gaya hidup aktif dan sehat; mengenali manfaat komponen makanan bergizi seimbang; serta mengenali situasi dan potensi yang berisiko terhadap kesehatan dan keselamatan serta strategi mencari bantuan kepada orang dewasa terpercaya.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Memilih Hidup yang Menyehatkan",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_B_TERAM_CP",
+      "level": 2,
+      "title": "CP Fase B — Terampil Bergerak",
+      "phase": "B",
+      "element": "Terampil Bergerak",
+      "topic": "Terampil Bergerak",
+      "content": "Menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak.",
+      "source_page": 22,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Terampil Bergerak",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_B_BELAJ_CP",
+      "level": 2,
+      "title": "CP Fase B — Belajar melalui Gerak",
+      "phase": "B",
+      "element": "Belajar melalui Gerak",
+      "topic": "Belajar melalui Gerak",
+      "content": "Menerapkan strategi gerak sederhana dan memecahkan masalah gerak; menerapkan peraturan untuk menumbuhkan fair play di dalam berbagai aktivitas jasmani; dan berpartisipasi secara positif dalam kelompok atau tim di dalam berbagai aktivitas jasmani.",
+      "source_page": 22,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Menerapkan strategi gerak sederhana dan memecahkan masalah gerak; menerapkan peraturan untuk menumbuhkan fair play di dalam berbagai aktivitas jasmani; dan berpartisipasi secara positif dalam kelompok atau tim di dalam berbagai aktivitas jasmani.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Belajar melalui Gerak",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_B_BERGA_CP",
+      "level": 2,
+      "title": "CP Fase B — Bergaya Hidup Aktif",
+      "phase": "B",
+      "element": "Bergaya Hidup Aktif",
+      "topic": "Bergaya Hidup Aktif",
+      "content": "Berpartisipasi dalam berbagai aktivitas jasmani dan mengenali faktor-faktor yang menyebabkan aktivitas jasmani menyenangkan.",
+      "source_page": 22,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Berpartisipasi dalam berbagai aktivitas jasmani dan mengenali faktor-faktor yang menyebabkan aktivitas jasmani menyenangkan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Bergaya Hidup Aktif",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_B_MEMIL_CP",
+      "level": 2,
+      "title": "CP Fase B — Memilih Hidup yang Menyehatkan",
+      "phase": "B",
+      "element": "Memilih Hidup yang Menyehatkan",
+      "topic": "Memilih Hidup yang Menyehatkan",
+      "content": "Mengenali risiko kesehatan akibat gaya hidup dan berbagai aktivitas jasmani untuk pencegahannya; mengidentifikasi pola makan sehat dan bergizi seimbang sesuai rekomendasi kesehatan untuk menunjang aktivitas sehari-hari; dan mempraktikkan penanganan cedera ringan sesuai pemahaman tentang prinsip pertolongan pertama.",
+      "source_page": 22,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Mengenali risiko kesehatan akibat gaya hidup dan berbagai aktivitas jasmani untuk pencegahannya; mengidentifikasi pola makan sehat dan bergizi seimbang sesuai rekomendasi kesehatan untuk menunjang aktivitas sehari-hari; dan mempraktikkan penanganan cedera ringan sesuai pemahaman tentang prinsip pertolongan pertama.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Memilih Hidup yang Menyehatkan",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_C_TERAM_CP",
+      "level": 2,
+      "title": "CP Fase C — Terampil Bergerak",
+      "phase": "C",
+      "element": "Terampil Bergerak",
+      "topic": "Terampil Bergerak",
+      "content": "Menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak.",
+      "source_page": 23,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Terampil Bergerak",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_C_BELAJ_CP",
+      "level": 2,
+      "title": "CP Fase C — Belajar melalui Gerak",
+      "phase": "C",
+      "element": "Belajar melalui Gerak",
+      "topic": "Belajar melalui Gerak",
+      "content": "Menguji efektivitas penerapan strategi gerak dalam berbagai situasi gerak; merancang peraturan alternatif dan modifikasi permainan untuk mendukung fair play dan partisipasi inklusif; dan menjalankan berbagai peran untuk mencapai keberhasilan kelompok atau tim di dalam berbagai aktivitas jasmani.",
+      "source_page": 23,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Menguji efektivitas penerapan strategi gerak dalam berbagai situasi gerak; merancang peraturan alternatif dan modifikasi permainan untuk mendukung fair play dan partisipasi inklusif; dan menjalankan berbagai peran untuk mencapai keberhasilan kelompok atau tim di dalam berbagai aktivitas jasmani.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Belajar melalui Gerak",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_C_BERGA_CP",
+      "level": 2,
+      "title": "CP Fase C — Bergaya Hidup Aktif",
+      "phase": "C",
+      "element": "Bergaya Hidup Aktif",
+      "topic": "Bergaya Hidup Aktif",
+      "content": "Berpartisipasi dalam aktivitas jasmani dan menjelaskan pengaruh aktivitas jasmani yang teratur terhadap kesehatan; mengidentifikasi rekomendasi aktivitas jasmani serta pencegahan perilaku sedenter.",
+      "source_page": 23,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Berpartisipasi dalam aktivitas jasmani dan menjelaskan pengaruh aktivitas jasmani yang teratur terhadap kesehatan; mengidentifikasi rekomendasi aktivitas jasmani serta pencegahan perilaku sedenter.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Bergaya Hidup Aktif",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_C_MEMIL_CP",
+      "level": 2,
+      "title": "CP Fase C — Memilih Hidup yang Menyehatkan",
+      "phase": "C",
+      "element": "Memilih Hidup yang Menyehatkan",
+      "topic": "Memilih Hidup yang Menyehatkan",
+      "content": "Mengidentifikasi dan menghubungkan antara gaya hidup, risiko kesehatan, dan aktivitas pencegahannya sesuai rekomendasi otoritas kesehatan; menjelaskan pola makan sehat untuk menunjang aktivitas jasmani berdasarkan informasi kandungan gizi pada makanan; dan mempraktikkan penanganan cedera sedang sesuai pemahaman tentang prinsip pertolongan pertama.",
+      "source_page": 23,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Mengidentifikasi dan menghubungkan antara gaya hidup, risiko kesehatan, dan aktivitas pencegahannya sesuai rekomendasi otoritas kesehatan; menjelaskan pola makan sehat untuk menunjang aktivitas jasmani berdasarkan informasi kandungan gizi pada makanan; dan mempraktikkan penanganan cedera sedang sesuai pemahaman tentang prinsip pertolongan pertama.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Memilih Hidup yang Menyehatkan",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_D_TERAM_CP",
+      "level": 2,
+      "title": "CP Fase D — Terampil Bergerak",
+      "phase": "D",
+      "element": "Terampil Bergerak",
+      "topic": "Terampil Bergerak",
+      "content": "Menerapkan keterampilan gerak serta mentransfernya ke dalam berbagai situasi gerak; memperagakan strategi gerak yang dapat dimanfaatkan untuk meningkatkan capaian keterampilan gerak.",
+      "source_page": 24,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Menerapkan keterampilan gerak serta mentransfernya ke dalam berbagai situasi gerak; memperagakan strategi gerak yang dapat dimanfaatkan untuk meningkatkan capaian keterampilan gerak.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Terampil Bergerak",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_D_BELAJ_CP",
+      "level": 2,
+      "title": "CP Fase D — Belajar melalui Gerak",
+      "phase": "D",
+      "element": "Belajar melalui Gerak",
+      "topic": "Belajar melalui Gerak",
+      "content": "Membuktikan strategi gerak yang paling efektif dalam situasi gerak yang berbeda; menginvestigasi modifikasi peraturan yang mendukung fair play dan partisipasi inklusif; menerapkan kepemimpinan, kolaborasi, dan pengambilan keputusan kelompok ketika berpartisipasi di dalam berbagai aktivitas jasmani.",
+      "source_page": 24,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Membuktikan strategi gerak yang paling efektif dalam situasi gerak yang berbeda; menginvestigasi modifikasi peraturan yang mendukung fair play dan partisipasi inklusif; menerapkan kepemimpinan, kolaborasi, dan pengambilan keputusan kelompok ketika berpartisipasi di dalam berbagai aktivitas jasmani.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Belajar melalui Gerak",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_D_BERGA_CP",
+      "level": 2,
+      "title": "CP Fase D — Bergaya Hidup Aktif",
+      "phase": "D",
+      "element": "Bergaya Hidup Aktif",
+      "topic": "Bergaya Hidup Aktif",
+      "content": "Berpartisipasi dalam aktivitas jasmani dan menjelaskan reaksi tubuh terhadap berbagai tingkat intensitas yang berbeda; menjelaskan strategi peningkatan aktivitas jasmani dan pencegahan perilaku sedenter.",
+      "source_page": 24,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Berpartisipasi dalam aktivitas jasmani dan menjelaskan reaksi tubuh terhadap berbagai tingkat intensitas yang berbeda; menjelaskan strategi peningkatan aktivitas jasmani dan pencegahan perilaku sedenter.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Bergaya Hidup Aktif",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_D_MEMIL_CP",
+      "level": 2,
+      "title": "CP Fase D — Memilih Hidup yang Menyehatkan",
+      "phase": "D",
+      "element": "Memilih Hidup yang Menyehatkan",
+      "topic": "Memilih Hidup yang Menyehatkan",
+      "content": "Menganalisis risiko kesehatan akibat gaya hidup dan merancang tindakan pencegahan melalui aktivitas jasmani berdasarkan rekomendasi otoritas kesehatan; merancang pola makan sehat berdasarkan analisis kandungan gizi sesuai kebutuhan aktivitas jasmani; serta mempraktikkan prosedur untuk menangani cedera yang berisiko terhadap kesehatan dan keselamatan berdasarkan prinsip pertolongan pertama.",
+      "source_page": 24,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Menganalisis risiko kesehatan akibat gaya hidup dan merancang tindakan pencegahan melalui aktivitas jasmani berdasarkan rekomendasi otoritas kesehatan; merancang pola makan sehat berdasarkan analisis kandungan gizi sesuai kebutuhan aktivitas jasmani; serta mempraktikkan prosedur untuk menangani cedera yang berisiko terhadap kesehatan dan keselamatan berdasarkan prinsip pertolongan pertama.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Memilih Hidup yang Menyehatkan",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_E_TERAM_CP",
+      "level": 2,
+      "title": "CP Fase E — Terampil Bergerak",
+      "phase": "E",
+      "element": "Terampil Bergerak",
+      "topic": "Terampil Bergerak",
+      "content": "Menerapkan keterampilan gerak spesifik di dalam berbagai situasi gerak yang menantang; mengembangkan strategi gerak untuk mendapatkan keberhasilan capaian keterampilan gerak melintasi berbagai situasi gerak yang menantang.",
+      "source_page": 24,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Menerapkan keterampilan gerak spesifik di dalam berbagai situasi gerak yang menantang; mengembangkan strategi gerak untuk mendapatkan keberhasilan capaian keterampilan gerak melintasi berbagai situasi gerak yang menantang.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "E",
+        "Terampil Bergerak",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_E_BELAJ_CP",
+      "level": 2,
+      "title": "CP Fase E — Belajar melalui Gerak",
+      "phase": "E",
+      "element": "Belajar melalui Gerak",
+      "topic": "Belajar melalui Gerak",
+      "content": "Merefleksikan transfer strategi gerak yang telah dikuasai dalam situasi gerak yang berbeda; memperagakan fair play dan mengevaluasi pengaruh perilaku etis terhadap capaian aktivitas jasmani bagi individu dan kelompok; serta menerapkan strategi pengambilan keputusan dalam kerja tim yang mempertunjukkan keterampilan kepemimpinan dan kolaborasi.",
+      "source_page": 24,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Merefleksikan transfer strategi gerak yang telah dikuasai dalam situasi gerak yang berbeda; memperagakan fair play dan mengevaluasi pengaruh perilaku etis terhadap capaian aktivitas jasmani bagi individu dan kelompok; serta menerapkan strategi pengambilan keputusan dalam kerja tim yang mempertunjukkan keterampilan kepemimpinan dan kolaborasi.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "E",
+        "Belajar melalui Gerak",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_E_BERGA_CP",
+      "level": 2,
+      "title": "CP Fase E — Bergaya Hidup Aktif",
+      "phase": "E",
+      "element": "Bergaya Hidup Aktif",
+      "topic": "Bergaya Hidup Aktif",
+      "content": "Berpartisipasi dalam aktivitas kebugaran dan menginvestigasi dampak partisipasi yang teratur terhadap kesehatan; merancang strategi peningkatan aktivitas kebugaran untuk kesehatan.",
+      "source_page": 24,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Berpartisipasi dalam aktivitas kebugaran dan menginvestigasi dampak partisipasi yang teratur terhadap kesehatan; merancang strategi peningkatan aktivitas kebugaran untuk kesehatan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "E",
+        "Bergaya Hidup Aktif",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_E_MEMIL_CP",
+      "level": 2,
+      "title": "CP Fase E — Memilih Hidup yang Menyehatkan",
+      "phase": "E",
+      "element": "Memilih Hidup yang Menyehatkan",
+      "topic": "Memilih Hidup yang Menyehatkan",
+      "content": "Mengevaluasi risiko kesehatan akibat gaya hidup dan tindakan pencegahan melalui aktivitas jasmani serta mempromosikannya menggunakan berbagai media; mengevaluasi pola makan sehat berdasarkan analisis kandungan gizi sesuai kebutuhan aktivitas jasmani; mempraktikkan pertolongan pertama.",
+      "source_page": 24,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Mengevaluasi risiko kesehatan akibat gaya hidup dan tindakan pencegahan melalui aktivitas jasmani serta mempromosikannya menggunakan berbagai media; mengevaluasi pola makan sehat berdasarkan analisis kandungan gizi sesuai kebutuhan aktivitas jasmani; mempraktikkan pertolongan pertama.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "E",
+        "Memilih Hidup yang Menyehatkan",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_F_TERAM_CP",
+      "level": 2,
+      "title": "CP Fase F — Terampil Bergerak",
+      "phase": "F",
+      "element": "Terampil Bergerak",
+      "topic": "Terampil Bergerak",
+      "content": "Mengevaluasi keterampilan gerak spesifik di dalam berbagai situasi gerak yang menantang untuk meningkatkan kinerja gerak; mengevaluasi strategi gerak untuk mendapatkan keberhasilan capaian keterampilan gerak melintasi berbagai situasi gerak yang menantang.",
+      "source_page": 24,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Mengevaluasi keterampilan gerak spesifik di dalam berbagai situasi gerak yang menantang untuk meningkatkan kinerja gerak; mengevaluasi strategi gerak untuk mendapatkan keberhasilan capaian keterampilan gerak melintasi berbagai situasi gerak yang menantang.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "F",
+        "Terampil Bergerak",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_F_BELAJ_CP",
+      "level": 2,
+      "title": "CP Fase F — Belajar melalui Gerak",
+      "phase": "F",
+      "element": "Belajar melalui Gerak",
+      "topic": "Belajar melalui Gerak",
+      "content": "Mengevaluasi strategi gerak yang telah dikuasai dalam situasi gerak baru yang menantang; mengevaluasi fair play dan merefleksikan pengaruh perilaku etis terhadap capaian aktivitas jasmani bagi individu dan kelompok; dan mengevaluasi strategi pengambilan keputusan dalam kerja tim yang mempertunjukkan keterampilan kepemimpinan dan kolaborasi.",
+      "source_page": 24,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Mengevaluasi strategi gerak yang telah dikuasai dalam situasi gerak baru yang menantang; mengevaluasi fair play dan merefleksikan pengaruh perilaku etis terhadap capaian aktivitas jasmani bagi individu dan kelompok; dan mengevaluasi strategi pengambilan keputusan dalam kerja tim yang mempertunjukkan keterampilan kepemimpinan dan kolaborasi.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "F",
+        "Belajar melalui Gerak",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_F_BERGA_CP",
+      "level": 2,
+      "title": "CP Fase F — Bergaya Hidup Aktif",
+      "phase": "F",
+      "element": "Bergaya Hidup Aktif",
+      "topic": "Bergaya Hidup Aktif",
+      "content": "Berpartisipasi dalam aktivitas kebugaran dan mengevaluasi dampak partisipasi yang teratur terhadap kesehatan; mengevaluasi efektivitas strategi peningkatan aktivitas kebugaran untuk kesehatan.",
+      "source_page": 24,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Berpartisipasi dalam aktivitas kebugaran dan mengevaluasi dampak partisipasi yang teratur terhadap kesehatan; mengevaluasi efektivitas strategi peningkatan aktivitas kebugaran untuk kesehatan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "F",
+        "Bergaya Hidup Aktif",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_F_MEMIL_CP",
+      "level": 2,
+      "title": "CP Fase F — Memilih Hidup yang Menyehatkan",
+      "phase": "F",
+      "element": "Memilih Hidup yang Menyehatkan",
+      "topic": "Memilih Hidup yang Menyehatkan",
+      "content": "Mengadvokasi gaya hidup aktif dan sehat melalui aktivitas jasmani menggunakan berbagai media; mengadvokasi pola makan sehat dan bergizi seimbang kepada orang lain sesuai kebutuhan aktivitas jasmaninya; dan mempraktikkan tindakan penyelamatan hidup sesuai prosedur operasional standar (POS).",
+      "source_page": 24,
+      "source_section": "B. Capaian Pembelajaran — d. Capaian Pembelajaran",
+      "source_text": "Mengadvokasi gaya hidup aktif dan sehat melalui aktivitas jasmani menggunakan berbagai media; mengadvokasi pola makan sehat dan bergizi seimbang kepada orang lain sesuai kebutuhan aktivitas jasmaninya; dan mempraktikkan tindakan penyelamatan hidup sesuai prosedur operasional standar (POS).",
+      "dependencies": [],
+      "retrieval_tags": [
+        "F",
+        "Memilih Hidup yang Menyehatkan",
+        "CP"
+      ]
+    },
+    {
+      "id_node": "PJOK_A_MAT_001",
+      "level": 2,
+      "title": "Materi esensial Fase A — Belajar melalui Gerak",
+      "phase": "A",
+      "element": "Belajar melalui Gerak",
+      "topic": "Taat aturan untuk membentuk fair play: menghargai teman dan lawan, menerima keme",
+      "content": "Taat aturan untuk membentuk fair play: menghargai teman dan lawan, menerima kemenangan dan kekalahan dengan sportif, tidak berbuat curang.",
+      "source_page": 21,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Taat aturan untuk membentuk fair play: menghargai teman dan lawan, menerima kemenangan dan kekalahan dengan sportif, tidak berbuat curang.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "A",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_A_MAT_002",
+      "level": 2,
+      "title": "Materi esensial Fase A — Belajar melalui Gerak",
+      "phase": "A",
+      "element": "Belajar melalui Gerak",
+      "topic": "Penerapan strategi kolaborasi: membantu teman, memberi kesempatan, berbagi peran",
+      "content": "Penerapan strategi kolaborasi: membantu teman, memberi kesempatan, berbagi peran, saling memberi dukungan.",
+      "source_page": 21,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Penerapan strategi kolaborasi: membantu teman, memberi kesempatan, berbagi peran, saling memberi dukungan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "A",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_B_MAT_001",
+      "level": 2,
+      "title": "Materi esensial Fase B — Belajar melalui Gerak",
+      "phase": "B",
+      "element": "Belajar melalui Gerak",
+      "topic": "Penerapan strategi gerak sederhana: menipu lawan dalam permainan kejar-kejaran (",
+      "content": "Penerapan strategi gerak sederhana: menipu lawan dalam permainan kejar-kejaran (berlari zig-zag), mencari ruang kosong dalam permainan bola, mengatur kecepatan lari supaya tidak cepat lelah; pemecahan masalah gerak.",
+      "source_page": 21,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Penerapan strategi gerak sederhana: menipu lawan dalam permainan kejar-kejaran (berlari zig-zag), mencari ruang kosong dalam permainan bola, mengatur kecepatan lari supaya tidak cepat lelah; pemecahan masalah gerak.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "B",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_B_MAT_002",
+      "level": 2,
+      "title": "Materi esensial Fase B — Belajar melalui Gerak",
+      "phase": "B",
+      "element": "Belajar melalui Gerak",
+      "topic": "Penerapan peraturan dan etika bermain adil secara konsisten untuk menumbuhkan fa",
+      "content": "Penerapan peraturan dan etika bermain adil secara konsisten untuk menumbuhkan fair play.",
+      "source_page": 21,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Penerapan peraturan dan etika bermain adil secara konsisten untuk menumbuhkan fair play.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "B",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_B_MAT_003",
+      "level": 2,
+      "title": "Materi esensial Fase B — Belajar melalui Gerak",
+      "phase": "B",
+      "element": "Belajar melalui Gerak",
+      "topic": "Partisipasi positif dalam aktivitas jasmani secara kelompok atau tim.",
+      "content": "Partisipasi positif dalam aktivitas jasmani secara kelompok atau tim.",
+      "source_page": 21,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Partisipasi positif dalam aktivitas jasmani secara kelompok atau tim.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "B",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_C_MAT_001",
+      "level": 2,
+      "title": "Materi esensial Fase C — Belajar melalui Gerak",
+      "phase": "C",
+      "element": "Belajar melalui Gerak",
+      "topic": "Pengujian efektivitas strategi gerak dan taktik dalam berbagai situasi gerak.",
+      "content": "Pengujian efektivitas strategi gerak dan taktik dalam berbagai situasi gerak.",
+      "source_page": 21,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Pengujian efektivitas strategi gerak dan taktik dalam berbagai situasi gerak.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "C",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_C_MAT_002",
+      "level": 2,
+      "title": "Materi esensial Fase C — Belajar melalui Gerak",
+      "phase": "C",
+      "element": "Belajar melalui Gerak",
+      "topic": "Rancangan peraturan baru untuk fair play dan modifikasi permainan agar semua mur",
+      "content": "Rancangan peraturan baru untuk fair play dan modifikasi permainan agar semua murid, tanpa melihat kemampuan fisik, jenis kelamin, atau latar belakang, dapat ikut bermain dan merasa diterima.",
+      "source_page": 21,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Rancangan peraturan baru untuk fair play dan modifikasi permainan agar semua murid, tanpa melihat kemampuan fisik, jenis kelamin, atau latar belakang, dapat ikut bermain dan merasa diterima.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "C",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_C_MAT_003",
+      "level": 2,
+      "title": "Materi esensial Fase C — Belajar melalui Gerak",
+      "phase": "C",
+      "element": "Belajar melalui Gerak",
+      "topic": "Pelaksanaan berbagai peran untuk keberhasilan tim.",
+      "content": "Pelaksanaan berbagai peran untuk keberhasilan tim.",
+      "source_page": 21,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Pelaksanaan berbagai peran untuk keberhasilan tim.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "C",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_D_MAT_001",
+      "level": 2,
+      "title": "Materi esensial Fase D — Belajar melalui Gerak",
+      "phase": "D",
+      "element": "Belajar melalui Gerak",
+      "topic": "Pembuktian efektivitas strategi atau taktik dalam konteks berbeda.",
+      "content": "Pembuktian efektivitas strategi atau taktik dalam konteks berbeda.",
+      "source_page": 23,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Pembuktian efektivitas strategi atau taktik dalam konteks berbeda.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "D",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_D_MAT_002",
+      "level": 2,
+      "title": "Materi esensial Fase D — Belajar melalui Gerak",
+      "phase": "D",
+      "element": "Belajar melalui Gerak",
+      "topic": "Investigasi peraturan untuk mewujudkan fair play dan inklusivitas.",
+      "content": "Investigasi peraturan untuk mewujudkan fair play dan inklusivitas.",
+      "source_page": 23,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Investigasi peraturan untuk mewujudkan fair play dan inklusivitas.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "D",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_D_MAT_003",
+      "level": 2,
+      "title": "Materi esensial Fase D — Belajar melalui Gerak",
+      "phase": "D",
+      "element": "Belajar melalui Gerak",
+      "topic": "Penerapan kepemimpinan, kolaborasi, dan pengambilan keputusan dalam tim/kelompok",
+      "content": "Penerapan kepemimpinan, kolaborasi, dan pengambilan keputusan dalam tim/kelompok.",
+      "source_page": 23,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Penerapan kepemimpinan, kolaborasi, dan pengambilan keputusan dalam tim/kelompok.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "D",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_E_MAT_001",
+      "level": 2,
+      "title": "Materi esensial Fase E — Belajar melalui Gerak",
+      "phase": "E",
+      "element": "Belajar melalui Gerak",
+      "topic": "Refleksi transfer strategi gerak dan taktik dalam berbagai situasi berbeda.",
+      "content": "Refleksi transfer strategi gerak dan taktik dalam berbagai situasi berbeda.",
+      "source_page": 23,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Refleksi transfer strategi gerak dan taktik dalam berbagai situasi berbeda.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "E",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_E_MAT_002",
+      "level": 2,
+      "title": "Materi esensial Fase E — Belajar melalui Gerak",
+      "phase": "E",
+      "element": "Belajar melalui Gerak",
+      "topic": "Peragaan fair play dan evaluasi pengaruh perilaku etis terhadap capaian aktivita",
+      "content": "Peragaan fair play dan evaluasi pengaruh perilaku etis terhadap capaian aktivitas jasmani.",
+      "source_page": 23,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Peragaan fair play dan evaluasi pengaruh perilaku etis terhadap capaian aktivitas jasmani.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "E",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_E_MAT_003",
+      "level": 2,
+      "title": "Materi esensial Fase E — Belajar melalui Gerak",
+      "phase": "E",
+      "element": "Belajar melalui Gerak",
+      "topic": "Penerapan strategi pengambilan keputusan dalam tim.",
+      "content": "Penerapan strategi pengambilan keputusan dalam tim.",
+      "source_page": 23,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Penerapan strategi pengambilan keputusan dalam tim.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "E",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_F_MAT_001",
+      "level": 2,
+      "title": "Materi esensial Fase F — Belajar melalui Gerak",
+      "phase": "F",
+      "element": "Belajar melalui Gerak",
+      "topic": "Evaluasi strategi gerak dan taktik dalam situasi lebih menantang.",
+      "content": "Evaluasi strategi gerak dan taktik dalam situasi lebih menantang.",
+      "source_page": 23,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Evaluasi strategi gerak dan taktik dalam situasi lebih menantang.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "F",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_F_MAT_002",
+      "level": 2,
+      "title": "Materi esensial Fase F — Belajar melalui Gerak",
+      "phase": "F",
+      "element": "Belajar melalui Gerak",
+      "topic": "Evaluasi fair play dan refleksi pengaruh etis terhadap capaian aktivitas jasmani",
+      "content": "Evaluasi fair play dan refleksi pengaruh etis terhadap capaian aktivitas jasmani.",
+      "source_page": 23,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Evaluasi fair play dan refleksi pengaruh etis terhadap capaian aktivitas jasmani.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "F",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_F_MAT_003",
+      "level": 2,
+      "title": "Materi esensial Fase F — Belajar melalui Gerak",
+      "phase": "F",
+      "element": "Belajar melalui Gerak",
+      "topic": "Evaluasi strategi pengambilan keputusan dalam tim.",
+      "content": "Evaluasi strategi pengambilan keputusan dalam tim.",
+      "source_page": 23,
+      "source_section": "C. Pemetaan Materi Esensial",
+      "source_text": "Evaluasi strategi pengambilan keputusan dalam tim.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "materi esensial",
+        "F",
+        "Belajar melalui Gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_L3_N001",
+      "level": 3,
+      "title": "Pengalaman belajar mendalam",
+      "phase": null,
+      "element": null,
+      "topic": null,
+      "content": "Memahami → Mengaplikasi → Merefleksi",
+      "source_page": 78,
+      "source_section": "D. Perencanaan Pembelajaran Mendalam — Kerangka Kerja",
+      "source_text": "Memahami → Mengaplikasi → Merefleksi",
+      "dependencies": [],
+      "retrieval_tags": [
+        "deep learning",
+        "memahami",
+        "mengaplikasi",
+        "merefleksi"
+      ]
+    },
+    {
+      "id_node": "PJOK_L3_N002",
+      "level": 3,
+      "title": "Empat komponen pembelajaran mendalam",
+      "phase": null,
+      "element": null,
+      "topic": null,
+      "content": "Praktik pedagogis; lingkungan pembelajaran; pemanfaatan teknologi digital; kemitraan pembelajaran.",
+      "source_page": 77,
+      "source_section": "D. Kerangka Kerja Pembelajaran Mendalam",
+      "source_text": "Praktik pedagogis; lingkungan pembelajaran; pemanfaatan teknologi digital; kemitraan pembelajaran.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "pedagogi",
+        "lingkungan",
+        "teknologi",
+        "kemitraan"
+      ]
+    },
+    {
+      "id_node": "PJOK_L4_N001",
+      "level": 4,
+      "title": "Aturan ATP",
+      "phase": null,
+      "element": null,
+      "topic": null,
+      "content": [
+        "ATP dikembangkan tiap fase kemudian ditetapkan per tahun.",
+        "ATP perlu dikembangkan secara kolaboratif lintas kelas/tingkatan dalam satu fase atau melalui komunitas/tim pendidik/MGMP/KKG/KKT.",
+        "ATP disesuaikan dengan karakteristik dan kompetensi yang dikembangkan PJOK.",
+        "ATP fokus pada pencapaian pembelajaran.",
+        "Contoh ATP pemerintah adalah contoh; urutan dapat diubah/dimodifikasi sesuai kebutuhan.",
+        "Penomoran elemen CP bukan urutan pembelajaran; ATP tidak harus mengikuti urutan elemen.",
+        "Contoh ATP PJOK menggunakan pendekatan konkret ke abstrak: mulai dari aktivitas/gerakan yang dapat diamati, kemudian konsep/prinsip di baliknya.",
+        "Setiap tujuan pembelajaran memuat kompetensi dan lingkup materi."
+      ],
+      "source_page": 80,
+      "source_section": "D.2 Penyusunan Alur Tujuan Pembelajaran",
+      "source_text": [
+        "ATP dikembangkan tiap fase kemudian ditetapkan per tahun.",
+        "ATP perlu dikembangkan secara kolaboratif lintas kelas/tingkatan dalam satu fase atau melalui komunitas/tim pendidik/MGMP/KKG/KKT.",
+        "ATP disesuaikan dengan karakteristik dan kompetensi yang dikembangkan PJOK.",
+        "ATP fokus pada pencapaian pembelajaran.",
+        "Contoh ATP pemerintah adalah contoh; urutan dapat diubah/dimodifikasi sesuai kebutuhan.",
+        "Penomoran elemen CP bukan urutan pembelajaran; ATP tidak harus mengikuti urutan elemen.",
+        "Contoh ATP PJOK menggunakan pendekatan konkret ke abstrak: mulai dari aktivitas/gerakan yang dapat diamati, kemudian konsep/prinsip di baliknya.",
+        "Setiap tujuan pembelajaran memuat kompetensi dan lingkup materi."
+      ],
+      "dependencies": [],
+      "retrieval_tags": [
+        "ATP",
+        "alur tujuan pembelajaran"
+      ]
+    },
+    {
+      "id_node": "PJOK_L4_N002",
+      "level": 4,
+      "title": "Asesmen",
+      "phase": null,
+      "element": null,
+      "topic": null,
+      "content": {
+        "prinsip": [
+          "Autentik dan terintegrasi dengan proses belajar.",
+          "Tidak hanya menilai hasil akhir/performa fisik, tetapi juga proses, strategi, etika, kolaborasi, refleksi, dan pengambilan keputusan.",
+          "Menggunakan umpan balik untuk memperkuat pembelajaran."
+        ],
+        "formatif": [
+          "Observasi aktivitas dan penampilan gerak",
+          "Rubrik sederhana/kinerja",
+          "Penilaian diri (self-assessment)",
+          "Penilaian antarteman",
+          "Jurnal/refleksi",
+          "Diskusi dan umpan balik langsung",
+          "Gambar/simbol untuk fase awal"
+        ],
+        "sumatif": [
+          "Unjuk kerja dengan rubrik",
+          "Portofolio",
+          "Projek",
+          "Turnamen/performa akhir",
+          "Demonstrasi keterampilan",
+          "Produk atau rangkaian gerak"
+        ],
+        "contoh_kriteria": [
+          "Pemahaman konsep/strategi",
+          "Perencanaan/pengembangan strategi",
+          "Penerapan strategi",
+          "Kerja sama tim",
+          "Refleksi diri",
+          "Adaptasi terhadap situasi gerak"
+        ]
+      },
+      "source_page": 46,
+      "source_section": "C. Pemetaan Materi Esensial — contoh asesmen",
+      "source_text": {
+        "prinsip": [
+          "Autentik dan terintegrasi dengan proses belajar.",
+          "Tidak hanya menilai hasil akhir/performa fisik, tetapi juga proses, strategi, etika, kolaborasi, refleksi, dan pengambilan keputusan.",
+          "Menggunakan umpan balik untuk memperkuat pembelajaran."
+        ],
+        "formatif": [
+          "Observasi aktivitas dan penampilan gerak",
+          "Rubrik sederhana/kinerja",
+          "Penilaian diri (self-assessment)",
+          "Penilaian antarteman",
+          "Jurnal/refleksi",
+          "Diskusi dan umpan balik langsung",
+          "Gambar/simbol untuk fase awal"
+        ],
+        "sumatif": [
+          "Unjuk kerja dengan rubrik",
+          "Portofolio",
+          "Projek",
+          "Turnamen/performa akhir",
+          "Demonstrasi keterampilan",
+          "Produk atau rangkaian gerak"
+        ],
+        "contoh_kriteria": [
+          "Pemahaman konsep/strategi",
+          "Perencanaan/pengembangan strategi",
+          "Penerapan strategi",
+          "Kerja sama tim",
+          "Refleksi diri",
+          "Adaptasi terhadap situasi gerak"
+        ]
+      },
+      "dependencies": [],
+      "retrieval_tags": [
+        "asesmen",
+        "formatif",
+        "sumatif",
+        "autentik"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_001",
+      "level": 5,
+      "title": "Advokasi",
+      "phase": null,
+      "element": null,
+      "topic": "Advokasi",
+      "content": "Pembelaan, dukungan, atau rekomendasi terhadap suatu tujuan atau kepentingan baik untuk kepentingan individu maupun kelompok, melalui berbagai strategi dan pendekatan.",
+      "source_page": 161,
+      "source_section": "E. Glosarium",
+      "source_text": "Pembelaan, dukungan, atau rekomendasi terhadap suatu tujuan atau kepentingan baik untuk kepentingan individu maupun kelompok, melalui berbagai strategi dan pendekatan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Advokasi"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_002",
+      "level": 5,
+      "title": "Aktivitas Jasmani",
+      "phase": null,
+      "element": null,
+      "topic": "Aktivitas Jasmani",
+      "content": "Gerak tubuh melalui olahraga, latihan, aktivitas sehari-hari, dan berbagai bentuk rekreasi aktif lainnya.",
+      "source_page": 161,
+      "source_section": "E. Glosarium",
+      "source_text": "Gerak tubuh melalui olahraga, latihan, aktivitas sehari-hari, dan berbagai bentuk rekreasi aktif lainnya.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Aktivitas Jasmani"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_003",
+      "level": 5,
+      "title": "Belajar melalui gerak",
+      "phase": null,
+      "element": null,
+      "topic": "Belajar melalui gerak",
+      "content": "Proses belajar yang melibatkan aktivitas jasmani atau gerakan tubuh sebagai sarana untuk memahami dan menginternalisasi konsep, keterampilan, atau informasi.",
+      "source_page": 161,
+      "source_section": "E. Glosarium",
+      "source_text": "Proses belajar yang melibatkan aktivitas jasmani atau gerakan tubuh sebagai sarana untuk memahami dan menginternalisasi konsep, keterampilan, atau informasi.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Belajar melalui gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_004",
+      "level": 5,
+      "title": "Bergaya hidup aktif",
+      "phase": null,
+      "element": null,
+      "topic": "Bergaya hidup aktif",
+      "content": "Gaya hidup yang mempromosikan aktivitas jasmani dan gerakan secara teratur sebagai bagian integral dari kehidupan sehari-hari.",
+      "source_page": 161,
+      "source_section": "E. Glosarium",
+      "source_text": "Gaya hidup yang mempromosikan aktivitas jasmani dan gerakan secara teratur sebagai bagian integral dari kehidupan sehari-hari.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Bergaya hidup aktif"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_005",
+      "level": 5,
+      "title": "Capaian Pembelajaran (learning outcomes)",
+      "phase": null,
+      "element": null,
+      "topic": "Capaian Pembelajaran (learning outcomes)",
+      "content": "Ungkapan tujuan pendidikan tentang apa yang diharapkan diketahui, dipahami, dan dapat dikerjakan murid setelah menyelesaikan suatu periode belajar.",
+      "source_page": 161,
+      "source_section": "E. Glosarium",
+      "source_text": "Ungkapan tujuan pendidikan tentang apa yang diharapkan diketahui, dipahami, dan dapat dikerjakan murid setelah menyelesaikan suatu periode belajar.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Capaian Pembelajaran (learning outcomes)"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_006",
+      "level": 5,
+      "title": "Capaian Pembelajaran (learning outcomes) PJOK",
+      "phase": null,
+      "element": null,
+      "topic": "Capaian Pembelajaran (learning outcomes) PJOK",
+      "content": "Menyiapkan individu yang terliterasi secara jasmani, memiliki motivasi, kepercayaan diri, pengetahuan, pemahaman, dan kompetensi jasmani agar menghargai serta mengambil tanggung jawab untuk terlibat dalam aktivitas jasmani secara teratur dan berkelanjutan.",
+      "source_page": 161,
+      "source_section": "E. Glosarium",
+      "source_text": "Menyiapkan individu yang terliterasi secara jasmani, memiliki motivasi, kepercayaan diri, pengetahuan, pemahaman, dan kompetensi jasmani agar menghargai serta mengambil tanggung jawab untuk terlibat dalam aktivitas jasmani secara teratur dan berkelanjutan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Capaian Pembelajaran (learning outcomes) PJOK"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_007",
+      "level": 5,
+      "title": "Disposisi",
+      "phase": null,
+      "element": null,
+      "topic": "Disposisi",
+      "content": "Karakter yang melekat pada diri seseorang untuk melakukan suatu tindakan.",
+      "source_page": 161,
+      "source_section": "E. Glosarium",
+      "source_text": "Karakter yang melekat pada diri seseorang untuk melakukan suatu tindakan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Disposisi"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_008",
+      "level": 5,
+      "title": "Fairplay",
+      "phase": null,
+      "element": null,
+      "topic": "Fairplay",
+      "content": "Konsep prinsip keadilan dan sportivitas, terutama dalam olahraga; bermain adil, menghormati aturan, dan menghargai lawan.",
+      "source_page": 161,
+      "source_section": "E. Glosarium",
+      "source_text": "Konsep prinsip keadilan dan sportivitas, terutama dalam olahraga; bermain adil, menghormati aturan, dan menghargai lawan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Fairplay"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_009",
+      "level": 5,
+      "title": "Kebugaran yang terkait dengan kesehatan",
+      "phase": null,
+      "element": null,
+      "topic": "Kebugaran yang terkait dengan kesehatan",
+      "content": "Kemampuan tubuh untuk berfungsi secara efisien, efektif, dan bebas cedera ketika bekerja dan aktivitas waktu luang, rekreasi aktif, serta menghadapi situasi darurat; meliputi kebugaran kardio, kelenturan, daya tahan, dan kekuatan otot.",
+      "source_page": 161,
+      "source_section": "E. Glosarium",
+      "source_text": "Kemampuan tubuh untuk berfungsi secara efisien, efektif, dan bebas cedera ketika bekerja dan aktivitas waktu luang, rekreasi aktif, serta menghadapi situasi darurat; meliputi kebugaran kardio, kelenturan, daya tahan, dan kekuatan otot.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Kebugaran yang terkait dengan kesehatan"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_010",
+      "level": 5,
+      "title": "Kerjasama dalam suatu tim",
+      "phase": null,
+      "element": null,
+      "topic": "Kerjasama dalam suatu tim",
+      "content": "Upaya kolaboratif kelompok untuk mencapai tujuan bersama atau menyelesaikan tugas secara efektif dan efisien; tim merupakan kelompok individu yang saling bergantung.",
+      "source_page": 162,
+      "source_section": "E. Glosarium",
+      "source_text": "Upaya kolaboratif kelompok untuk mencapai tujuan bersama atau menyelesaikan tugas secara efektif dan efisien; tim merupakan kelompok individu yang saling bergantung.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Kerjasama dalam suatu tim"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_011",
+      "level": 5,
+      "title": "Keterampilan gerak",
+      "phase": null,
+      "element": null,
+      "topic": "Keterampilan gerak",
+      "content": "Gerakan dasar dalam aktivitas jasmani/olahraga yang dilakukan dengan teknik tertentu secara efektif dan efisien untuk mencapai hasil maksimal.",
+      "source_page": 162,
+      "source_section": "E. Glosarium",
+      "source_text": "Gerakan dasar dalam aktivitas jasmani/olahraga yang dilakukan dengan teknik tertentu secara efektif dan efisien untuk mencapai hasil maksimal.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Keterampilan gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_012",
+      "level": 5,
+      "title": "Keterampilan gerak fundamental",
+      "phase": null,
+      "element": null,
+      "topic": "Keterampilan gerak fundamental",
+      "content": "Gerak dasar/pola pendahulu yang membentuk fondasi aktivitas jasmani, olahraga, rekreasi aktif, dan permainan tradisional; meliputi lokomotor, non-lokomotor, manipulatif, aksial, dan keterampilan mengontrol objek.",
+      "source_page": 162,
+      "source_section": "E. Glosarium",
+      "source_text": "Gerak dasar/pola pendahulu yang membentuk fondasi aktivitas jasmani, olahraga, rekreasi aktif, dan permainan tradisional; meliputi lokomotor, non-lokomotor, manipulatif, aksial, dan keterampilan mengontrol objek.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Keterampilan gerak fundamental"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_013",
+      "level": 5,
+      "title": "Keterampilan gerak lokomotor",
+      "phase": null,
+      "element": null,
+      "topic": "Keterampilan gerak lokomotor",
+      "content": "Kemampuan bergerak dari satu tempat ke tempat lain, misalnya berjalan, berguling, atau berjingkat.",
+      "source_page": 162,
+      "source_section": "E. Glosarium",
+      "source_text": "Kemampuan bergerak dari satu tempat ke tempat lain, misalnya berjalan, berguling, atau berjingkat.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Keterampilan gerak lokomotor"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_014",
+      "level": 5,
+      "title": "Keterampilan non-lokomotor",
+      "phase": null,
+      "element": null,
+      "topic": "Keterampilan non-lokomotor",
+      "content": "Bergerak di suatu titik tanpa mengubah lokasi, misalnya melengkung, mengulur, memelintir, memutar, mengayun, dan menjaga keseimbangan.",
+      "source_page": 162,
+      "source_section": "E. Glosarium",
+      "source_text": "Bergerak di suatu titik tanpa mengubah lokasi, misalnya melengkung, mengulur, memelintir, memutar, mengayun, dan menjaga keseimbangan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Keterampilan non-lokomotor"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_015",
+      "level": 5,
+      "title": "Keterampilan mengontrol objek",
+      "phase": null,
+      "element": null,
+      "topic": "Keterampilan mengontrol objek",
+      "content": "Keterampilan meng-handle/mengontrol objek atau peralatan seperti menendang, memukul, menggiring, meluncurkan, atau menghentikan bola.",
+      "source_page": 162,
+      "source_section": "E. Glosarium",
+      "source_text": "Keterampilan meng-handle/mengontrol objek atau peralatan seperti menendang, memukul, menggiring, meluncurkan, atau menghentikan bola.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Keterampilan mengontrol objek"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_016",
+      "level": 5,
+      "title": "Keselamatan",
+      "phase": null,
+      "element": null,
+      "topic": "Keselamatan",
+      "content": "Bebas dari bahaya, cedera, atau sakit dengan menilai risiko, mengambil keputusan aman, dan bertindak untuk memastikan keselamatan diri dan orang lain.",
+      "source_page": 162,
+      "source_section": "E. Glosarium",
+      "source_text": "Bebas dari bahaya, cedera, atau sakit dengan menilai risiko, mengambil keputusan aman, dan bertindak untuk memastikan keselamatan diri dan orang lain.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Keselamatan"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_017",
+      "level": 5,
+      "title": "Konsep gerak",
+      "phase": null,
+      "element": null,
+      "topic": "Konsep gerak",
+      "content": "Kerangka kerja untuk meningkatkan unjuk kerja gerak; meliputi kesadaran tentang tubuh, ruang, usaha, dan hubungan dengan objek, orang, dan ruang.",
+      "source_page": 162,
+      "source_section": "E. Glosarium",
+      "source_text": "Kerangka kerja untuk meningkatkan unjuk kerja gerak; meliputi kesadaran tentang tubuh, ruang, usaha, dan hubungan dengan objek, orang, dan ruang.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Konsep gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_018",
+      "level": 5,
+      "title": "Memilih hidup yang menyehatkan",
+      "phase": null,
+      "element": null,
+      "topic": "Memilih hidup yang menyehatkan",
+      "content": "Proses membuat pilihan yang mendukung kesehatan fisik, mental, dan emosional; mencakup makanan bergizi, olahraga, pengelolaan stres, tidur, dan keseimbangan aktivitas-istirahat.",
+      "source_page": 162,
+      "source_section": "E. Glosarium",
+      "source_text": "Proses membuat pilihan yang mendukung kesehatan fisik, mental, dan emosional; mencakup makanan bergizi, olahraga, pengelolaan stres, tidur, dan keseimbangan aktivitas-istirahat.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Memilih hidup yang menyehatkan"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_019",
+      "level": 5,
+      "title": "Pembelajaran",
+      "phase": null,
+      "element": null,
+      "topic": "Pembelajaran",
+      "content": "Proses interaksi antarmurid, murid dengan tenaga pendidik, dan sumber belajar pada lingkungan belajar yang berpotensi mengubah perilaku atau kompetensi.",
+      "source_page": 163,
+      "source_section": "E. Glosarium",
+      "source_text": "Proses interaksi antarmurid, murid dengan tenaga pendidik, dan sumber belajar pada lingkungan belajar yang berpotensi mengubah perilaku atau kompetensi.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Pembelajaran"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_020",
+      "level": 5,
+      "title": "Pendidikan jasmani",
+      "phase": null,
+      "element": null,
+      "topic": "Pendidikan jasmani",
+      "content": "Proses pendidikan terstruktur menggunakan gerak dan aktivitas jasmani untuk mengembangkan kompetensi gerak, pengetahuan, dan nilai positif bagi perkembangan holistik serta partisipasi sepanjang hayat.",
+      "source_page": 163,
+      "source_section": "E. Glosarium",
+      "source_text": "Proses pendidikan terstruktur menggunakan gerak dan aktivitas jasmani untuk mengembangkan kompetensi gerak, pengetahuan, dan nilai positif bagi perkembangan holistik serta partisipasi sepanjang hayat.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Pendidikan jasmani"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_021",
+      "level": 5,
+      "title": "Permainan",
+      "phase": null,
+      "element": null,
+      "topic": "Permainan",
+      "content": "Aktivitas terstruktur dan memiliki aturan yang melibatkan keterampilan gerak dan strategi serta menumbuhkan kegembiraan, kerja sama/persaingan sehat, dan pembelajaran bermakna.",
+      "source_page": 163,
+      "source_section": "E. Glosarium",
+      "source_text": "Aktivitas terstruktur dan memiliki aturan yang melibatkan keterampilan gerak dan strategi serta menumbuhkan kegembiraan, kerja sama/persaingan sehat, dan pembelajaran bermakna.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Permainan"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_022",
+      "level": 5,
+      "title": "Permainan Invasi/Serangan (Invasion Games)",
+      "phase": null,
+      "element": null,
+      "topic": "Permainan Invasi/Serangan (Invasion Games)",
+      "content": "Kategori permainan ketika tim mencetak skor dengan memasuki wilayah lawan dan mengarahkan objek ke sasaran/gawang sambil mempertahankan wilayah sendiri; contoh sepak bola, bola basket, bola tangan, futsal.",
+      "source_page": 163,
+      "source_section": "E. Glosarium",
+      "source_text": "Kategori permainan ketika tim mencetak skor dengan memasuki wilayah lawan dan mengarahkan objek ke sasaran/gawang sambil mempertahankan wilayah sendiri; contoh sepak bola, bola basket, bola tangan, futsal.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Permainan Invasi/Serangan (Invasion Games)"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_023",
+      "level": 5,
+      "title": "Permainan Lapangan (Striking/Fielding Games)",
+      "phase": null,
+      "element": null,
+      "topic": "Permainan Lapangan (Striking/Fielding Games)",
+      "content": "Kategori permainan ketika satu tim memukul/melempar objek ke area permainan lalu berlari mencetak poin, sementara lawan menangkap/mengembalikan objek dan meminimalkan skor; contoh kasti, baseball/softball, cricket.",
+      "source_page": 163,
+      "source_section": "E. Glosarium",
+      "source_text": "Kategori permainan ketika satu tim memukul/melempar objek ke area permainan lalu berlari mencetak poin, sementara lawan menangkap/mengembalikan objek dan meminimalkan skor; contoh kasti, baseball/softball, cricket.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Permainan Lapangan (Striking/Fielding Games)"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_024",
+      "level": 5,
+      "title": "Permainan Net (Net/Wall Games)",
+      "phase": null,
+      "element": null,
+      "topic": "Permainan Net (Net/Wall Games)",
+      "content": "Kategori permainan ketika pemain/tim mengirim objek melewati net atau melawan dinding ke area lawan agar lawan gagal mengembalikan dengan benar; contoh bola voli, bulu tangkis, tenis lapangan/meja.",
+      "source_page": 163,
+      "source_section": "E. Glosarium",
+      "source_text": "Kategori permainan ketika pemain/tim mengirim objek melewati net atau melawan dinding ke area lawan agar lawan gagal mengembalikan dengan benar; contoh bola voli, bulu tangkis, tenis lapangan/meja.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Permainan Net (Net/Wall Games)"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_025",
+      "level": 5,
+      "title": "Permainan Target (Target Games)",
+      "phase": null,
+      "element": null,
+      "topic": "Permainan Target (Target Games)",
+      "content": "Permainan yang memberi skor ketika bola/proyektil diarahkan ke sasaran; mengandalkan akurasi dan konsentrasi; contoh golf, woodball, bowling, pétangue.",
+      "source_page": 163,
+      "source_section": "E. Glosarium",
+      "source_text": "Permainan yang memberi skor ketika bola/proyektil diarahkan ke sasaran; mengandalkan akurasi dan konsentrasi; contoh golf, woodball, bowling, pétangue.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Permainan Target (Target Games)"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_026",
+      "level": 5,
+      "title": "Permainan sederhana",
+      "phase": null,
+      "element": null,
+      "topic": "Permainan sederhana",
+      "content": "Permainan olahraga yang disederhanakan melalui aturan, jumlah pemain, lapangan, atau alat.",
+      "source_page": 164,
+      "source_section": "E. Glosarium",
+      "source_text": "Permainan olahraga yang disederhanakan melalui aturan, jumlah pemain, lapangan, atau alat.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Permainan sederhana"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_027",
+      "level": 5,
+      "title": "Respek",
+      "phase": null,
+      "element": null,
+      "topic": "Respek",
+      "content": "Sikap menghargai orang lain, diri sendiri, dan lingkungan melalui perilaku/ucapan sopan, menghormati perbedaan, dan mengakui hak/perasaan orang lain.",
+      "source_page": 164,
+      "source_section": "E. Glosarium",
+      "source_text": "Sikap menghargai orang lain, diri sendiri, dan lingkungan melalui perilaku/ucapan sopan, menghormati perbedaan, dan mengakui hak/perasaan orang lain.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Respek"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_028",
+      "level": 5,
+      "title": "Sehat",
+      "phase": null,
+      "element": null,
+      "topic": "Sehat",
+      "content": "Kondisi optimal secara jasmani, mental, dan sosial yang mendukung belajar, bergerak aktif, dan interaksi positif.",
+      "source_page": 164,
+      "source_section": "E. Glosarium",
+      "source_text": "Kondisi optimal secara jasmani, mental, dan sosial yang mendukung belajar, bergerak aktif, dan interaksi positif.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Sehat"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_029",
+      "level": 5,
+      "title": "Sekuen gerak",
+      "phase": null,
+      "element": null,
+      "topic": "Sekuen gerak",
+      "content": "Serangkaian gerakan yang saling terhubung dan dilakukan berurutan untuk tujuan tertentu.",
+      "source_page": 164,
+      "source_section": "E. Glosarium",
+      "source_text": "Serangkaian gerakan yang saling terhubung dan dilakukan berurutan untuk tujuan tertentu.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Sekuen gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_030",
+      "level": 5,
+      "title": "Situasi gerak",
+      "phase": null,
+      "element": null,
+      "topic": "Situasi gerak",
+      "content": "Konteks/kondisi aktivitas jasmani atau olahraga yang menuntut keterampilan, strategi, atau taktik untuk mengatasi tantangan/mencapai tujuan.",
+      "source_page": 164,
+      "source_section": "E. Glosarium",
+      "source_text": "Konteks/kondisi aktivitas jasmani atau olahraga yang menuntut keterampilan, strategi, atau taktik untuk mengatasi tantangan/mencapai tujuan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Situasi gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_031",
+      "level": 5,
+      "title": "Strategi gerak",
+      "phase": null,
+      "element": null,
+      "topic": "Strategi gerak",
+      "content": "Rencana/pendekatan sengaja untuk mengatasi tantangan atau meningkatkan performa melalui pemilihan keterampilan, taktik, dan keputusan sesuai konteks.",
+      "source_page": 164,
+      "source_section": "E. Glosarium",
+      "source_text": "Rencana/pendekatan sengaja untuk mengatasi tantangan atau meningkatkan performa melalui pemilihan keterampilan, taktik, dan keputusan sesuai konteks.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Strategi gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_032",
+      "level": 5,
+      "title": "Tantangan gerak",
+      "phase": null,
+      "element": null,
+      "topic": "Tantangan gerak",
+      "content": "Tugas/situasi yang menuntut keterampilan fisik, strategi, dan pemecahan masalah melalui gerakan.",
+      "source_page": 164,
+      "source_section": "E. Glosarium",
+      "source_text": "Tugas/situasi yang menuntut keterampilan fisik, strategi, dan pemecahan masalah melalui gerakan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Tantangan gerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_033",
+      "level": 5,
+      "title": "Teknik",
+      "phase": null,
+      "element": null,
+      "topic": "Teknik",
+      "content": "Cara tertentu melakukan gerakan untuk mencapai efisiensi, ketepatan, dan efektivitas.",
+      "source_page": 164,
+      "source_section": "E. Glosarium",
+      "source_text": "Cara tertentu melakukan gerakan untuk mencapai efisiensi, ketepatan, dan efektivitas.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Teknik"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_034",
+      "level": 5,
+      "title": "Terampil bergerak",
+      "phase": null,
+      "element": null,
+      "topic": "Terampil bergerak",
+      "content": "Kemampuan melakukan gerakan dengan kontrol, efisiensi, ketepatan, dan adaptasi dalam berbagai aktivitas jasmani dan situasi jasmaniah.",
+      "source_page": 164,
+      "source_section": "E. Glosarium",
+      "source_text": "Kemampuan melakukan gerakan dengan kontrol, efisiensi, ketepatan, dan adaptasi dalam berbagai aktivitas jasmani dan situasi jasmaniah.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Terampil bergerak"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_035",
+      "level": 5,
+      "title": "Voice and Choice",
+      "phase": null,
+      "element": null,
+      "topic": "Voice and Choice",
+      "content": "Konsep yang menekankan kesempatan murid berpartisipasi dalam pengambilan keputusan dan memilih opsi sesuai kebutuhan dan preferensi.",
+      "source_page": 164,
+      "source_section": "E. Glosarium",
+      "source_text": "Konsep yang menekankan kesempatan murid berpartisipasi dalam pengambilan keputusan dan memilih opsi sesuai kebutuhan dan preferensi.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Voice and Choice"
+      ]
+    },
+    {
+      "id_node": "PJOK_GLO_036",
+      "level": 5,
+      "title": "Wellbeing",
+      "phase": null,
+      "element": null,
+      "topic": "Wellbeing",
+      "content": "Perasaan sehat dan kualitas hidup atau kapasitas merawat/menjaga diri dan orang lain terkait kesehatan, keselamatan, dan hubungan sehat.",
+      "source_page": 164,
+      "source_section": "E. Glosarium",
+      "source_text": "Perasaan sehat dan kualitas hidup atau kapasitas merawat/menjaga diri dan orang lain terkait kesehatan, keselamatan, dan hubungan sehat.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "glosarium",
+        "definisi",
+        "Wellbeing"
+      ]
+    }
+  ],
+  "source_page_map": {
+    "Pendahuluan": "2-5",
+    "Capaian Pembelajaran": "6-20",
+    "Pemetaan Materi Esensial": "21-67",
+    "Kerangka Kerja Pembelajaran Mendalam": "68-77",
+    "Penyusunan ATP": "78-87",
+    "Penerapan Perencanaan Pembelajaran": "88-88",
+    "Contoh Perencanaan Pembelajaran": "89-154",
+    "Glosarium": "155-158",
+    "Daftar Pustaka": "159"
+  }
+}

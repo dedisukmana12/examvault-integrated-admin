@@ -1,0 +1,1398 @@
+{
+  "metadata": {
+    "subject": "Matematika",
+    "document": "Panduan Mata Pelajaran Matematika Fase A–F dan Fase F Tingkat Lanjut",
+    "publisher": "Pusat Kurikulum dan Pembelajaran",
+    "year": 2025,
+    "source_file": "5. Panduan Matematika_compressed.pdf",
+    "scope": "Matematika reguler Fase A–F; bagian Matematika Tingkat Lanjut/Fase F+ disertakan sebagai konteks terpisah.",
+    "fidelity_note": "Ekstraksi bersumber dari dokumen. Informasi yang tidak dapat dipastikan dari PDF terlampir ditandai [Data Tidak Tersedia]."
+  },
+  "level_1_identitas_filosofi": {
+    "subjek": "Matematika",
+    "sasaran": "SD/MI, SMP/MTs, SMA/MA, SMK/MAK, program pendidikan kesetaraan; Matematika Tingkat Lanjut sebagai pilihan Fase F.",
+    "rasionalitas": [
+      "Matematika merupakan ilmu/pengetahuan tentang belajar atau berpikir logis yang mendasari perkembangan teknologi modern dan dibutuhkan dalam kehidupan manusia.",
+      "Matematika berkontribusi terhadap pengembangan dan pemahaman berbagai disiplin ilmu serta menjadi landasan banyak inovasi dan solusi masa depan.",
+      "Matematika berfungsi sebagai alat untuk membangun pemahaman, melatih cara berpikir, dan menyelesaikan masalah kehidupan.",
+      "Pembelajaran matematika mengembangkan kemampuan berpikir logis, analitis, sistematis, kritis, dan kreatif.",
+      "Kompetensi tersebut membantu murid memperoleh, mengelola, dan memanfaatkan informasi dalam keadaan yang berubah, penuh ketidakpastian, dan kompetitif.",
+      "Pembelajaran matematika juga menumbuhkan kemandirian, ketekunan, ketelitian, rasionalitas, kreativitas, dan sikap positif terhadap matematika."
+    ],
+    "elemen_konten": [
+      [
+        "Bilangan",
+        "Angka sebagai simbol bilangan, konsep bilangan, operasi hitung bilangan, dan relasi antaroperasi hitung; sub-elemen representasi visual, sifat urutan, dan operasi."
+      ],
+      [
+        "Aljabar",
+        "Aljabar non-formal dalam bentuk simbol gambar sampai aljabar formal dalam bentuk simbol huruf yang mewakili bilangan tertentu; sub-elemen persamaan dan pertidaksamaan, relasi dan pola bilangan, rasio dan proporsi."
+      ],
+      [
+        "Pengukuran",
+        "Besaran-besaran pengukuran, cara mengukur besaran tertentu, dan pembuktian prinsip/teorema terkait besaran; sub-elemen pengukuran besaran geometris dan non-geometris."
+      ],
+      [
+        "Geometri",
+        "Berbagai bentuk bangun datar dan bangun ruang serta ciri-cirinya; sub-elemen geometri datar dan geometri ruang."
+      ],
+      [
+        "Analisis Data dan Peluang",
+        "Pengertian data, jenis data, pengolahan data dalam berbagai representasi, analisis data kuantitatif terkait pemusatan dan penyebaran data, serta peluang; sub-elemen data dan representasinya, ketidakpastian dan peluang."
+      ]
+    ],
+    "elemen_proses": [
+      [
+        "Penalaran dan Pembuktian Matematis",
+        "Penalaran menggunakan pola hubungan untuk menganalisis situasi, menyusun dan menyelidiki praduga; pembuktian untuk membuktikan kebenaran prinsip, rumus, atau teorema."
+      ],
+      [
+        "Pemecahan Masalah Matematis",
+        "Penyelesaian masalah matematis atau sehari-hari dengan menerapkan dan mengadaptasi berbagai strategi efektif; mencakup konstruksi dan rekonstruksi pemahaman matematika melalui pemecahan masalah."
+      ],
+      [
+        "Komunikasi",
+        "Membentuk alur pemahaman dengan mengomunikasikan pemikiran matematis menggunakan bahasa matematis yang tepat; termasuk menganalisis dan mengevaluasi pemikiran matematis orang lain."
+      ],
+      [
+        "Representasi Matematis",
+        "Membuat dan menggunakan simbol, tabel, diagram, atau bentuk lain untuk mengomunikasikan gagasan dan pemodelan matematika; fleksibel berpindah representasi dan memilih representasi paling sesuai."
+      ],
+      [
+        "Koneksi Matematis",
+        "Mengaitkan materi matematika pada satu bidang kajian, lintas bidang kajian, lintas bidang ilmu, dan dengan kehidupan."
+      ]
+    ]
+  },
+  "level_2_taksonomi_materi": {
+    "cp_per_fase": [
+      {
+        "phase": "A",
+        "jenjang": "Kelas I–II SD/MI/Program Paket A",
+        "elements": {
+          "Bilangan": "Memiliki intuisi bilangan (number sense) pada bilangan cacah sampai 100; membaca, menulis, menentukan nilai tempat, membandingkan, mengurutkan, komposisi dan dekomposisi bilangan; penjumlahan dan pengurangan dengan benda konkret sampai 20; memahami pecahan sebagai bagian keseluruhan melalui pembagian sama banyak, dengan pengenalan setengah dan seperempat.",
+          "Aljabar": "Memahami makna simbol matematika “=” dalam kalimat matematika yang terkait penjumlahan dan pengurangan bilangan cacah sampai 20 menggunakan gambar; mengenali, meniru, dan melanjutkan pola bukan bilangan (gambar, warna, bunyi/suara).",
+          "Pengukuran": "Membandingkan panjang dan berat secara langsung; membandingkan durasi waktu; mengukur dan mengestimasi panjang dan berat menggunakan satuan tidak baku.",
+          "Geometri": "Mengenal bangun datar (segitiga, segiempat, segi banyak, lingkaran) dan bangun ruang (balok, kubus, kerucut, bola); komposisi/dekomposisi bangun datar; menentukan posisi benda terhadap benda lain (kanan, kiri, depan, belakang, bawah, atas).",
+          "Analisis Data dan Peluang": "Mengurutkan, menyortir, mengelompokkan, membandingkan, dan menyajikan data dari banyak benda menggunakan turus dan piktogram paling banyak 4 kategori."
+        }
+      },
+      {
+        "phase": "B",
+        "jenjang": "Kelas III–IV SD/MI/Program Paket A",
+        "elements": {
+          "Bilangan": "Number sense bilangan cacah sampai 10.000; membaca, menulis, membandingkan, mengurutkan; nilai tempat; komposisi/dekomposisi sampai 10.000; operasi penjumlahan/pengurangan sampai 1.000; perkalian/pembagian sampai 100 dengan benda konkret, gambar, simbol; kelipatan dan faktor; perbandingan/pengurutan pecahan dengan pembilang satu dan penyebut sama; pecahan senilai; intuisi pecahan/desimal; pecahan sebagai desimal dan persen.",
+          "Aljabar": "Menemukan nilai yang tidak diketahui dalam kalimat matematika penjumlahan dan pengurangan bilangan cacah sampai 100 menggunakan sifat bilangan dan operasi; mengidentifikasi, meniru, dan mengembangkan pola gambar/objek sederhana serta pola bilangan membesar/mengecil yang melibatkan penjumlahan dan pengurangan sampai 100.",
+          "Pengukuran": "Mengukur panjang dan berat menggunakan satuan baku; hubungan antar-satuan panjang cm dan m serta berat g dan kg; mengukur dan mengestimasi luas/volume dengan satuan tidak baku dan baku berupa bilangan cacah.",
+          "Geometri": "Mendeskripsikan ciri bangun datar (segiempat, segitiga, segi banyak); komposisi dan dekomposisi bangun datar dengan lebih dari satu cara jika memungkinkan.",
+          "Analisis Data dan Peluang": "Mengurutkan, membandingkan, menyajikan, menganalisis, dan menginterpretasi data dalam tabel, diagram gambar, piktogram, dan diagram batang skala satu satuan."
+        }
+      },
+      {
+        "phase": "C",
+        "jenjang": "Kelas V–VI SD/MI/Program Paket A",
+        "elements": {
+          "Bilangan": "Number sense bilangan cacah sampai 1.000.000; membaca/menulis/nilai tempat/membandingkan/mengurutkan/komposisi/dekomposisi; masalah uang; operasi +, −, ×, ÷ bilangan cacah sampai 100.000; KPK dan FPB; perbandingan/pengurutan pecahan termasuk campuran; penjumlahan/pengurangan pecahan; perkalian/pembagian pecahan dengan bilangan asli; konversi berbagai bentuk pecahan; membandingkan/mengurutkan desimal satu angka di belakang koma.",
+          "Aljabar": "Menemukan nilai yang belum diketahui dalam kalimat matematika penjumlahan, pengurangan, perkalian, pembagian bilangan cacah sampai 1000 menggunakan sifat bilangan dan operasi; mengidentifikasi/meniru/mengembangkan pola bilangan membesar/mengecil dengan perkalian/pembagian; bernalar proporsional dengan rasio satuan; menggunakan perkalian/pembagian untuk masalah proporsi sehari-hari.",
+          "Pengukuran": "Menentukan keliling dan luas segitiga, segiempat, segi banyak serta gabungannya; menghitung durasi waktu; mengukur besar sudut pada bangun datar atau dari dua garis berpotongan.",
+          "Geometri": "Mengkonstruksi dan mengurai kubus, balok, gabungan; visualisasi spasial bagian depan/atas/samping; membandingkan karakteristik bangun datar dan ruang; menentukan lokasi pada peta berpetak.",
+          "Analisis Data dan Peluang": "Mengurutkan, membandingkan, menyajikan, menganalisis data banyak benda dan hasil pengukuran dalam gambar, piktogram, diagram batang, tabel frekuensi; menentukan kejadian dengan kemungkinan lebih besar/kecil dalam percobaan acak."
+        }
+      },
+      {
+        "phase": "E",
+        "jenjang": "Kelas X SMA/MA/SMK/MAK/Program Paket C",
+        "elements": {
+          "Bilangan": "Menggeneralisasi sifat-sifat bilangan berpangkat termasuk pangkat pecahan dan menggunakannya untuk menyelesaikan masalah.",
+          "Aljabar dan Fungsi": "Menyelesaikan masalah sistem pertidaksamaan linear dua variabel; persamaan dan fungsi kuadrat termasuk akar imajiner; persamaan eksponensial berbasis/bilangan pokok sama dan fungsi eksponensial.",
+          "Geometri": "Mengaplikasikan perbandingan trigonometri sinus, cosinus, tangen pada sudut lancip.",
+          "Analisis Data dan Peluang": "Jangkauan kuartil dan interkuartil; box plot; memilih/menggunakan box plot, histogram, dot plot sesuai karakteristik data; diagram pencar untuk hubungan dua variabel numerik/kuantitatif termasuk waktu; mengevaluasi laporan statistika di media termasuk tampilan, statistika, representasi data dan matriks."
+        }
+      },
+      {
+        "phase": "D",
+        "jenjang": "Kelas VII–IX SMP/MTs/Program Paket B",
+        "elements": {
+          "Bilangan": "Bilangan bulat, rasional, desimal, berpangkat bulat dan akar, notasi ilmiah; operasi aritmatika bilangan real; estimasi/perkiraan termasuk literasi finansial; rasio meliputi skala, proporsi, laju perubahan.",
+          "Aljabar": "Mengenali, memprediksi, menggeneralisasi pola susunan benda dan bilangan; menyatakan situasi dalam bentuk aljabar; sifat operasi komutatif, asosiatif, distributif untuk bentuk ekuivalen; relasi dan fungsi (domain, kodomain, range) dengan diagram panah, tabel, pasangan berurutan, grafik; membedakan fungsi non-linear dan linear secara grafik; persamaan/pertidaksamaan linear satu variabel; masalah relasi, fungsi, persamaan linear; sistem persamaan linear dua variabel melalui beberapa cara.",
+          "Pengukuran": "Keliling, luas, panjang busur, sudut, luas juring lingkaran; luas permukaan dan volume prisma, tabung, bola, limas, kerucut; pengaruh perubahan proporsional terhadap panjang, sudut, luas, dan/atau volume.",
+          "Geometri": "Jaring-jaring prisma, tabung, limas, kerucut; hubungan sudut pada dua garis berpotongan dan dua garis sejajar dipotong transversal; jumlah sudut segitiga; kekongruenan dan kesebangunan segitiga/segiempat; Teorema Pythagoras dan aplikasi termasuk bilangan irasional serta jarak dua titik pada koordinat Kartesius; transformasi tunggal refleksi, translasi, rotasi, dilatasi titik/garis/bangun datar pada koordinat Kartesius.",
+          "Analisis Data dan Peluang": "Merumuskan pertanyaan, mengumpulkan, menyajikan, menganalisis data; diagram batang/lingkaran; sampel dan populasi; mean, median, modus, range; membandingkan kelompok data, memprediksi, membuat keputusan; menyelidiki perubahan ukuran pemusatan; peluang dan frekuensi relatif untuk frekuensi harapan satu kejadian dalam percobaan sederhana."
+        }
+      },
+      {
+        "phase": "F",
+        "jenjang": "Kelas XI–XII SMA/MA/SMK/MAK/Program Paket C",
+        "elements": {
+          "Bilangan": "Barisan dan deret aritmetika/geometri; aplikasi pada bunga tunggal/majemuk; memodelkan pinjaman dan investasi dengan bunga majemuk dan anuitas; menyelidiki secara numerik/grafis pengaruh suku bunga dan periode pembayaran.",
+          "Aljabar dan Fungsi": "Menentukan fungsi invers, komposisi fungsi, dan transformasi fungsi untuk memodelkan situasi dunia nyata menggunakan fungsi yang sesuai (linear, kuadrat, eksponensial).",
+          "Geometri": "Menerapkan, mengidentifikasi, dan menjelaskan hubungan antara unsur-unsur lingkaran untuk menyelesaikan masalah.",
+          "Analisis Data dan Peluang": "Penyelidikan statistika untuk asosiasi dua variabel kategorikal dan numerikal; memperkirakan best fit linear; membedakan asosiasi dan sebab-akibat; peluang/frekuensi harapan kejadian majemuk; kejadian saling bebas dan saling lepas; peluang bersyarat dan kejadian saling bebas menggunakan permutasi dan kombinasi."
+        }
+      }
+    ],
+    "pemetaan_materi_esensial": {
+      "Aljabar dan Fungsi": {
+        "F": "Penyelesaian masalah fungsi invers, komposisi fungsi, dan transformasi fungsi.",
+        "A": "Pemahaman makna simbol matematika “=” sebagai penunjukkan kesamaan nilai; mengenali/meniru/melanjutkan pola bukan bilangan (gambar, suara, warna).",
+        "B": "Penentuan nilai yang belum diketahui dalam kalimat matematika; pola gambar/objek dan pola bilangan membesar/mengecil dengan penjumlahan dan pengurangan.",
+        "C": "Kalimat matematika yang berkaitan dengan penjumlahan, pengurangan, perkalian, pembagian bilangan cacah sampai 1000; pola bilangan membesar/mengecil berkaitan perkalian dan pembagian; penyelesaian masalah rasio dan proporsi.",
+        "D": "Prediksi pola susunan benda dan bilangan (generalisasi pola); pengenalan unsur, sifat, dan penerapan operasi aljabar; pemahaman konsep dan penyajian relasi dan fungsi; pemahaman konsep/perbedaan/penyajian grafik fungsi linear dan non-linear; pemahaman dan penyelesaian persamaan/pertidaksamaan linear satu variabel; sistem persamaan linear dua variabel; pengenalan fungsi selain linear dan kuadrat serta sifatnya.",
+        "E": "Penyelesaian masalah sistem pertidaksamaan linear dua variabel; persamaan/fungsi kuadrat termasuk akar imajiner; persamaan eksponensial dan fungsi eksponensial."
+      },
+      "Bilangan": {
+        "F": "Barisan dan deret aritmetika/geometri; bunga tunggal/majemuk; anuitas; model pinjaman/investasi.",
+        "A": "Intuisi bilangan cacah sampai 100; membaca/menulis; nilai tempat; membandingkan/mengurutkan; komposisi/dekomposisi; operasi penjumlahan/pengurangan sampai 20 dengan benda konkret; pecahan setengah/seperempat.",
+        "B": "Perluasan number sense sampai 10.000; operasi sampai 1.000 dan perkalian/pembagian sampai 100; kelipatan/faktor; pecahan dan desimal/persen.",
+        "C": "Number sense sampai 1.000.000; operasi sampai 100.000; uang; KPK/FPB; operasi pecahan; desimal.",
+        "D": "Operasi bilangan bulat/rasional/real, pangkat/akar/notasi ilmiah, estimasi dan rasio/skala/proporsi/laju perubahan.",
+        "E": "Sifat bilangan berpangkat termasuk pangkat pecahan."
+      },
+      "Pengukuran": {
+        "F": "[Data Tidak Tersedia sebagai item pemetaan terpisah pada tabel ringkas].",
+        "A": "Panjang, berat, waktu dengan satuan tidak baku.",
+        "B": "Panjang/berat satuan baku; hubungan cm–m dan g–kg; luas/volume satuan baku/tidak baku.",
+        "C": "Keliling/luas bangun datar dan gabungan; durasi; sudut.",
+        "D": "Keliling, luas, panjang busur, sudut, luas juring; luas permukaan/volume; perubahan proporsional.",
+        "E": "[Data Tidak Tersedia sebagai item pemetaan terpisah pada tabel ringkas]."
+      },
+      "Geometri": {
+        "F": "Hubungan unsur-unsur lingkaran.",
+        "A": "Pengenalan bangun datar/ruang; komposisi/dekomposisi; posisi relatif.",
+        "B": "Ciri bangun datar; komposisi/dekomposisi.",
+        "C": "Konstruksi/dekomposisi kubus dan balok; visualisasi spasial; peta berpetak.",
+        "D": "Jaring-jaring; hubungan sudut; kongruen/kesebangunan; Pythagoras; transformasi tunggal.",
+        "E": "Perbandingan trigonometri pada segitiga siku-siku dan aplikasinya."
+      },
+      "Analisis Data dan Peluang": {
+        "F": "Asosiasi dua variabel; best-fit line; asosiasi vs sebab-akibat; peluang majemuk; permutasi/kombinasi; peluang bersyarat; kejadian bebas/saling lepas.",
+        "A": "Pengurutan, penyortiran, pengelompokan, perbandingan, penyajian data.",
+        "B": "Tabel, diagram gambar, piktogram, diagram batang.",
+        "C": "Penyajian dan analisis data banyak benda/hasil pengukuran.",
+        "D": "Diagram batang/lingkaran; sampel/populasi; mean, median, modus, range; peluang empiris/frekuensi harapan.",
+        "E": "Kuartil, IQR, box plot, histogram, dot plot, diagram pencar, evaluasi laporan statistika."
+      }
+    }
+  },
+  "level_3_framework_pedagogi": {
+    "prinsip": [
+      "Berkesadaran",
+      "Bermakna",
+      "Menggembirakan"
+    ],
+    "pengalaman_belajar": [
+      "Memahami",
+      "Mengaplikasi",
+      "Merefleksi"
+    ],
+    "framework": [
+      "Praktik pedagogis",
+      "Lingkungan pembelajaran",
+      "Kemitraan pembelajaran",
+      "Pemanfaatan digital"
+    ],
+    "profile_lulusan": [
+      "Keimanan dan Ketakwaan terhadap Tuhan YME",
+      "Kewargaan",
+      "Penalaran Kritis",
+      "Kreativitas",
+      "Kolaborasi",
+      "Kemandirian",
+      "Kesehatan",
+      "Komunikasi"
+    ],
+    "identifikasi": [
+      "Mengidentifikasi kesiapan murid",
+      "Memahami karakteristik materi pelajaran",
+      "Menentukan dimensi profil lulusan"
+    ],
+    "asesmen": [
+      "Asesmen pada awal pembelajaran",
+      "Asesmen pada proses pembelajaran",
+      "Asesmen pada akhir pembelajaran"
+    ]
+  },
+  "level_4_operasional": {
+    "atp_rules": [
+      "ATP disusun dalam satu fase; urutan tidak harus mengikuti urutan elemen konten dalam CP.",
+      "Pendidik dapat menyusun ATP sendiri, mengembangkan dari contoh pemerintah, atau menggunakan langsung contoh yang tersedia sesuai kebutuhan belajar murid.",
+      "Analisis CP adalah langkah pertama; CP perlu dipahami utuh termasuk rasional, tujuan, karakteristik, dan capaian per fase.",
+      "ATP perlu menghubungkan tujuan-tujuan pembelajaran dengan materi esensial, kompetensi proses matematika, perkembangan belajar, dan konteks.",
+      "Sebelum perencanaan pembelajaran, tujuan ATP dipetakan ke program tahunan dan semester.",
+      "Jika materi prasyarat belum dipelajari/dikuasai, pendidik wajib memasukkannya ke rancangan pembelajaran dan dapat melakukan asesmen awal berupa diskusi, tugas, kuis pendek, atau bentuk lain."
+    ],
+    "assessment": {
+      "awal": "Mengetahui kesiapan dan capaian pemahaman awal; dapat berupa diskusi, tugas, kuis pendek, pertanyaan lisan, atau bentuk lain.",
+      "formatif": "Dilakukan selama proses; teknik/bentuk, instrumen, dan rubrik disesuaikan dengan karakteristik TP; hasil digunakan untuk umpan balik dan tindak lanjut.",
+      "sumatif": "Dilakukan pada akhir pembelajaran/tujuan sesuai rancangan; teknik, bentuk, instrumen, dan rubrik disesuaikan dengan karakteristik TP.",
+      "kriteria": "Dokumen memberi contoh kategori/rubrik yang dapat berbeda menurut aktivitas; tidak ada satu ambang universal untuk semua materi. Jika contoh spesifik digunakan, kriteria mengikuti rubrik aktivitas tersebut."
+    },
+    "examples": [
+      {
+        "judul": "Aplikasi Perbandingan Trigonometri",
+        "fase": "E/X",
+        "tujuan": "Menyelesaikan masalah kontekstual penerapan perbandingan trigonometri dalam situasi nyata.",
+        "langkah": [
+          "Review melalui Quiz-Quiz-Trade.",
+          "Riset aplikasi trigonometri.",
+          "Perkenalan sudut elevasi/depresi dan klinometer.",
+          "Membuat klinometer.",
+          "Mengukur jarak/sudut objek nyata.",
+          "Memodelkan dan menghitung tinggi.",
+          "Gallery walk dan asesmen formatif."
+        ],
+        "output": "Data pengukuran, model segitiga, perhitungan tinggi objek, dan interpretasi.",
+        "source_page": "289–301"
+      },
+      {
+        "judul": "Keuangan Sehat dengan Cerdas Berliterasi Finansial",
+        "fase": "D/VII",
+        "tujuan": "Menyelesaikan masalah bilangan bulat/rasional dalam konteks jual beli, diskon, untung-rugi, belanja, dan investasi.",
+        "langkah": [
+          "Asesmen awal soal diskon.",
+          "Kelompok heterogen 3–4 murid.",
+          "Pemecahan masalah jual beli dan literasi finansial.",
+          "Diskusi dan presentasi.",
+          "Refleksi manfaat konsep.",
+          "Asesmen formatif dan tindak lanjut."
+        ],
+        "output": "Keputusan finansial berbasis perhitungan dan alasan matematis.",
+        "source_page": "280–287"
+      },
+      {
+        "judul": "Menjadi Master Tangram",
+        "fase": "B/IV",
+        "tujuan": "Menyusun dan menguraikan berbagai bangun datar.",
+        "langkah": [
+          "Asesmen awal identifikasi bangun pada motif batik.",
+          "Eksplorasi komposisi/dekomposisi dengan tangram.",
+          "Diskusi dan penyajian hasil.",
+          "Asesmen formatif.",
+          "Tantangan Tangram Master sebagai asesmen sumatif.",
+          "Refleksi."
+        ],
+        "output": "Produk susunan tangram, penjelasan bangun penyusun, dan refleksi.",
+        "source_page": "269–279"
+      },
+      {
+        "judul": "Mesin Input-Output: Fungsi Invers dan Komposisi",
+        "fase": "F",
+        "tujuan": "Memahami fungsi invers/komposisi melalui simulasi input-output dan mengaitkannya dengan konteks produksi, ekonomi, ilmu komputer, dan teknik.",
+        "langkah": [
+          "Gunakan fungsi contoh f(x)=3x−5.",
+          "Berikan input dan output untuk ditebak murid.",
+          "Murid mendiskusikan cara kerja mesin.",
+          "Murid mencoba membalik proses untuk membangun konsep invers.",
+          "Pendidik melakukan observasi sebagai asesmen."
+        ],
+        "output": "Model/pemahaman hubungan input-output, fungsi invers dan komposisi.",
+        "source_page": "210–211"
+      },
+      {
+        "judul": "Transformasi Fungsi dan Pemodelan Dunia Nyata",
+        "fase": "F",
+        "tujuan": "Memilih transformasi fungsi yang tepat untuk memodifikasi model agar sesuai data/situasi nyata.",
+        "langkah": [
+          "Eksplorasi grafik fungsi asal.",
+          "Bandingkan translasi, refleksi, dilatasi, rotasi, atau kombinasi.",
+          "Gunakan konteks optimasi biaya, jarak tempuh projektil, robotika, keuangan, astronomi, animasi/game.",
+          "Gunakan teknologi seperti GeoGebra untuk visualisasi."
+        ],
+        "output": "Model fungsi termodifikasi dan interpretasi kontekstual.",
+        "source_page": "211–213"
+      }
+    ]
+  },
+  "level_5_glosarium": [
+    [
+      "Capaian Pembelajaran (CP)",
+      "Kompetensi pembelajaran yang harus dicapai murid di akhir setiap fase.",
+      "6–7"
+    ],
+    [
+      "Alur Tujuan Pembelajaran (ATP)",
+      "Dokumen operasional yang memandu proses pembelajaran intrakurikuler dengan mengurutkan tujuan pembelajaran dalam satu fase.",
+      "7; 252–264"
+    ],
+    [
+      "Pembelajaran Mendalam",
+      "Kerangka pembelajaran yang dalam panduan berorientasi pada prinsip berkesadaran, bermakna, menggembirakan serta pengalaman memahami, mengaplikasi, merefleksi.",
+      "242–247"
+    ],
+    [
+      "Penalaran dan Pembuktian Matematis",
+      "Penalaran menggunakan pola hubungan untuk menganalisis situasi dan menyusun/menyelidiki praduga; pembuktian membuktikan kebenaran prinsip, rumus, atau teorema.",
+      "10"
+    ],
+    [
+      "Pemecahan Masalah Matematis",
+      "Proses menyelesaikan masalah matematis/sehari-hari dengan menerapkan dan mengadaptasi strategi efektif serta membangun/merekonstruksi pemahaman matematika.",
+      "10"
+    ],
+    [
+      "Komunikasi Matematis",
+      "Mengomunikasikan pemikiran matematis menggunakan bahasa matematis yang tepat serta menganalisis dan mengevaluasi pemikiran orang lain.",
+      "10"
+    ],
+    [
+      "Representasi Matematis",
+      "Membuat/menggunakan simbol, tabel, diagram, atau bentuk lain untuk mengomunikasikan gagasan dan pemodelan; termasuk berpindah representasi secara fleksibel.",
+      "10"
+    ],
+    [
+      "Koneksi Matematis",
+      "Mengaitkan materi matematika dalam satu bidang kajian, lintas bidang kajian, lintas ilmu, dan dengan kehidupan.",
+      "10"
+    ],
+    [
+      "Transformasi Fungsi",
+      "Proses pada fungsi asal dan grafiknya untuk menghasilkan versi modifikasi dengan bentuk serupa; dibedakan dari transformasi geometri karena objeknya adalah bentuk/sifat fungsi.",
+      "212"
+    ],
+    [
+      "Fungsi Invers",
+      "Dalam konteks panduan, konsep yang dipelajari melalui proses membalik kerja suatu fungsi/mesin input-output; definisi formal lengkap pada bagian glosarium PDF tidak dapat dipastikan dari berkas terlampir.",
+      "210–211"
+    ],
+    [
+      "Komposisi Fungsi",
+      "Dalam konteks panduan, fungsi yang dipahami melalui rangkaian proses input-output; definisi formal lengkap pada bagian glosarium PDF tidak dapat dipastikan dari berkas terlampir.",
+      "210–211"
+    ],
+    [
+      "Berkesadaran",
+      "Prinsip pembelajaran yang mendorong pelajar aktif, mampu meregulasi diri, dan mengembangkan strategi belajar untuk mencapai tujuan.",
+      "2–3; 242–247"
+    ],
+    [
+      "Bermakna",
+      "Pembelajaran melalui kegiatan yang menerapkan atau mengaplikasikan pengetahuan ke situasi nyata.",
+      "2–3"
+    ],
+    [
+      "Menggembirakan",
+      "Suasana belajar positif, interaktif, menantang, menyenangkan, dan memotivasi sehingga membantu mengingat, memahami, dan menerapkan pengetahuan.",
+      "2–3"
+    ]
+  ],
+  "atomic_nodes": [
+    {
+      "id_node": "MAT-CP-A-BILANGAN",
+      "level": "L2_CP",
+      "topic": "CP Fase A – Bilangan",
+      "phase": "A",
+      "element": "Bilangan",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Memiliki intuisi bilangan (number sense) pada bilangan cacah sampai 100; membaca, menulis, menentukan nilai tempat, membandingkan, mengurutkan, komposisi dan dekomposisi bilangan; penjumlahan dan pengurangan dengan benda konkret sampai 20; memahami pecahan sebagai bagian keseluruhan melalui pembagian sama banyak, dengan pengenalan setengah dan seperempat.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Bilangan",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-A-ALJABAR",
+      "level": "L2_CP",
+      "topic": "CP Fase A – Aljabar",
+      "phase": "A",
+      "element": "Aljabar",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Memahami makna simbol matematika “=” dalam kalimat matematika yang terkait penjumlahan dan pengurangan bilangan cacah sampai 20 menggunakan gambar; mengenali, meniru, dan melanjutkan pola bukan bilangan (gambar, warna, bunyi/suara).",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Aljabar",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-A-PENGUKURAN",
+      "level": "L2_CP",
+      "topic": "CP Fase A – Pengukuran",
+      "phase": "A",
+      "element": "Pengukuran",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Membandingkan panjang dan berat secara langsung; membandingkan durasi waktu; mengukur dan mengestimasi panjang dan berat menggunakan satuan tidak baku.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Pengukuran",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-A-GEOMETRI",
+      "level": "L2_CP",
+      "topic": "CP Fase A – Geometri",
+      "phase": "A",
+      "element": "Geometri",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Mengenal bangun datar (segitiga, segiempat, segi banyak, lingkaran) dan bangun ruang (balok, kubus, kerucut, bola); komposisi/dekomposisi bangun datar; menentukan posisi benda terhadap benda lain (kanan, kiri, depan, belakang, bawah, atas).",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Geometri",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-A-ANALISISDAT",
+      "level": "L2_CP",
+      "topic": "CP Fase A – Analisis Data dan Peluang",
+      "phase": "A",
+      "element": "Analisis Data dan Peluang",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Mengurutkan, menyortir, mengelompokkan, membandingkan, dan menyajikan data dari banyak benda menggunakan turus dan piktogram paling banyak 4 kategori.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Analisis Data dan Peluang",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-A-ALJABARDANF",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Aljabar dan Fungsi Fase A",
+      "phase": "A",
+      "element": "Aljabar dan Fungsi",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Pemahaman makna simbol matematika “=” sebagai penunjukkan kesamaan nilai; mengenali/meniru/melanjutkan pola bukan bilangan (gambar, suara, warna).",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Aljabar dan Fungsi",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-A-BILANGAN",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Bilangan Fase A",
+      "phase": "A",
+      "element": "Bilangan",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Intuisi bilangan cacah sampai 100; membaca/menulis; nilai tempat; membandingkan/mengurutkan; komposisi/dekomposisi; operasi penjumlahan/pengurangan sampai 20 dengan benda konkret; pecahan setengah/seperempat.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Bilangan",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-A-PENGUKURAN",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Pengukuran Fase A",
+      "phase": "A",
+      "element": "Pengukuran",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Panjang, berat, waktu dengan satuan tidak baku.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Pengukuran",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-A-GEOMETRI",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Geometri Fase A",
+      "phase": "A",
+      "element": "Geometri",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Pengenalan bangun datar/ruang; komposisi/dekomposisi; posisi relatif.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Geometri",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-A-ANALISISDAT",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Analisis Data dan Peluang Fase A",
+      "phase": "A",
+      "element": "Analisis Data dan Peluang",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Pengurutan, penyortiran, pengelompokan, perbandingan, penyajian data.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "A",
+        "Analisis Data dan Peluang",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-B-BILANGAN",
+      "level": "L2_CP",
+      "topic": "CP Fase B – Bilangan",
+      "phase": "B",
+      "element": "Bilangan",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Number sense bilangan cacah sampai 10.000; membaca, menulis, membandingkan, mengurutkan; nilai tempat; komposisi/dekomposisi sampai 10.000; operasi penjumlahan/pengurangan sampai 1.000; perkalian/pembagian sampai 100 dengan benda konkret, gambar, simbol; kelipatan dan faktor; perbandingan/pengurutan pecahan dengan pembilang satu dan penyebut sama; pecahan senilai; intuisi pecahan/desimal; pecahan sebagai desimal dan persen.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Bilangan",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-B-ALJABAR",
+      "level": "L2_CP",
+      "topic": "CP Fase B – Aljabar",
+      "phase": "B",
+      "element": "Aljabar",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Menemukan nilai yang tidak diketahui dalam kalimat matematika penjumlahan dan pengurangan bilangan cacah sampai 100 menggunakan sifat bilangan dan operasi; mengidentifikasi, meniru, dan mengembangkan pola gambar/objek sederhana serta pola bilangan membesar/mengecil yang melibatkan penjumlahan dan pengurangan sampai 100.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Aljabar",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-B-PENGUKURAN",
+      "level": "L2_CP",
+      "topic": "CP Fase B – Pengukuran",
+      "phase": "B",
+      "element": "Pengukuran",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Mengukur panjang dan berat menggunakan satuan baku; hubungan antar-satuan panjang cm dan m serta berat g dan kg; mengukur dan mengestimasi luas/volume dengan satuan tidak baku dan baku berupa bilangan cacah.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Pengukuran",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-B-GEOMETRI",
+      "level": "L2_CP",
+      "topic": "CP Fase B – Geometri",
+      "phase": "B",
+      "element": "Geometri",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Mendeskripsikan ciri bangun datar (segiempat, segitiga, segi banyak); komposisi dan dekomposisi bangun datar dengan lebih dari satu cara jika memungkinkan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Geometri",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-B-ANALISISDAT",
+      "level": "L2_CP",
+      "topic": "CP Fase B – Analisis Data dan Peluang",
+      "phase": "B",
+      "element": "Analisis Data dan Peluang",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Mengurutkan, membandingkan, menyajikan, menganalisis, dan menginterpretasi data dalam tabel, diagram gambar, piktogram, dan diagram batang skala satu satuan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Analisis Data dan Peluang",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-B-ALJABARDANF",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Aljabar dan Fungsi Fase B",
+      "phase": "B",
+      "element": "Aljabar dan Fungsi",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Penentuan nilai yang belum diketahui dalam kalimat matematika; pola gambar/objek dan pola bilangan membesar/mengecil dengan penjumlahan dan pengurangan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Aljabar dan Fungsi",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-B-BILANGAN",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Bilangan Fase B",
+      "phase": "B",
+      "element": "Bilangan",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Perluasan number sense sampai 10.000; operasi sampai 1.000 dan perkalian/pembagian sampai 100; kelipatan/faktor; pecahan dan desimal/persen.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Bilangan",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-B-PENGUKURAN",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Pengukuran Fase B",
+      "phase": "B",
+      "element": "Pengukuran",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Panjang/berat satuan baku; hubungan cm–m dan g–kg; luas/volume satuan baku/tidak baku.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Pengukuran",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-B-GEOMETRI",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Geometri Fase B",
+      "phase": "B",
+      "element": "Geometri",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Ciri bangun datar; komposisi/dekomposisi.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Geometri",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-B-ANALISISDAT",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Analisis Data dan Peluang Fase B",
+      "phase": "B",
+      "element": "Analisis Data dan Peluang",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Tabel, diagram gambar, piktogram, diagram batang.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "B",
+        "Analisis Data dan Peluang",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-C-BILANGAN",
+      "level": "L2_CP",
+      "topic": "CP Fase C – Bilangan",
+      "phase": "C",
+      "element": "Bilangan",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Number sense bilangan cacah sampai 1.000.000; membaca/menulis/nilai tempat/membandingkan/mengurutkan/komposisi/dekomposisi; masalah uang; operasi +, −, ×, ÷ bilangan cacah sampai 100.000; KPK dan FPB; perbandingan/pengurutan pecahan termasuk campuran; penjumlahan/pengurangan pecahan; perkalian/pembagian pecahan dengan bilangan asli; konversi berbagai bentuk pecahan; membandingkan/mengurutkan desimal satu angka di belakang koma.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Bilangan",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-C-ALJABAR",
+      "level": "L2_CP",
+      "topic": "CP Fase C – Aljabar",
+      "phase": "C",
+      "element": "Aljabar",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Menemukan nilai yang belum diketahui dalam kalimat matematika penjumlahan, pengurangan, perkalian, pembagian bilangan cacah sampai 1000 menggunakan sifat bilangan dan operasi; mengidentifikasi/meniru/mengembangkan pola bilangan membesar/mengecil dengan perkalian/pembagian; bernalar proporsional dengan rasio satuan; menggunakan perkalian/pembagian untuk masalah proporsi sehari-hari.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Aljabar",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-C-PENGUKURAN",
+      "level": "L2_CP",
+      "topic": "CP Fase C – Pengukuran",
+      "phase": "C",
+      "element": "Pengukuran",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Menentukan keliling dan luas segitiga, segiempat, segi banyak serta gabungannya; menghitung durasi waktu; mengukur besar sudut pada bangun datar atau dari dua garis berpotongan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Pengukuran",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-C-GEOMETRI",
+      "level": "L2_CP",
+      "topic": "CP Fase C – Geometri",
+      "phase": "C",
+      "element": "Geometri",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Mengkonstruksi dan mengurai kubus, balok, gabungan; visualisasi spasial bagian depan/atas/samping; membandingkan karakteristik bangun datar dan ruang; menentukan lokasi pada peta berpetak.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Geometri",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-C-ANALISISDAT",
+      "level": "L2_CP",
+      "topic": "CP Fase C – Analisis Data dan Peluang",
+      "phase": "C",
+      "element": "Analisis Data dan Peluang",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Mengurutkan, membandingkan, menyajikan, menganalisis data banyak benda dan hasil pengukuran dalam gambar, piktogram, diagram batang, tabel frekuensi; menentukan kejadian dengan kemungkinan lebih besar/kecil dalam percobaan acak.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Analisis Data dan Peluang",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-C-ALJABARDANF",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Aljabar dan Fungsi Fase C",
+      "phase": "C",
+      "element": "Aljabar dan Fungsi",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Kalimat matematika yang berkaitan dengan penjumlahan, pengurangan, perkalian, pembagian bilangan cacah sampai 1000; pola bilangan membesar/mengecil berkaitan perkalian dan pembagian; penyelesaian masalah rasio dan proporsi.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Aljabar dan Fungsi",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-C-BILANGAN",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Bilangan Fase C",
+      "phase": "C",
+      "element": "Bilangan",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Number sense sampai 1.000.000; operasi sampai 100.000; uang; KPK/FPB; operasi pecahan; desimal.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Bilangan",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-C-PENGUKURAN",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Pengukuran Fase C",
+      "phase": "C",
+      "element": "Pengukuran",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Keliling/luas bangun datar dan gabungan; durasi; sudut.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Pengukuran",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-C-GEOMETRI",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Geometri Fase C",
+      "phase": "C",
+      "element": "Geometri",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Konstruksi/dekomposisi kubus dan balok; visualisasi spasial; peta berpetak.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Geometri",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-C-ANALISISDAT",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Analisis Data dan Peluang Fase C",
+      "phase": "C",
+      "element": "Analisis Data dan Peluang",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Penyajian dan analisis data banyak benda/hasil pengukuran.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "C",
+        "Analisis Data dan Peluang",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-E-BILANGAN",
+      "level": "L2_CP",
+      "topic": "CP Fase E – Bilangan",
+      "phase": "E",
+      "element": "Bilangan",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Menggeneralisasi sifat-sifat bilangan berpangkat termasuk pangkat pecahan dan menggunakannya untuk menyelesaikan masalah.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "E",
+        "Bilangan",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-E-ALJABARDANF",
+      "level": "L2_CP",
+      "topic": "CP Fase E – Aljabar dan Fungsi",
+      "phase": "E",
+      "element": "Aljabar dan Fungsi",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Menyelesaikan masalah sistem pertidaksamaan linear dua variabel; persamaan dan fungsi kuadrat termasuk akar imajiner; persamaan eksponensial berbasis/bilangan pokok sama dan fungsi eksponensial.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "E",
+        "Aljabar dan Fungsi",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-E-GEOMETRI",
+      "level": "L2_CP",
+      "topic": "CP Fase E – Geometri",
+      "phase": "E",
+      "element": "Geometri",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Mengaplikasikan perbandingan trigonometri sinus, cosinus, tangen pada sudut lancip.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "E",
+        "Geometri",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-E-ANALISISDAT",
+      "level": "L2_CP",
+      "topic": "CP Fase E – Analisis Data dan Peluang",
+      "phase": "E",
+      "element": "Analisis Data dan Peluang",
+      "source_page": "12-20",
+      "source_section": null,
+      "source_text": "Jangkauan kuartil dan interkuartil; box plot; memilih/menggunakan box plot, histogram, dot plot sesuai karakteristik data; diagram pencar untuk hubungan dua variabel numerik/kuantitatif termasuk waktu; mengevaluasi laporan statistika di media termasuk tampilan, statistika, representasi data dan matriks.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "E",
+        "Analisis Data dan Peluang",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-E-ALJABARDANF",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Aljabar dan Fungsi Fase E",
+      "phase": "E",
+      "element": "Aljabar dan Fungsi",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Penyelesaian masalah sistem pertidaksamaan linear dua variabel; persamaan/fungsi kuadrat termasuk akar imajiner; persamaan eksponensial dan fungsi eksponensial.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "E",
+        "Aljabar dan Fungsi",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-E-BILANGAN",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Bilangan Fase E",
+      "phase": "E",
+      "element": "Bilangan",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Sifat bilangan berpangkat termasuk pangkat pecahan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "E",
+        "Bilangan",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-E-PENGUKURAN",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Pengukuran Fase E",
+      "phase": "E",
+      "element": "Pengukuran",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "[Data Tidak Tersedia sebagai item pemetaan terpisah pada tabel ringkas].",
+      "dependencies": [],
+      "retrieval_tags": [
+        "E",
+        "Pengukuran",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-E-GEOMETRI",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Geometri Fase E",
+      "phase": "E",
+      "element": "Geometri",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Perbandingan trigonometri pada segitiga siku-siku dan aplikasinya.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "E",
+        "Geometri",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-E-ANALISISDAT",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Analisis Data dan Peluang Fase E",
+      "phase": "E",
+      "element": "Analisis Data dan Peluang",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Kuartil, IQR, box plot, histogram, dot plot, diagram pencar, evaluasi laporan statistika.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "E",
+        "Analisis Data dan Peluang",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-D-BILANGAN",
+      "level": "L2_CP",
+      "topic": "CP Fase D – Bilangan",
+      "phase": "D",
+      "element": "Bilangan",
+      "source_page": "15–17",
+      "source_section": null,
+      "source_text": "Bilangan bulat, rasional, desimal, berpangkat bulat dan akar, notasi ilmiah; operasi aritmatika bilangan real; estimasi/perkiraan termasuk literasi finansial; rasio meliputi skala, proporsi, laju perubahan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Bilangan",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-D-ALJABAR",
+      "level": "L2_CP",
+      "topic": "CP Fase D – Aljabar",
+      "phase": "D",
+      "element": "Aljabar",
+      "source_page": "15–17",
+      "source_section": null,
+      "source_text": "Mengenali, memprediksi, menggeneralisasi pola susunan benda dan bilangan; menyatakan situasi dalam bentuk aljabar; sifat operasi komutatif, asosiatif, distributif untuk bentuk ekuivalen; relasi dan fungsi (domain, kodomain, range) dengan diagram panah, tabel, pasangan berurutan, grafik; membedakan fungsi non-linear dan linear secara grafik; persamaan/pertidaksamaan linear satu variabel; masalah relasi, fungsi, persamaan linear; sistem persamaan linear dua variabel melalui beberapa cara.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Aljabar",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-D-PENGUKURAN",
+      "level": "L2_CP",
+      "topic": "CP Fase D – Pengukuran",
+      "phase": "D",
+      "element": "Pengukuran",
+      "source_page": "15–17",
+      "source_section": null,
+      "source_text": "Keliling, luas, panjang busur, sudut, luas juring lingkaran; luas permukaan dan volume prisma, tabung, bola, limas, kerucut; pengaruh perubahan proporsional terhadap panjang, sudut, luas, dan/atau volume.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Pengukuran",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-D-GEOMETRI",
+      "level": "L2_CP",
+      "topic": "CP Fase D – Geometri",
+      "phase": "D",
+      "element": "Geometri",
+      "source_page": "15–17",
+      "source_section": null,
+      "source_text": "Jaring-jaring prisma, tabung, limas, kerucut; hubungan sudut pada dua garis berpotongan dan dua garis sejajar dipotong transversal; jumlah sudut segitiga; kekongruenan dan kesebangunan segitiga/segiempat; Teorema Pythagoras dan aplikasi termasuk bilangan irasional serta jarak dua titik pada koordinat Kartesius; transformasi tunggal refleksi, translasi, rotasi, dilatasi titik/garis/bangun datar pada koordinat Kartesius.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Geometri",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-D-ANALISISDATA",
+      "level": "L2_CP",
+      "topic": "CP Fase D – Analisis Data dan Peluang",
+      "phase": "D",
+      "element": "Analisis Data dan Peluang",
+      "source_page": "15–17",
+      "source_section": null,
+      "source_text": "Merumuskan pertanyaan, mengumpulkan, menyajikan, menganalisis data; diagram batang/lingkaran; sampel dan populasi; mean, median, modus, range; membandingkan kelompok data, memprediksi, membuat keputusan; menyelidiki perubahan ukuran pemusatan; peluang dan frekuensi relatif untuk frekuensi harapan satu kejadian dalam percobaan sederhana.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Analisis Data dan Peluang",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-D-ALJABARDANF",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Aljabar dan Fungsi Fase D",
+      "phase": "D",
+      "element": "Aljabar dan Fungsi",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Prediksi pola susunan benda dan bilangan (generalisasi pola); pengenalan unsur, sifat, dan penerapan operasi aljabar; pemahaman konsep dan penyajian relasi dan fungsi; pemahaman konsep/perbedaan/penyajian grafik fungsi linear dan non-linear; pemahaman dan penyelesaian persamaan/pertidaksamaan linear satu variabel; sistem persamaan linear dua variabel; pengenalan fungsi selain linear dan kuadrat serta sifatnya.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Aljabar dan Fungsi",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-D-BILANGAN",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Bilangan Fase D",
+      "phase": "D",
+      "element": "Bilangan",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Operasi bilangan bulat/rasional/real, pangkat/akar/notasi ilmiah, estimasi dan rasio/skala/proporsi/laju perubahan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Bilangan",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-D-PENGUKURAN",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Pengukuran Fase D",
+      "phase": "D",
+      "element": "Pengukuran",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Keliling, luas, panjang busur, sudut, luas juring; luas permukaan/volume; perubahan proporsional.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Pengukuran",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-D-GEOMETRI",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Geometri Fase D",
+      "phase": "D",
+      "element": "Geometri",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Jaring-jaring; hubungan sudut; kongruen/kesebangunan; Pythagoras; transformasi tunggal.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Geometri",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-D-ANALISISDAT",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Analisis Data dan Peluang Fase D",
+      "phase": "D",
+      "element": "Analisis Data dan Peluang",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Diagram batang/lingkaran; sampel/populasi; mean, median, modus, range; peluang empiris/frekuensi harapan.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "D",
+        "Analisis Data dan Peluang",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-F-BILANGAN",
+      "level": "L2_CP",
+      "topic": "CP Fase F – Bilangan",
+      "phase": "F",
+      "element": "Bilangan",
+      "source_page": "18",
+      "source_section": null,
+      "source_text": "Barisan dan deret aritmetika/geometri; aplikasi pada bunga tunggal/majemuk; memodelkan pinjaman dan investasi dengan bunga majemuk dan anuitas; menyelidiki secara numerik/grafis pengaruh suku bunga dan periode pembayaran.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "F",
+        "Bilangan",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-F-ALJABARDANFU",
+      "level": "L2_CP",
+      "topic": "CP Fase F – Aljabar dan Fungsi",
+      "phase": "F",
+      "element": "Aljabar dan Fungsi",
+      "source_page": "18",
+      "source_section": null,
+      "source_text": "Menentukan fungsi invers, komposisi fungsi, dan transformasi fungsi untuk memodelkan situasi dunia nyata menggunakan fungsi yang sesuai (linear, kuadrat, eksponensial).",
+      "dependencies": [],
+      "retrieval_tags": [
+        "F",
+        "Aljabar dan Fungsi",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-F-GEOMETRI",
+      "level": "L2_CP",
+      "topic": "CP Fase F – Geometri",
+      "phase": "F",
+      "element": "Geometri",
+      "source_page": "18",
+      "source_section": null,
+      "source_text": "Menerapkan, mengidentifikasi, dan menjelaskan hubungan antara unsur-unsur lingkaran untuk menyelesaikan masalah.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "F",
+        "Geometri",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-CP-F-ANALISISDATA",
+      "level": "L2_CP",
+      "topic": "CP Fase F – Analisis Data dan Peluang",
+      "phase": "F",
+      "element": "Analisis Data dan Peluang",
+      "source_page": "18",
+      "source_section": null,
+      "source_text": "Penyelidikan statistika untuk asosiasi dua variabel kategorikal dan numerikal; memperkirakan best fit linear; membedakan asosiasi dan sebab-akibat; peluang/frekuensi harapan kejadian majemuk; kejadian saling bebas dan saling lepas; peluang bersyarat dan kejadian saling bebas menggunakan permutasi dan kombinasi.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "F",
+        "Analisis Data dan Peluang",
+        "CP",
+        "kompetensi"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-F-ALJABARDAN",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Aljabar dan Fungsi Fase F",
+      "phase": "F",
+      "element": "Aljabar dan Fungsi",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Penyelesaian masalah fungsi invers, komposisi fungsi, dan transformasi fungsi.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "F",
+        "Aljabar dan Fungsi",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-F-BILANGAN",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Bilangan Fase F",
+      "phase": "F",
+      "element": "Bilangan",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Barisan dan deret aritmetika/geometri; bunga tunggal/majemuk; anuitas; model pinjaman/investasi.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "F",
+        "Bilangan",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-F-PENGUKURAN",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Pengukuran Fase F",
+      "phase": "F",
+      "element": "Pengukuran",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "[Data Tidak Tersedia sebagai item pemetaan terpisah pada tabel ringkas].",
+      "dependencies": [],
+      "retrieval_tags": [
+        "F",
+        "Pengukuran",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-F-GEOMETRI",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Geometri Fase F",
+      "phase": "F",
+      "element": "Geometri",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Hubungan unsur-unsur lingkaran.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "F",
+        "Geometri",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-ME-F-ANALISISDA",
+      "level": "L2_MATERI_ESENSIAL",
+      "topic": "Materi esensial Analisis Data dan Peluang Fase F",
+      "phase": "F",
+      "element": "Analisis Data dan Peluang",
+      "source_page": "21–29",
+      "source_section": null,
+      "source_text": "Asosiasi dua variabel; best-fit line; asosiasi vs sebab-akibat; peluang majemuk; permutasi/kombinasi; peluang bersyarat; kejadian bebas/saling lepas.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "F",
+        "Analisis Data dan Peluang",
+        "materi esensial",
+        "pemetaan"
+      ]
+    },
+    {
+      "id_node": "MAT-CASE-001",
+      "level": "L4_CONTOH_KASUS",
+      "topic": "Mesin Input-Output: Fungsi Invers dan Komposisi",
+      "phase": "F",
+      "element": null,
+      "source_page": "210–211",
+      "source_section": null,
+      "source_text": "Memahami fungsi invers/komposisi melalui simulasi input-output dan mengaitkannya dengan konteks produksi, ekonomi, ilmu komputer, dan teknik. | Gunakan fungsi contoh f(x)=3x−5. | Berikan input dan output untuk ditebak murid. | Murid mendiskusikan cara kerja mesin. | Murid mencoba membalik proses untuk membangun konsep invers. | Pendidik melakukan observasi sebagai asesmen. | Model/pemahaman hubungan input-output, fungsi invers dan komposisi.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "Mesin Input-Output: Fungsi Invers dan Komposisi",
+        "aktivitas",
+        "asesmen"
+      ]
+    },
+    {
+      "id_node": "MAT-CASE-002",
+      "level": "L4_CONTOH_KASUS",
+      "topic": "Transformasi Fungsi dan Pemodelan Dunia Nyata",
+      "phase": "F",
+      "element": null,
+      "source_page": "211–213",
+      "source_section": null,
+      "source_text": "Memilih transformasi fungsi yang tepat untuk memodifikasi model agar sesuai data/situasi nyata. | Eksplorasi grafik fungsi asal. | Bandingkan translasi, refleksi, dilatasi, rotasi, atau kombinasi. | Gunakan konteks optimasi biaya, jarak tempuh projektil, robotika, keuangan, astronomi, animasi/game. | Gunakan teknologi seperti GeoGebra untuk visualisasi. | Model fungsi termodifikasi dan interpretasi kontekstual.",
+      "dependencies": [],
+      "retrieval_tags": [
+        "Transformasi Fungsi dan Pemodelan Dunia Nyata",
+        "aktivitas",
+        "asesmen"
+      ]
+    }
+  ]
+}
